@@ -1,0 +1,31 @@
+"NCE_T4 : Autoproduction, achats et consommation d'électricité par usage en GWh selon la nomenclature des activités consommatrices d'énergie",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+,,,,,,,
+Indicateur,Autoproduction d'origine thermique,Autoproduction d'origine non thermique,Autoproduction vendue,Autoproduction consommée (1),Achats (2),Consommation (1 + 2),Usages thermiques (y compris production de froid)
+Nomenclature activités consommatrices d'énergie,,,,,,,
+Total industrie,5617,454,2143,3971,106074,110045,8954
+E12 - Industrie laitière,s,s,6,59,3287,3346,261
+E13 - Sucreries,617,0,s,s,s,1076,37
+"E14 - Industries alimentaires, hors industrie du lait et du sucre",1102,62,329,836,14751,15587,729
+E16 - Sidérurgie,s,s,13,415,10261,10676,2045
+E18 - Métallurgie de première transformation des métaux non ferreux,0,0,0,0,8325,8325,453
+E19 - Production de minéraux divers,s,0,0,s,s,207,0
+"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",1,0,0,1,2427,2428,53
+E21 - Production d'autres matériaux de construction et de céramique,9,11,0,20,2732,2752,335
+E22 - Industrie du verre,2,0,s,s,s,3478,1079
+E23 - Fabrication d'engrais,s,s,s,s,s,679,8
+E24 - Autres industries de la chimie minérale,s,s,133,266,8419,8685,39
+"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",s,s,53,270,1624,1894,83
+E26 - Autres industries de la chimie organique de base,s,s,218,307,8013,8320,257
+E28 - Parachimie et industrie pharmaceutique,2,2,1,4,2639,2643,176
+E29 - Fonderie et travail des métaux,4,15,6,12,6782,6795,1086
+E30 - Construction mécanique,1,0,0,1,2407,2409,240
+E31 - Construction électrique et électronique,3,3,s,s,s,3924,480
+E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,s,s,s,s,s,4617,286
+"E33 - Construction navale et aéronautique, armement",s,0,s,s,s,2253,319
+"E34 - Industrie textile, du cuir et de l'habillement",0,7,s,s,s,1259,69
+E35 - Industrie du papier et du carton,1324,7,713,619,6919,7538,54
+E36 - Fabrication de produits en caoutchouc,s,s,s,s,s,1126,69
+E37 - Fabrication de produits en plastique,s,2,1,s,s,5560,657
+E38 - Industries diverses,s,s,619,57,4409,4466,140
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération.",,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie 2019.",,,,,,,

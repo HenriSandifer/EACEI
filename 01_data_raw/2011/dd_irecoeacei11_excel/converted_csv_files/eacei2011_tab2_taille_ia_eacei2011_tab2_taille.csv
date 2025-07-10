@@ -1,0 +1,15 @@
+"Tab2_Taille : Autoproduction, achats et consommation d'électricité en GWh selon la tranche d'effectif de l'établissement",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+,,,,,,
+INDICATEUR,Production d'origine thermique,Production d'origine non thermique,Ventes,Autoconsommation (1),Achats (2),Consommation (1 + 2)
+TAILLE,,,,,,
+TT - Total,5715,483,2681,3517,108433,111951
+1 - 20 à 49 employés,s,17,s,46,10255,10301
+2 - 50 à 99 employés,s,s,82,121,13796,13917
+3 - 100 à 249 employés,853,101,137,817,26385,27203
+4 - 250 à 499 employés,2265,204,880,1589,26638,28227
+5 - 500 à 999 employés,413,s,219,194,16110,16305
+6 - 1 000 à 1 999 employés,385,0,211,175,6341,6515
+7 - 2 000 employés ou plus,1119,133,s,575,8908,9483
+Note : Les coefficients de conversion en tep de certaines énergies ont été actualisés pour la publication 2011.,,,,,,
+"Champ : France (hors Dom pour les IAA et scieries), établissements de 20 salariés ou plus appartenant à l'industrie (y compris IAA et scieries), hors industrie de l'énergie, y compris récupération.",,,,,,
+"Source : Insee, SSP, Enquête annuelle sur les consommations d'énergie dans l'industrie 2011, y compris IAA et scieries (calculs Insee).",,,,,,

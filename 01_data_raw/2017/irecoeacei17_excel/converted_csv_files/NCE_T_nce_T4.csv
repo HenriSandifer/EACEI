@@ -1,0 +1,31 @@
+"NCE_T4 : Autoproduction, achats et consommation d'électricité par usage en GWh selon la nomenclature des activités consommatrices d'énergie",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11
+,,,,,,,,,,,
+Indicateurs,Autoproduction d'origine thermique,Autoproduction d'origine non thermique,Autoproduction vendue,Autoproduction consommée (1),Achats (2),Consommation (1 + 2),Usage force motrice,Usages thermiques (y compris production de froid),Usage électrolyse,Usage chauffage des locaux et autres,"Usages thermodynamiques hors chauffage des locaux (Prod. froid, PAC, CMV)"
+Nomenclature activités consommatrices d'énergie,,,,,,,,,,,
+Total industrie,4669,582,1903,3349,109718,113067,68341,10308,12936,8239,13239
+E12 - Industrie laitière,s,1,s,17,3488,3505,2210,s,s,193,803
+E13 - Sucreries,661,0,0,661,392,1053,s,7,s,15,10
+"E14 - Industries alimentaires, hors industrie du lait et du sucre",1021,5,s,s,s,16202,9966,889,25,1478,3844
+E16 - Sidérurgie,194,102,7,289,10390,10679,5695,2269,2044,264,407
+E18 - Métallurgie de première transformation des métaux non ferreux,0,0,0,0,8455,8455,1025,479,6760,132,60
+E19 - Production de minéraux divers,15,0,0,15,s,s,s,s,0,16,1
+"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,0,0,s,s,s,2331,s,0,98,11
+E21 - Production d'autres matériaux de construction et de céramique,6,10,0,16,s,s,1771,458,s,181,110
+E22 - Industrie du verre,s,s,0,3,3645,3648,2119,1011,5,403,109
+E23 - Fabrication d'engrais,s,s,s,s,s,730,666,s,s,33,24
+E24 - Autres industries de la chimie minérale,543,68,s,s,s,8606,2395,39,3448,73,2651
+"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",s,s,s,s,s,1806,s,147,s,52,188
+E26 - Autres industries de la chimie organique de base,451,0,137,314,7736,8050,6887,257,46,262,599
+E28 - Parachimie et industrie pharmaceutique,14,1,s,s,s,2523,1390,177,4,374,579
+E29 - Fonderie et travail des métaux,9,302,302,9,7322,7331,4666,1452,225,760,229
+E30 - Construction mécanique,1,0,0,1,2594,2595,1446,289,8,482,371
+E31 - Construction électrique et électronique,10,0,0,10,4268,4278,2085,548,36,901,708
+E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,s,s,25,32,5014,5046,3276,406,145,553,665
+"E33 - Construction navale et aéronautique, armement",s,s,22,3,2422,2425,1152,248,25,529,471
+"E34 - Industrie textile, du cuir et de l'habillement",0,4,4,0,1281,1281,938,98,1,154,91
+E35 - Industrie du papier et du carton,1312,39,512,839,7561,8399,7892,70,5,278,154
+E36 - Fabrication de produits en caoutchouc,s,s,s,s,s,1293,975,131,3,105,78
+E37 - Fabrication de produits en plastique,2,1,1,2,5218,5220,3197,801,15,399,808
+E38 - Industries diverses,145,3,147,1,4598,4599,3638,180,8,506,268
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération.",,,,,,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie 2017.",,,,,,,,,,,

@@ -1,0 +1,28 @@
+Tab5_NCE : Répartition de la consommation d'électricité par usage en GWh selon la nomenclature des activités consommatrices d'énergie,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,,,,
+INDICATEUR,Force motrice,Usages thermiques,Autres usages y compris électrolyse,Ensemble des usages
+NCE,,,,
+Total,63781,14484,14388,92654
+E16 - Sidérurgie,6578,3446,1822,11846
+E18 - Métallurgie de première transformation des métaux non ferreux,997,534,5720,7251
+E19 - Production de minéraux divers,s,s,s,s
+"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s,s
+E21 - Production d'autres matériaux de construction et de céramique,1837,572,141,2549
+E22 - Industrie du verre,1991,813,350,3155
+E23 - Fabrication d'engrais,682,s,s,696
+E24 - Autres industries de la chimie minérale,3894,80,3076,7050
+"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",2079,225,75,2379
+E26 - Autres industries de la chimie organique de base,7172,398,146,7715
+E28 - Parachimie et industrie pharmaceutique,1765,592,164,2520
+E29 - Fonderie et travail des métaux,4932,2036,617,7585
+E30 - Construction mécanique,1629,568,220,2417
+E31 - Construction électrique et électronique,2732,1338,434,4504
+E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,3998,597,498,5093
+"E33 - Construction navale et aéronautique, armement",1116,503,320,1939
+"E34 - Industrie textile, du cuir et de l'habillement",1202,269,81,1551
+E35 - Industrie du papier et du carton,9812,329,104,10245
+E36 - Fabrication de produits en caoutchouc,1218,270,47,1535
+E37 - Fabrication de produits en plastique,3787,1423,322,5532
+E38 - Industries diverses,3327,445,165,3937
+Champ : France métropolitaine.,,,,
+Source : Enquête annuelle sur les consommations d'énergie dans l'industrie 2010.,,,,

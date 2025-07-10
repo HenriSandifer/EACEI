@@ -1,0 +1,14 @@
+"teff_T4 - Autoproduction, achats et consommation d'électricité par usage en GWh selon la tranche d'effectif de l'établissement",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11
+,,,,,,,,,,,
+INDICATEUR,Nombre d'établissements du champ,Autoproduction d'origine thermique,Autoproduction d'origine non thermique,Autoproduction vendue,Autoproduction consommée (1),Achats (2),Consommation (1 + 2),Usage force motrice,Usages thermiques (y compris production de froid),Usage électrolyse,"Usage chauffage, informatique et autres "
+TAILLE,,,,,,,,,,,
+Total,18740,5614,903,2687,3829,105792,109621,75112,16329,10819,7360
+20 à 49 employés,10164,590,18,569,39,11548,11587,8999,1455,94,1040
+50 à 99 employés,3905,68,s,s,93,12340,12433,8983,1762,782,906
+100 à 249 employés,3109,883,304,212,975,25713,26688,18686,4880,1096,2025
+250 à 499 employés,1065,2094,383,782,1695,26196,27890,19099,4656,2715,1420
+500 à 999 employés,349,523,1,280,244,15963,16207,8511,1732,5112,852
+1 000 à 1 999 employés,101,285,s,s,34,5873,5907,3390,999,s,s
+2 000 employés ou plus,47,1172,s,s,750,8158,8908,7444,845,s,s
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération. ",,,,,,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie 2012",,,,,,,,,,,

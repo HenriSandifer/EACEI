@@ -1,0 +1,22 @@
+"REG_T2 : Achats et consommation en unité propre, valeur d'achat et prix moyens des produits énergétiques selon la région",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36,Unnamed: 37,Unnamed: 38,Unnamed: 39,Unnamed: 40
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Type d'énergie,Total des énergies,,,,"Combustibles minéraux solides (houille, lignite - charbon pauvre, coke de houille)",,,,Gaz de réseau,,,,Coke de pétrole,,,,Butane propane,,,,Fioul lourd,,,,Fioul domestique,,,,Bois,,,,Vapeur,,,,Electricité,,,
+Indicateurs,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen
+Région,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Toutes régions,so,so,13279,so,9600,9891,1628,170,136676,136676,3254,24,770,780,102,132,2170,2157,924,426,269,272,114,423,373078,334243,233,0.62,2200,3636,90,41,25393,25393,561,22,109718,113067,6374,58
+Île-de-France,so,so,488,so,40,42,5,123,7861,7861,159,20,11,11,2,167,5,4,3,552,0,0,0,319,19002,17336,12,0.63,s,s,s,s,91,91,2,25,s,4996,305,61
+Centre-Val de Loire,so,so,411,so,28,28,4,127,5025,5025,131,26,47,49,6,121,9,9,6,644,4,6,1,319,10988,9384,7,0.65,28,127,3,102,71,71,2,26,3732,3798,252,68
+Bourgogne-Franche-Comté,so,so,601,so,s,s,s,s,5778,5778,151,26,0,0,0,so,20,20,12,571,s,s,s,s,20686,17588,13,0.63,68,252,1,13,1738,1738,47,27,5857,5860,357,61
+Normandie,so,so,1209,so,s,s,s,s,14799,14799,331,22,s,s,s,s,s,s,s,s,25,25,9,341,18541,17760,11,0.62,461,498,19,41,3411,3411,81,24,8340,8556,522,63
+Hauts-de-France,so,so,2718,so,s,s,s,s,27452,27452,632,23,239,236,38,158,s,s,s,s,24,24,7,273,43016,37098,26,0.61,s,s,s,s,2665,2665,54,20,21738,22925,1112,51
+Grand Est,so,so,2140,so,1745,1725,270,155,28979,28979,663,23,90,91,9,100,20,20,13,676,13,14,5,382,53197,49775,33,0.63,s,s,s,s,3435,3435,70,20,17755,18427,1051,59
+Pays de la Loire,so,so,621,so,14,15,5,313,5642,5642,156,28,42,50,3,78,21,21,14,632,10,9,5,491,26215,22838,16,0.62,s,s,s,s,1029,1029,22,21,5742,5810,397,69
+Bretagne,so,so,476,so,s,s,s,s,4899,4899,132,27,0,0,0,so,27,27,14,525,s,s,s,s,13390,12318,8,0.62,s,s,s,s,779,779,19,24,s,4277,296,69
+Nouvelle-Aquitaine,so,so,794,so,s,s,s,s,6886,6886,176,26,s,s,s,s,20,20,11,569,48,48,21,432,33574,30041,21,0.63,447,876,20,44,4882,4882,101,21,7012,7328,424,60
+Occitanie,so,so,433,so,139,140,18,131,3993,3993,107,27,75,73,8,111,8,8,6,690,17,17,7,440,22915,22077,14,0.63,s,s,s,s,546,546,11,21,s,3994,258,69
+Auvergne-Rhône-Alpes,so,so,1649,so,331,333,69,209,16257,16257,419,26,109,108,19,175,37,36,23,621,49,49,17,341,49786,42025,32,0.63,300,330,10,32,3180,3180,74,23,18607,18719,987,53
+Provence-Alpes-Côte d'Azur et Corse,so,so,1657,so,s,s,s,s,9104,9104,198,22,99,100,11,111,s,s,s,s,56,56,33,579,44246,40028,27,0.6,s,s,s,s,2665,2665,64,24,7458,7868,358,48
+Dom,so,so,81,so,0,0,0,so,1,1,0,43,0,0,0,so,1,1,1,1458,3,3,2,612,17523,15977,11,0.61,s,s,s,s,902,902,14,15,497,508,53,108
+"Note : la consommation d'énergie peut différer de la quantité achetée dans le cas d'énergies stockables (fioul par exemple), ou dans le cas de l'électricité (autoproduction consommée) et du bois (une partie non achetée).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie 2016.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

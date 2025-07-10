@@ -1,0 +1,44 @@
+Nom du fichier xlsx,EACEI_2022_SL_T1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+Date de création du fichier,2024-03-14T10:23:22,,,
+Onglet,SL_T1_avant2005,SL_T1 : Chiffres clés relatifs à la consommation d'énergie dans l'industrie (y compris IAA) avant la rupture de série de 2005,,
+Onglet,SL_T1_apres2005,SL_T1 : Chiffres clés relatifs à la consommation d'énergie dans l'industrie (y compris IAA) après la rupture de série de 2005,,
+Source,Enquête sur les consommations d'énergie dans l'industrie 2022,,,
+,,,,
+COD_VAR,LIB_VAR,COD_MOD,LIB_MOD,
+FREQ,Fréquence,A,Annuel,
+TIME_PERIOD,Période temporelle,1996 -> 2022,1996 -> 2022,
+GEO_DATE,Millésime géographique,2022,2022,
+GEO_SCOPE,Périmètre géographique,FE,France entière,
+GEO_OBJECT,Niveau géographique,NAT,Niveau national,
+GEO_OBJECT,Niveau géographique,REG,Région,
+GEO_OBJECT,Niveau géographique,FM_DOM,France métropolitaine et DOM,
+GEO,Géographie,,,
+ACTIVITY,Activité,_T,Total,
+COMPARE_TIME,Indicateur de comparabilité aux années antérieures,0_2005,Comparable aux années antérieures à 2005,
+COMPARE_TIME,Indicateur de comparabilité aux années antérieures,1_2005,Comparable aux années postérieures à 2005,
+COMPARE_TIME,Indicateur de comparabilité aux années antérieures,_Z,Non applicable,
+EACEI_MEASURE,Mesure EACEI,CONSNET_MILLIONS,Consommation nette (en millions de TEP),Consommation nette (en millions de TEP)|Consommation nette (en millions de TEP)
+EACEI_MEASURE,Mesure EACEI,FACTURE,Facture énergétique (en millions d'euros courants),Facture énergétique (en millions d'euros courants)|Facture énergétique (en millions d'euros courants)
+EACEI_MEASURE,Mesure EACEI,BR_PCT,Électricité consommée hors utilisation en tant que matière première (en %),Electricité consommée hors utilisation en tant que matière première (en %)|Electricité consommée hors utilisation en tant que matière première (en %)
+EACEI_MEASURE,Mesure EACEI,CMS_PCT,"Combustibles minéraux solides (houille,  lignite, coke de houille) consommés hors utilisation en tant que matière première (en %)","Combustibles minéraux solides (houille, lignite, coke de houille) consommés hors utilisation en tant que matière première (en %)|Combustibles minéraux solides (houille, lignite, coke de houille) consommés hors utilisation en tant que matière première (en %)"
+EACEI_MEASURE,Mesure EACEI,DR_PCT,Gaz de réseau consommé hors utilisation en tant que matière première (en %),Gaz de réseau consommé hors utilisation en tant que matière première (en %)|Gaz de réseau consommé hors utilisation en tant que matière première (en %)
+EACEI_MEASURE,Mesure EACEI,PP_PCT,Produits pétroliers (coke de pétrole,"Produits pétroliers (coke de pétrole, butane-propane, fioul lourd, fioul domestique et gazole non routier) consommés hors utilisation en tant que matière première (en %)|Produits pétroliers (coke de pétrole, butane-propane, fioul lourd, fioul domestique et gazole non routier) consommés hors utilisation en tant que matière première (en %)"
+EACEI_MEASURE,Mesure EACEI,CR_PCT,Vapeur consommée hors utilisation en tant que matière première (en %),Vapeur consommée hors utilisation en tant que matière première (en %)|Vapeur consommée hors utilisation en tant que matière première (en %)
+EACEI_MEASURE,Mesure EACEI,ENM_PCT,Autres énergies consommées hors utilisation en tant que matière première (en %),Énergies non marchandes consommées hors utilisation en tant que matière première (en %)|Énergies non marchandes consommées hors utilisation en tant que matière première (en %)
+EACEI_MEASURE,Mesure EACEI,TOT_PCT,Total (en %),Total (en %)|Total (en %)
+EACEI_MEASURE,Mesure EACEI,BR_PRIX,Prix moyen annuel de l’électricité (en € / Mwh),Prix moyen annuel de l'électricité (en € / Mwh)|Prix moyen annuel de l'électricité (en € / Mwh)
+EACEI_MEASURE,Mesure EACEI,CR_PRIX,Prix moyen annuel de la vapeur (en € / t),Prix moyen annuel de la vapeur (en € / t)|Prix moyen annuel de la vapeur (en € / t)
+EACEI_MEASURE,Mesure EACEI,GAZR_PRIX,Prix moyen annuel du gaz de réseau (en € / Mwh),Prix moyen annuel du gaz de réseau (en € / Mwh)|Prix moyen annuel du gaz de réseau (en € / Mwh)
+EACEI_MEASURE,Mesure EACEI,BIOR_PRIX,Prix moyen annuel du Biogaz et biométhane (en € /t),Prix moyen annuel du Biogaz et biométhane (en € /t)|Prix moyen annuel du Biogaz et biométhane (en € /t)
+EACEI_MEASURE,Mesure EACEI,FR_PRIX,Prix moyen annuel de la houille (en € / t),Prix moyen annuel de la houille (en € / t)|Prix moyen annuel de la houille (en € / t)
+EACEI_MEASURE,Mesure EACEI,GR_PRIX,Prix moyen annuel de la lignite,"Prix moyen annuel de la lignite, du charbon pauvre (en € / t)|Prix moyen annuel de la lignite, du charbon pauvre (en € / t)"
+EACEI_MEASURE,Mesure EACEI,HR_PRIX,Prix moyen annuel du coke de houille (en € / t),Prix moyen annuel du coke de houille (en € / t)|Prix moyen annuel du coke de houille (en € / t)
+EACEI_MEASURE,Mesure EACEI,IR_PRIX,Prix moyen annuel du coke de pétrole (en € / t),Prix moyen annuel du coke de pétrole (en € / t)|Prix moyen annuel du coke de pétrole (en € / t)
+EACEI_MEASURE,Mesure EACEI,JR_PRIX,Prix moyen annuel du butane-propane (en € / t),Prix moyen annuel du butane-propane (en € / t)|Prix moyen annuel du butane-propane (en € / t)
+EACEI_MEASURE,Mesure EACEI,KR_PRIX,Prix moyen annuel du fioul lourd (en € / t),Prix moyen annuel du fioul lourd (en € / t)|Prix moyen annuel du fioul lourd (en € / t)
+EACEI_MEASURE,Mesure EACEI,LR_PRIX,Prix moyen annuel du fioul domestique (en € / l),Prix moyen annuel du fioul domestique (en € / l)|Prix moyen annuel du fioul domestique (en € / l)
+EACEI_MEASURE,Mesure EACEI,QR_PRIX,Prix moyen annuel du gazole non routier (en € / l),Prix moyen annuel du gazole non routier (en € / l)|Prix moyen annuel du gazole non routier (en € / l)
+EACEI_MEASURE,Mesure EACEI,OR_PRIX,Prix moyen annuel du bois (en € / t),Prix moyen annuel du bois (en € / t)|Prix moyen annuel du bois (en € / t)
+EACEI_MEASURE,Mesure EACEI,PR_PRIX,Prix moyen annuel d’hydrogène (en €/t),Prix moyen annuel d’hydrogène (en €/t)|Prix moyen annuel d’hydrogène (en €/t)
+EACEI_MEASURE,Mesure EACEI,_T,Total,
+NUMBER_EMPL,Taille de l'entreprise/établissement,_T,Total,

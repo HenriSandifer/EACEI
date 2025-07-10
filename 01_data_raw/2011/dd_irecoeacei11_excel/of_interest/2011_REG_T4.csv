@@ -1,0 +1,29 @@
+"tab2_region - Autoproduction, achats et consommation d'électricité en GWh selon la région",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+,,,,,,
+INDICATEUR,Production d'origine thermique,Production d'origine non thermique,Ventes,Autoconsommation (1),Achats (2),Consommation (1 + 2)
+REGION,,,,,,
+Toutes régions,3774,469,1942,2302,90127,92429
+Ile-de-France,71,s,27,45,4793,4837
+Champagne-Ardenne,s,s,s,s,2620,s
+Picardie,s,0,s,s,3084,s
+Haute-Normandie,475,1,152,323,5199,5522
+Centre,90,s,68,s,3149,s
+Basse-Normandie,2,0,0,2,1158,1160
+Bourgogne,1,s,0,1,2068,2069
+Nord-Pas-de-Calais,110,s,50,130,14603,14733
+Lorraine,393,99,290,202,8073,8275
+Alsace,118,s,68,58,4623,4681
+Franche-Comté,s,s,s,s,3046,s
+Pays de la Loire,71,s,67,5,3593,3598
+Bretagne,2,0,1,2,1650,1652
+Poitou-Charentes,3,0,0,s,1747,s
+Aquitaine,372,1,75,298,4169,4467
+Midi-Pyrénées,315,67,120,262,2049,2312
+Limousin,26,1,s,s,710,s
+Rhône-Alpes,663,190,726,127,13551,13679
+Auvergne,s,0,s,1,1949,1951
+Languedoc-Roussillon,s,s,24,s,1534,s
+PACA et Corse,723,0,27,695,6525,7220
+DOM,3,0,1,3,233,236
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie hors IAA et scieries, hors industrie de l'énergie, y compris récupération.",,,,,,
+"Source : Insee, enquête annuelle sur les consommations d'énergie dans l'industrie 2011.",,,,,,

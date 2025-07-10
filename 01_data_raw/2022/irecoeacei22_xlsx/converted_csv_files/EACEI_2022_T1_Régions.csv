@@ -1,0 +1,23 @@
+REG_T1 : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP) et nombre d'établissements selon la région,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,Nombre d’établissements,"Combustibles minéraux solides (houille, lignite, charbon pauvre,  coke de houille)",Quantités de gaz naturel et autres gaz consommées,Biogaz et biométhane,Coke de pétrole,Butane propane,Fioul lourd,Quantités de fioul domestique consommées,Quantités de gazole non routier consommées,Total combustibles usuels,Autres produits pétroliers,Liqueurs noires,Bois et sous-produit du bois,Quantités d’hydrogène consommées,Combustibles spéciaux renouvelables,Combustibles spéciaux non renouvelables,Total autres combustibles,Achats de vapeur,Électricité,Total brut de la consommation (en milliers de TEP),Vapeur vendue,Consommation pour production d'électricité,Total net de la consommation (en milliers de TEP)
+,,,,,,,,,,,,,,,,,,,,,,,
+Île-de-France,1661,8.2,406.9,1.9,1.4,1.8,0.1,2.1,12.8,433.2,0,0,s,0.1,s,s,s,s,420.5,893.5,s,s,892
+Centre-Val de Loire,1016,31.8,336.8,2.3,29.5,9.2,s,s,4.9,418,0,0,30.5,0.2,4.5,s,s,s,296,757.2,0,42.4,714.8
+Bourgogne-Franche-Comté,1328,11.6,416,2.5,s,20.8,s,4.3,12,467.6,s,0,111.9,64,s,s,193.2,129.1,495.4,1285.4,s,s,1222.4
+Normandie,1235,s,1096,1.3,s,s,s,s,s,1715.9,656.6,0,43.4,s,s,0.7,895,230.3,598.9,3440.1,3.6,9.8,3426.7
+Hauts-de-France,1970,s,1830.4,s,s,s,s,9.5,19.8,4351.4,s,0,42.3,s,s,80.8,346.2,177.9,1871,6746.5,14.6,241,6490.9
+Grand Est,2045,449.6,2096.1,18.5,73,16.8,s,s,24.2,2671.3,s,0,393.4,s,62.3,121.6,619.3,268.4,1329.7,4888.7,102.1,149.5,4636.6
+Pays de la Loire,1849,s,371.4,4.2,s,s,2.9,6.3,12.3,460.4,0,0,50.6,0.9,22.9,34.1,108.5,65.7,524,1158.6,0,2.1,1156.5
+Bretagne,1235,0,354.6,0.5,0,20.7,1.4,5,15.4,397.1,0,s,s,0,0,0,5.7,70.4,382.4,855.6,4.2,3.1,848.2
+Nouvelle-Aquitaine,1986,66.5,522.7,6.8,s,25.2,26.8,4.6,s,692,s,508.3,311.3,0.3,s,83.5,932.8,327.9,657.4,2610.2,s,s,2281.1
+Occitanie,1401,44.3,311.8,3.1,45.3,12.2,17.7,4.6,21.4,457.4,0,s,s,s,4.2,30.4,192.8,49.2,399.3,1098.7,s,s,1095.4
+Auvergne-Rhône-Alpes,3552,156.2,1157.6,8.5,145.4,74.1,28.9,11.5,15.4,1589.2,38.5,0,72.6,7.3,17.2,57.8,193.4,217.6,1550,3550.2,s,s,3517.8
+Provence-Alpes-Côte d'Azur,842,s,655.1,s,s,839,s,s,12.2,3247.5,202.9,s,s,110.4,22.8,26.8,480.6,240.1,667.2,4635.4,16,43.2,4576.2
+Département d’Outre-Mer,326,0,8.1,7.1,0,0.8,0,10.1,9.7,28.6,s,0,s,s,5.6,0,s,s,46,107,0,1.7,105.3
+France entière,20446,4564.6,9563.3,s,624.5,1716.9,131.6,140.7,188,16929.6,1102.7,s,1095.9,376.9,s,449.3,4013.3,1846.3,9238,32027.1,270.7,791.8,30963.9
+,,,,,,,,,,,,,,,,,,,,,,,
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération.",,,,,,,,,,,,,,,,,,,,,,,
+Source : Enquête sur les consommations d'énergie dans l'industrie 2022,,,,,,,,,,,,,,,,,,,,,,,
+"Note : la consommation d'énergie peut différer de la quantité achetée dans le cas d'énergies stockables (fioul par exemple), ou dans le cas de l'électricité (autoproduction consommée) et du bois (une partie non achetée).",,,,,,,,,,,,,,,,,,,,,,,

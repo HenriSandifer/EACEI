@@ -1,0 +1,29 @@
+"REG_T4 : Autoproduction, achats et consommation d'électricité par usage en GWh selon la région",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"Autoproduction, achats et consommation
+d'électricité par usage en GWh","Autoproduction d'origine
+thermique","Autoproduction d'origine non
+thermique",Autoproduction électricité,Autoproduction vendue,Autoproduction consommée (1),Achats (2),Consommation (1 + 2),Usage force motrice,"Usages thermiques (y compris
+production de froid)",Usage électrolyse,"Usage chauffage des locaux et
+autres","Usages thermodynamiques hors
+chauffage des locaux (Prod.
+froid, PAC, CMV)",Usage éclairage,Usage mobilité sur site
+Région,,,,,,,,,,,,,,
+Toutes régions,5760.6,1024.1,6784.7,2775.8,4008.8,105892.5,109901.3,59994.8,9739.6,12806.3,6694.1,15540,3694.8,260
+Île-de-France,80.2,0.4,80.6,s,s,s,4412.9,2134.2,536,s,484.1,960.5,s,12.4
+Centre-Val de Loire,366.1,2,368.1,160.9,207.2,3428,3635.2,2062.7,277.7,2.6,381.1,614.2,139.2,14.3
+Bourgogne-Franche-Comté,44.6,0.6,45.2,s,s,s,5458.3,2836.3,555.2,s,360.5,558.7,s,8.6
+Normandie,608.4,2.1,610.5,s,s,s,7451,4999.8,444.8,48.7,339.6,1020.5,309.3,16.2
+Hauts-de-France,1377.7,11.1,1388.8,52.1,1336.7,19623.2,20959.9,10308.3,2035.8,4990.7,925.3,2064.1,512.1,33.7
+Grand Est,1107.9,20.3,1128.1,483.6,644.6,16549,17193.6,11890.8,1564.5,166.4,679.4,2149.3,641,38.5
+Pays de la Loire,63.8,24.1,87.9,22.3,65.6,5262.3,5327.8,2891.4,510.2,s,533.3,1100.4,232.9,s
+Bretagne,s,s,65.2,s,s,s,4447.7,2439.5,329.1,s,323.2,1099.3,s,s
+Nouvelle-Aquitaine,880.1,735.3,1615.4,1030.6,584.8,7754.1,8338.9,4855.6,766.7,446.1,551.2,1091,244.6,20.9
+Occitanie,s,s,383,s,s,s,4996.3,2310.2,605.6,661.7,429.3,750.5,199.2,14.9
+Auvergne-Rhône-Alpes,286.4,51.6,338,91.5,246.5,18473.1,18719.6,8369,1908.8,3921.2,1337.9,2465.1,554.1,44.4
+Provence-Alpes-Côte d'Azur et Corse,647.9,4.4,652.3,360.6,291.7,8070.9,8362.6,4592.1,197.7,1523.4,321.7,1459.4,250.4,5.2
+Dom,s,s,21.5,s,s,s,597.3,304.9,7.5,0.3,27.6,207.1,32.2,6
+,,,,,,,,,,,,,,
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération.",,,,,,,,,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie 2021.",,,,,,,,,,,,,,

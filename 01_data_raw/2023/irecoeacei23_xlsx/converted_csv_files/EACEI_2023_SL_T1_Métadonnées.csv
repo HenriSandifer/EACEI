@@ -1,0 +1,50 @@
+Nom du fichier xlsx,EACEI_2023_SL_T1,Unnamed: 2,Unnamed: 3
+Date de création du fichier,2025-05-16T11:55:23,,
+Onglet,SL_T1_avant2005,SL_T1 : Chiffres clés relatifs à la consommation d'énergie dans l'industrie (y compris IAA) avant la rupture de série de 2005,
+Onglet,SL_T1_apres2005,SL_T1 : Chiffres clés relatifs à la consommation d'énergie dans l'industrie (y compris IAA) après la rupture de série de 2005,
+Source,Enquête sur les consommations d'énergie dans l'industrie 2023,,
+,,,
+COD_VAR,LIB_VAR,COD_MOD,LIB_MOD
+FREQ,Fréquence,A,Annuel
+TIME_PERIOD,Période temporelle,1996 -> 2023,1996 -> 2023
+GEO_DATE,Millésime géographique,2023,2023
+GEO_SCOPE,Périmètre géographique,FE,France entière
+GEO,Géographie,,
+ACTIVITY,Activité économique,_T,Total
+COMPARE_TIME,Indicateur de comparabilité aux années antérieures,0_2005,Comparable aux années antérieures à 2005
+COMPARE_TIME,Indicateur de comparabilité aux années antérieures,1_2005,Comparable aux années postérieures à 2005
+COMPARE_TIME,Indicateur de comparabilité aux années antérieures,_Z,Non applicable
+EACEI_MEASURE,Mesure,FACTURE,Facture énergétique
+EACEI_MEASURE,Mesure,KR_PRIX,Prix moyen annuel du fioul lourd
+EACEI_MEASURE,Mesure,BR_PCT,Électricité consommée hors utilisation en tant que matière première
+EACEI_MEASURE,Mesure,IR_PRIX,Prix moyen annuel du coke de pétrole
+EACEI_MEASURE,Mesure,FR_PRIX,Prix moyen annuel de la houille
+EACEI_MEASURE,Mesure,HR_PRIX,Prix moyen annuel du coke de houille
+EACEI_MEASURE,Mesure,GAZR_PRIX,Prix moyen annuel du gaz de réseau
+EACEI_MEASURE,Mesure,CR_PRIX,Prix moyen annuel de la vapeur
+EACEI_MEASURE,Mesure,LR_PRIX,Prix moyen annuel du fioul domestique
+EACEI_MEASURE,Mesure,CONSBRT_MILLIONS,Consommation brute
+EACEI_MEASURE,Mesure,PP_PCT,Produits pétroliers consommés hors utilisation en tant que matière première
+EACEI_MEASURE,Mesure,DR_PCT,Gaz de réseau consommé hors utilisation en tant que matière première
+EACEI_MEASURE,Mesure,CMS_PCT,Combustibles minéraux solides consommés hors utilisation en tant que matière première
+EACEI_MEASURE,Mesure,BIOR_PRIX,Prix moyen annuel du biogaz et biométhane
+EACEI_MEASURE,Mesure,JR_PRIX,Prix moyen annuel du butane-propane
+EACEI_MEASURE,Mesure,ENM_PCT,Autres énergies consommées hors utilisation en tant que matière première
+EACEI_MEASURE,Mesure,GR_PRIX,Prix moyen annuel de la lignite
+EACEI_MEASURE,Mesure,CR_PCT,Vapeur consommée hors utilisation en tant que matière première
+EACEI_MEASURE,Mesure,BR_PRIX,Prix moyen annuel de l’électricité
+EACEI_MEASURE,Mesure,QR_PRIX,Prix moyen annuel du gazole non routier
+EACEI_MEASURE,Mesure,CONSNET_MILLIONS,Consommation nette
+EACEI_MEASURE,Mesure,OR_PRIX,Prix moyen annuel du bois
+EACEI_MEASURE,Mesure,PR_PRIX,Prix moyen annuel d’hydrogène
+NUMBER_EMPL,Taille en tranches d'effectifs,_T,Total
+UNIT_MEASURE,Unité de mesure,EUR,Euros
+UNIT_MEASURE,Unité de mesure,EUR_GWH,Euros par gigawattheure
+UNIT_MEASURE,Unité de mesure,EUR_L,Euros par litre
+UNIT_MEASURE,Unité de mesure,EUR_T,Euros par tonne
+UNIT_MEASURE,Unité de mesure,GWH,Gigawattheure
+UNIT_MEASURE,Unité de mesure,L,Litre
+UNIT_MEASURE,Unité de mesure,PT,Pourcentage
+UNIT_MEASURE,Unité de mesure,T,Tonne
+UNIT_MEASURE,Unité de mesure,TOE,Tonnes d'équivalent pétrole
+UNIT_MEASURE,Unité de mesure,_Z,Nombre

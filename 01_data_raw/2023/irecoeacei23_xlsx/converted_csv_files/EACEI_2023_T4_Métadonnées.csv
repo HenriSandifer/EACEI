@@ -1,0 +1,72 @@
+Nom du fichier xlsx,EACEI_2023_T4,Unnamed: 2,Unnamed: 3
+Date de création du fichier,2025-05-16T11:55:21,,
+Onglet,Secteur d'activité,"NAF_T4 : Autoproduction, achats et consommation d'électricité par usage en GWh selon le secteur d'activité en NAF rév.2",
+Onglet,Effectif,"TEFF_T4 : Autoproduction, achats et consommation d'électricité par usage en GWh selon la tranche d'effectif de l'établissement",
+Onglet,Région,"REG_T4 : Autoproduction, achats et consommation d'électricité par usage en GWh selon la région",
+Source,Enquête sur les consommations d'énergie dans l'industrie 2023,,
+,,,
+COD_VAR,LIB_VAR,COD_MOD,LIB_MOD
+FREQ,Fréquence,A,Annuel
+TIME_PERIOD,Période temporelle,2023 -> 2023,2023 -> 2023
+GEO_DATE,Millésime géographique,2023,2023
+GEO_SCOPE,Périmètre géographique,FE,France entière
+GEO_OBJECT,Niveau géographique,OTHER,Autre type de territoires
+GEO_OBJECT,Niveau géographique,FRANCE,France
+GEO_OBJECT,Niveau géographique,REG,Région
+GEO,Géographie,,
+ACTIVITY,Activité économique,B07T09,"Industries extractives (à l’exception de l’extraction de houille, de lignite et d’hydrocarbures)"
+ACTIVITY,Activité économique,C10T12,"Fabrication de denrées alimentaires, de boissons et de produits à base de tabac"
+ACTIVITY,Activité économique,13,Fabrication de textiles
+ACTIVITY,Activité économique,14,Industrie de l'habillement
+ACTIVITY,Activité économique,15,Industrie du cuir et de la chaussure
+ACTIVITY,Activité économique,16,"Travail du bois et fabrication d'articles en bois et en liège, à l’exception des meubles ; fabrication d’articles en vannerie et sparterie"
+ACTIVITY,Activité économique,17,Industrie du papier et du carton
+ACTIVITY,Activité économique,18,Imprimerie et reproduction d'enregistrements
+ACTIVITY,Activité économique,20,Industrie chimique
+ACTIVITY,Activité économique,21,Industrie pharmaceutique
+ACTIVITY,Activité économique,22,Fabrication de produits en caoutchouc et en plastique
+ACTIVITY,Activité économique,23,Fabrication d'autres produits minéraux non métalliques
+ACTIVITY,Activité économique,24,Métallurgie
+ACTIVITY,Activité économique,25,"Fabrication de produits métalliques, à l'exception des machines et des équipements"
+ACTIVITY,Activité économique,26,"Fabrication de produits informatiques, électroniques et optiques"
+ACTIVITY,Activité économique,27,Fabrication d'équipements électriques
+ACTIVITY,Activité économique,28,Fabrication de machines et équipements n.c.a.
+ACTIVITY,Activité économique,29,Industrie automobile
+ACTIVITY,Activité économique,30,Fabrication d'autres matériels de transport
+ACTIVITY,Activité économique,31,Fabrication de meubles
+ACTIVITY,Activité économique,32,Autres industries manufacturières
+ACTIVITY,Activité économique,33,Réparation et installation de machines et d'équipements
+ACTIVITY,Activité économique,38,"Collecte, traitement et élimination des déchets ; récupération"
+ACTIVITY,Activité économique,_T,Total
+COMPARE_TIME,Indicateur de comparabilité aux années antérieures,1_2005,Comparable aux années postérieures à 2005
+COMPARE_TIME,Indicateur de comparabilité aux années antérieures,_Z,Non applicable
+EACEI_MEASURE,Mesure,BR_THER,Électricité produite d’origine thermique
+EACEI_MEASURE,Mesure,BR_NTHE,Production d’électricité d’origine non thermique
+EACEI_MEASURE,Mesure,BR_PROD,Électricité autoproduite
+EACEI_MEASURE,Mesure,BR_VEND,Électricité produite et vendue
+EACEI_MEASURE,Mesure,BR_AUCO,Quantité d’électricité produite et consommée
+EACEI_MEASURE,Mesure,BR_QAUP,Électricité achetée
+EACEI_MEASURE,Mesure,BR_CSUP,Consommation d’électricité
+EACEI_MEASURE,Mesure,BR_USQ1,Électricité : usage force motrice
+EACEI_MEASURE,Mesure,BR_USQ2,"Électricité : usages thermiques, y compris production de froid "
+EACEI_MEASURE,Mesure,BR_USQ4,Électricité : usage électrolyse
+EACEI_MEASURE,Mesure,BR_USQ6,Électricité : usage chauffage des locaux et autres
+EACEI_MEASURE,Mesure,BR_USQ7,Électricité : usages thermodynamiques hors chauffage des locaux
+EACEI_MEASURE,Mesure,BR_USQ8,Électricité : usage éclairage
+EACEI_MEASURE,Mesure,BR_USQ9,Électricité : usage mobilité sur site
+NUMBER_EMPL,Taille en tranches d'effectifs,E20T49,20 à 49 salariés
+NUMBER_EMPL,Taille en tranches d'effectifs,E50T99,50 à 99 salariés
+NUMBER_EMPL,Taille en tranches d'effectifs,E100T249,100 à 249 salariés
+NUMBER_EMPL,Taille en tranches d'effectifs,E250T499,250 à 499 salariés
+NUMBER_EMPL,Taille en tranches d'effectifs,E_GE500,500 salariés et plus
+NUMBER_EMPL,Taille en tranches d'effectifs,_T,Total
+UNIT_MEASURE,Unité de mesure,EUR,Euros
+UNIT_MEASURE,Unité de mesure,EUR_GWH,Euros par gigawattheure
+UNIT_MEASURE,Unité de mesure,EUR_L,Euros par litre
+UNIT_MEASURE,Unité de mesure,EUR_T,Euros par tonne
+UNIT_MEASURE,Unité de mesure,GWH,Gigawattheure
+UNIT_MEASURE,Unité de mesure,L,Litre
+UNIT_MEASURE,Unité de mesure,PT,Pourcentage
+UNIT_MEASURE,Unité de mesure,T,Tonne
+UNIT_MEASURE,Unité de mesure,TOE,Tonnes d'équivalent pétrole
+UNIT_MEASURE,Unité de mesure,_Z,Nombre

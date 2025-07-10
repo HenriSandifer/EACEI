@@ -1,0 +1,31 @@
+NCE_T1 : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP) et nombre d'établissements selon la nomenclature des activités consommatrices d'énergie en 2014,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23
+,,,,,,,,,,,,,,,,,,,,,,,
+Indicateurs,Nombre d'établissements,Houille,Lignite - charbon pauvre,Coke de houille,Gaz de réseau,Coke de pétrole,Butane propane,Fioul lourd,Fioul domestique,Total combustibles usuels,Autres produits pétroliers,Liqueurs noires,Bois et sous-produit du bois,Combustibles spéciaux renouvelables,Combustibles spéciaux non renouvelables,Total autres combustibles,Total combustibles,Achats de vapeur,Electricité,Total brut,Vapeur vendue,Consommation pour production d'électricité,Total net
+Nomenclature activités consommatrices d'énergie,,,,,,,,,,,,,,,,,,,,,,,
+Total industrie,20876,5157,s,452,10719,740,2632,s,252,20629,1261,s,855,s,495,3663,24292,1584,9521,35397,483,711,34202
+E12 - Industrie laitière,398,0,0,0,434,0,21,33,5,493,0,0,s,s,0,30,523,22,282,827,ns,ns,810
+E13 - Sucreries,31,49,s,13,458,s,0,s,3,570,0,0,0,3,0,3,573,64,69,706,ns,ns,604
+"E14 - Industries alimentaires, hors industrie du lait et du sucre",2792,34,69,0,1532,0,65,38,23,1762,0,0,46,27,0,74,1836,83,1235,3154,ns,ns,2969
+E16 - Sidérurgie,67,s,s,172,615,13,4,s,13,5303,s,0,s,0,s,30,5333,17,1052,6402,ns,ns,6351
+E18 - Métallurgie de première transformation des métaux non ferreux,89,s,s,0,249,82,2,5,4,347,0,0,0,0,0,0,347,s,491,845,ns,ns,845
+E19 - Production de minéraux divers,65,0,0,0,12,0,s,s,13,25,0,0,0,0,0,0,26,s,22,56,ns,ns,55
+"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",72,158,52,s,263,623,s,34,15,1147,73,0,43,91,334,541,1688,7,224,1919,ns,ns,1919
+E21 - Production d'autres matériaux de construction et de céramique,853,s,s,s,457,19,8,s,65,587,7,0,s,s,s,47,634,s,225,864,ns,ns,863
+E22 - Industrie du verre,225,0,0,s,821,s,s,82,3,911,0,0,0,0,0,0,911,s,290,1203,ns,ns,1202
+E23 - Fabrication d'engrais,37,0,0,0,867,0,s,s,2,873,0,0,29,0,0,29,902,0,62,964,ns,ns,945
+E24 - Autres industries de la chimie minérale,90,s,s,49,864,0,1,s,2,1338,222,0,0,0,1,223,1561,228,763,2551,ns,ns,2468
+"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",95,s,0,0,s,0,s,s,0,1221,s,0,0,0,s,591,1812,81,222,2115,ns,ns,2077
+E26 - Autres industries de la chimie organique de base,365,0,0,0,s,s,s,s,6,2692,365,s,35,63,s,494,3186,516,585,4287,ns,ns,4015
+E28 - Parachimie et industrie pharmaceutique,662,0,0,0,181,0,s,s,5,211,s,0,s,0,0,8,220,17,233,470,ns,ns,465
+E29 - Fonderie et travail des métaux,3825,14,s,160,531,s,35,s,13,757,0,0,1,0,139,140,898,4,673,1575,ns,ns,1574
+E30 - Construction mécanique,2406,0,0,0,141,0,9,1,7,159,0,0,1,0,0,2,160,1,241,402,ns,ns,401
+E31 - Construction électrique et électronique,1492,0,0,s,158,0,s,s,5,188,s,0,s,s,s,1,188,1,375,564,ns,ns,563
+E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,701,0,0,9,289,0,10,2,10,320,s,0,2,0,s,3,323,14,404,740,ns,ns,737
+"E33 - Construction navale et aéronautique, armement",372,0,0,0,105,0,3,1,2,111,0,0,6,0,0,6,116,8,198,323,ns,ns,322
+"E34 - Industrie textile, du cuir et de l'habillement",1104,0,0,0,114,0,11,2,4,132,s,0,s,0,0,0,132,s,115,253,ns,ns,253
+E35 - Industrie du papier et du carton,569,s,0,0,910,0,s,s,5,983,s,757,298,61,s,1121,2104,412,752,3268,ns,ns,2893
+E36 - Fabrication de produits en caoutchouc,174,0,0,0,91,0,s,s,1,92,0,0,14,0,0,14,106,40,119,264,ns,ns,244
+E37 - Fabrication de produits en plastique,1365,0,0,0,132,0,12,8,6,157,0,0,2,0,0,2,159,21,490,670,ns,ns,670
+E38 - Industries diverses,3028,0,0,0,191,0,12,10,39,251,0,s,278,s,s,302,553,21,400,974,ns,ns,957
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération.",,,,,,,,,,,,,,,,,,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie en 2014.",,,,,,,,,,,,,,,,,,,,,,,

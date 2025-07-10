@@ -1,0 +1,29 @@
+REG_T1 : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP) et nombre d'établissements selon la région en 2013,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23
+,,,,,,,,,,,,,,,,,,,,,,,
+Indicateurs,Nombre d'établissements,Houille,Lignite - charbon pauvre,Coke de houille,Gaz de réseau,Coke de pétrole,Butane propane,Fioul lourd,Fioul domestique,Total combustibles usuels,Autres produits pétroliers,Liqueurs noires,Bois et sous-produit du bois,Combustibles spéciaux renouvelables,Combustibles spéciaux non renouvelables,Total autres combustibles,Total combustibles,Achats de vapeur,Electricité,Total brut,Vapeur vendue,Consommation pour production d'électricité,Total net
+Région,,,,,,,,,,,,,,,,,,,,,,,
+Toutes régions,20583,5196,172,322,11251,766,2052,700,266,20724,1107,804,891,324,353,3479,24203,1723,9722,35648,552,825,34271
+Ile-de-France,1799,30,0,1,728,s,6,4,10,s,s,0,s,s,0,s,802,11,470,1283,ns,ns,1273
+Champagne-Ardenne,551,s,29,16,442,s,11,43,12,634,s,0,61,14,s,78,712,45,288,1045,ns,ns,990
+Picardie,811,17,22,13,753,0,29,53,8,895,4,0,s,2,s,10,905,131,392,1428,ns,ns,1298
+Haute-Normandie,654,s,0,2,1178,s,s,57,8,1755,s,0,88,71,s,645,2400,208,543,3151,ns,ns,3071
+Centre,1091,19,0,2,406,51,10,23,9,521,0,0,35,s,s,41,562,0,326,887,ns,ns,868
+Basse-Normandie,560,0,0,s,199,s,12,s,8,254,s,0,s,s,0,s,s,s,181,456,ns,ns,452
+Bourgogne,635,0,0,0,242,0,6,s,s,262,0,0,s,s,0,35,297,12,223,531,ns,ns,525
+Nord-Pas-de-Calais,1265,s,s,88,1376,112,s,28,24,4033,s,0,s,2,s,297,4330,106,1442,5877,ns,ns,5786
+Lorraine,768,872,65,134,777,s,s,3,15,1903,s,0,76,s,59,379,2282,51,734,3067,ns,ns,3016
+Alsace,829,s,0,s,1077,s,10,5,9,1125,s,0,65,s,s,163,1288,41,430,1758,ns,ns,1687
+Franche-Comté,635,93,0,11,190,s,16,s,6,322,s,0,26,s,s,37,358,36,281,675,ns,ns,666
+Pays de la Loire,1864,s,s,9,476,65,30,26,22,630,s,0,30,s,s,92,722,82,518,1322,ns,ns,1295
+Bretagne,1265,s,0,0,367,0,30,23,s,448,0,s,s,s,0,55,502,48,369,920,ns,ns,909
+Poitou-Charentes,651,55,0,0,182,67,14,36,16,371,s,0,27,s,29,85,456,10,185,651,ns,ns,628
+Aquitaine,831,s,0,0,268,s,10,94,12,432,0,339,186,33,6,564,996,310,434,1740,ns,ns,1600
+Midi-Pyrénées,856,s,0,s,206,s,11,13,9,281,s,s,s,s,s,202,483,23,234,740,ns,ns,728
+Limousin,349,0,0,s,97,0,5,3,3,s,0,s,14,s,0,s,318,21,78,417,ns,ns,414
+Rhône-Alpes,3073,121,s,s,1141,123,30,51,29,1504,11,0,78,28,49,166,1670,263,1297,3230,ns,ns,3053
+Auvergne,497,s,0,22,254,s,8,10,5,311,0,0,17,s,s,23,334,25,221,581,ns,ns,571
+Languedoc-Roussillon,514,61,0,0,146,26,10,3,10,256,s,0,17,s,30,s,s,s,150,461,ns,ns,458
+PACA et Corse,854,s,s,0,738,s,1186,201,18,3854,127,s,s,9,16,314,4168,225,891,5284,ns,ns,4841
+DOM,231,0,0,0,7,0,s,1,10,s,2,0,s,12,s,s,39,69,36,144,ns,ns,142
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération.",,,,,,,,,,,,,,,,,,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie en 2013.",,,,,,,,,,,,,,,,,,,,,,,

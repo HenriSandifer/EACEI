@@ -1,0 +1,31 @@
+Tab1_Région : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP) selon la région,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24
+INDICATEUR : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP),,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ENERGIES,Houille,Lignite - charbon pauvre,Coke de houille,Gaz naturel de réseau,Autres gaz de réseau,Coke de pétrole,Butane propane,Fioul lourd,Fioul domestique,Total combustibles usuels,Autres produits pétroliers,Liqueurs noires,Bois et sous-produit du bois,Combustibles spéciaux renouvelables,Combustibles spéciaux non renouvelables,Total autres combustibles,Total combustibles,Achats de vapeur,Achats d'électricité,Autoconsommation d'électricité,Total brut,Ventes de vapeur,Consommation pour production d'électricité,Total net
+REGION,,,,,,,,,,,,,,,,,,,,,,,,
+TT - Toutes régions,4614,303,529,10880,90,771,1602,1010,294,20093,1330,870,695,236,390,3521,23614,1465,9325,302,34707,314,1178,33215
+11 - Ile-de-France,43,0,1,582,7,6,8,11,11,669,s,0,0,s,0,3,672,24,449,5,1151,1,27,1123
+21 - Champagne-Ardenne,s,53,18,443,1,s,13,80,13,675,s,0,s,s,s,125,800,s,307,s,1179,s,s,1115
+22 - Picardie,15,s,s,789,2,0,22,58,10,931,14,0,s,s,s,29,960,s,338,s,1408,s,s,1312
+23 - Haute-Normandie,25,10,1,1019,s,s,s,111,11,1476,390,0,117,s,17,575,2051,186,501,32,2770,16,89,2665
+24 - Centre,39,0,6,397,0,36,14,28,12,532,s,0,31,6,s,40,572,s,320,s,910,0,22,887
+25 - Basse-Normandie,0,0,1,170,s,s,13,14,11,237,s,0,12,s,s,20,257,0,171,2,430,1,3,427
+26 - Bourgogne,0,0,s,237,1,s,6,25,9,284,4,0,20,s,s,30,314,11,217,0,542,0,1,541
+31 - Nord-Pas-de-Calais,s,52,252,1359,6,145,s,95,25,4164,s,0,11,s,105,329,4493,151,1474,24,6143,s,s,6005
+41 - Lorraine,841,s,s,734,3,46,10,11,19,1996,s,0,62,s,63,395,2391,81,740,18,3229,46,60,3124
+42 - Alsace,0,0,s,1108,1,s,9,10,9,1157,s,0,20,8,s,136,1293,60,493,6,1852,6,30,1816
+43 - Franche-Comté,81,0,s,177,1,s,14,7,7,298,1,0,11,s,s,21,319,s,285,s,664,s,s,617
+52 - Pays de la Loire,0,1,9,362,3,61,42,33,22,533,s,0,37,s,s,88,621,69,472,2,1164,s,s,1149
+53 - Bretagne,12,2,0,322,1,0,38,29,17,422,1,s,8,0,s,14,436,37,356,2,831,5,5,821
+54 - Poitou-Charentes,64,0,2,181,1,63,17,48,18,394,8,0,19,22,38,86,480,s,196,s,687,s,s,673
+72 - Aquitaine,s,0,s,282,0,0,15,120,11,471,1,382,146,s,s,549,1020,185,422,26,1654,s,s,1467
+73 - Midi-Pyrénées,9,0,0,217,2,s,15,14,10,s,s,s,38,6,s,s,514,35,231,23,803,0,26,777
+74 - Limousin,0,0,s,72,0,0,4,5,3,s,0,s,6,3,0,s,297,s,75,s,414,s,s,406
+82 - Rhône-Alpes,128,s,s,1343,8,135,29,104,29,1789,54,0,63,23,37,176,1965,225,1270,11,3471,122,173,3177
+83 - Auvergne,s,0,27,218,0,s,6,35,9,312,0,0,9,s,s,13,325,10,216,1,552,s,s,535
+91 - Languedoc-Roussillon,65,0,0,159,1,31,6,5,10,277,s,0,s,3,36,54,331,s,165,s,519,s,s,512
+93 - PACA et Corse,s,0,s,700,5,104,970,165,19,3048,242,s,s,8,16,425,3473,146,607,60,4286,s,s,4018
+97 - DOM,0,0,0,9,0,0,0,3,8,21,s,0,0,0,s,8,29,0,20,0,49,0,2,47
+Note : Les coefficients de conversion en tep de certaines énergies ont été actualisés pour la publication 2011.,,,,,,,,,,,,,,,,,,,,,,,,
+"Champ : France (hors Dom pour les IAA et scieries), établissements de 20 salariés ou plus appartenant à l'industrie (y compris IAA et scieries), hors industrie de l'énergie, y compris récupération.",,,,,,,,,,,,,,,,,,,,,,,,
+"Source : Insee, SSP, Enquête annuelle sur les consommations d'énergie dans l'industrie 2011, y compris IAA et scieries (calculs Insee).",,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,469 @@
+tab1_reg-nce : Répartition de la consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP) selon la région,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,,,,
+,INDICATEUR,Consommation de combustibles,Consommation totale brute,Consommation totale nette
+REGION,NCE,,,
+Ile-de-France,E16 - Sidérurgie,57,132,132
+,E18 - Métallurgie de première transformation des métaux non ferreux,s,s,s
+,E19 - Production de minéraux divers,s,s,s
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,31,42,42
+,E22 - Industrie du verre,34,55,55
+,E23 - Fabrication d'engrais,s,s,s
+,E24 - Autres industries de la chimie minérale,0,s,s
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",0,s,s
+,E26 - Autres industries de la chimie organique de base,19,40,40
+,E28 - Parachimie et industrie pharmaceutique,21,46,46
+,E29 - Fonderie et travail des métaux,29,59,59
+,E30 - Construction mécanique,6,15,15
+,E31 - Construction électrique et électronique,16,58,58
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,38,89,80
+,"E33 - Construction navale et aéronautique, armement",25,60,53
+,"E34 - Industrie textile, du cuir et de l'habillement",4,8,8
+,E35 - Industrie du papier et du carton,8,19,19
+,E36 - Fabrication de produits en caoutchouc,3,7,7
+,E37 - Fabrication de produits en plastique,3,16,16
+,E38 - Industries diverses,28,59,55
+Champagne-Ardenne,E16 - Sidérurgie,s,s,s
+,E18 - Métallurgie de première transformation des métaux non ferreux,9,14,14
+,E19 - Production de minéraux divers,s,s,s
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,28,33,33
+,E22 - Industrie du verre,46,56,56
+,E23 - Fabrication d'engrais,s,s,s
+,E24 - Autres industries de la chimie minérale,0,0,0
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",1,5,5
+,E26 - Autres industries de la chimie organique de base,24,72,72
+,E28 - Parachimie et industrie pharmaceutique,5,10,10
+,E29 - Fonderie et travail des métaux,87,163,163
+,E30 - Construction mécanique,8,14,14
+,E31 - Construction électrique et électronique,4,8,8
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,9,18,18
+,"E33 - Construction navale et aéronautique, armement",1,1,1
+,"E34 - Industrie textile, du cuir et de l'habillement",7,11,11
+,E35 - Industrie du papier et du carton,37,59,59
+,E36 - Fabrication de produits en caoutchouc,s,18,16
+,E37 - Fabrication de produits en plastique,9,27,27
+,E38 - Industries diverses,49,73,73
+Picardie,E16 - Sidérurgie,28,41,41
+,E18 - Métallurgie de première transformation des métaux non ferreux,7,13,13
+,E19 - Production de minéraux divers,s,s,s
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,24,30,30
+,E22 - Industrie du verre,64,94,94
+,E23 - Fabrication d'engrais,4,6,6
+,E24 - Autres industries de la chimie minérale,10,32,32
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",11,24,23
+,E26 - Autres industries de la chimie organique de base,73,95,83
+,E28 - Parachimie et industrie pharmaceutique,26,42,41
+,E29 - Fonderie et travail des métaux,40,75,75
+,E30 - Construction mécanique,10,18,18
+,E31 - Construction électrique et électronique,7,15,15
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,10,22,22
+,"E33 - Construction navale et aéronautique, armement",s,s,s
+,"E34 - Industrie textile, du cuir et de l'habillement",9,17,17
+,E35 - Industrie du papier et du carton,63,95,95
+,E36 - Fabrication de produits en caoutchouc,2,30,30
+,E37 - Fabrication de produits en plastique,8,55,55
+,E38 - Industries diverses,8,14,14
+Haute-Normandie,E16 - Sidérurgie,s,s,s
+,E18 - Métallurgie de première transformation des métaux non ferreux,7,25,25
+,E19 - Production de minéraux divers,0,0,0
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,13,18,18
+,E22 - Industrie du verre,100,130,129
+,E23 - Fabrication d'engrais,382,399,395
+,E24 - Autres industries de la chimie minérale,278,297,297
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",13,32,32
+,E26 - Autres industries de la chimie organique de base,750,1035,1012
+,E28 - Parachimie et industrie pharmaceutique,29,47,47
+,E29 - Fonderie et travail des métaux,35,55,55
+,E30 - Construction mécanique,7,14,14
+,E31 - Construction électrique et électronique,7,21,21
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,17,49,49
+,"E33 - Construction navale et aéronautique, armement",4,11,11
+,"E34 - Industrie textile, du cuir et de l'habillement",s,13,13
+,E35 - Industrie du papier et du carton,184,292,217
+,E36 - Fabrication de produits en caoutchouc,4,10,10
+,E37 - Fabrication de produits en plastique,7,35,35
+,E38 - Industries diverses,21,30,30
+Centre,E16 - Sidérurgie,0,0,0
+,E18 - Métallurgie de première transformation des métaux non ferreux,14,18,18
+,E19 - Production de minéraux divers,0,0,0
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,s,s,s
+,E22 - Industrie du verre,17,26,26
+,E23 - Fabrication d'engrais,0,0,0
+,E24 - Autres industries de la chimie minérale,s,s,s
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",2,4,4
+,E26 - Autres industries de la chimie organique de base,12,17,17
+,E28 - Parachimie et industrie pharmaceutique,27,56,56
+,E29 - Fonderie et travail des métaux,29,59,59
+,E30 - Construction mécanique,10,26,26
+,E31 - Construction électrique et électronique,12,34,34
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,10,26,26
+,"E33 - Construction navale et aéronautique, armement",7,14,14
+,"E34 - Industrie textile, du cuir et de l'habillement",5,7,7
+,E35 - Industrie du papier et du carton,81,125,118
+,E36 - Fabrication de produits en caoutchouc,18,32,32
+,E37 - Fabrication de produits en plastique,11,41,41
+,E38 - Industries diverses,60,87,81
+Basse-Normandie,E16 - Sidérurgie,0,0,0
+,E18 - Métallurgie de première transformation des métaux non ferreux,s,s,s
+,E19 - Production de minéraux divers,s,s,s
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,9,13,13
+,E22 - Industrie du verre,2,3,3
+,E23 - Fabrication d'engrais,0,0,0
+,E24 - Autres industries de la chimie minérale,s,s,s
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",0,0,0
+,E26 - Autres industries de la chimie organique de base,8,10,10
+,E28 - Parachimie et industrie pharmaceutique,3,9,9
+,E29 - Fonderie et travail des métaux,7,19,19
+,E30 - Construction mécanique,3,6,6
+,E31 - Construction électrique et électronique,4,13,13
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,15,36,36
+,"E33 - Construction navale et aéronautique, armement",s,s,s
+,"E34 - Industrie textile, du cuir et de l'habillement",2,4,4
+,E35 - Industrie du papier et du carton,13,21,21
+,E36 - Fabrication de produits en caoutchouc,1,3,3
+,E37 - Fabrication de produits en plastique,2,8,8
+,E38 - Industries diverses,5,13,13
+Bourgogne,E16 - Sidérurgie,31,53,53
+,E18 - Métallurgie de première transformation des métaux non ferreux,3,6,6
+,E19 - Production de minéraux divers,s,3,3
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,27,33,33
+,E22 - Industrie du verre,s,s,s
+,E23 - Fabrication d'engrais,0,0,0
+,E24 - Autres industries de la chimie minérale,s,s,s
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",s,7,7
+,E26 - Autres industries de la chimie organique de base,5,6,6
+,E28 - Parachimie et industrie pharmaceutique,4,10,10
+,E29 - Fonderie et travail des métaux,49,75,75
+,E30 - Construction mécanique,10,19,19
+,E31 - Construction électrique et électronique,12,27,27
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,7,15,15
+,"E33 - Construction navale et aéronautique, armement",s,s,s
+,"E34 - Industrie textile, du cuir et de l'habillement",3,6,6
+,E35 - Industrie du papier et du carton,4,8,8
+,E36 - Fabrication de produits en caoutchouc,11,27,27
+,E37 - Fabrication de produits en plastique,4,31,31
+,E38 - Industries diverses,29,44,44
+Nord-Pas-de-Calais,E16 - Sidérurgie,s,2826,2826
+,E18 - Métallurgie de première transformation des métaux non ferreux,118,464,464
+,E19 - Production de minéraux divers,s,s,s
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,58,73,73
+,E22 - Industrie du verre,200,246,246
+,E23 - Fabrication d'engrais,s,s,s
+,E24 - Autres industries de la chimie minérale,8,65,65
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",38,69,62
+,E26 - Autres industries de la chimie organique de base,397,493,479
+,E28 - Parachimie et industrie pharmaceutique,17,35,35
+,E29 - Fonderie et travail des métaux,78,120,120
+,E30 - Construction mécanique,11,21,21
+,E31 - Construction électrique et électronique,42,81,81
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,62,132,132
+,"E33 - Construction navale et aéronautique, armement",s,s,s
+,"E34 - Industrie textile, du cuir et de l'habillement",18,37,37
+,E35 - Industrie du papier et du carton,89,237,226
+,E36 - Fabrication de produits en caoutchouc,1,s,s
+,E37 - Fabrication de produits en plastique,13,51,51
+,E38 - Industries diverses,27,50,50
+Lorraine,E16 - Sidérurgie,s,992,992
+,E18 - Métallurgie de première transformation des métaux non ferreux,s,s,s
+,E19 - Production de minéraux divers,s,s,s
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,s,s,s
+,E22 - Industrie du verre,75,96,96
+,E23 - Fabrication d'engrais,0,0,0
+,E24 - Autres industries de la chimie minérale,s,218,180
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",s,s,s
+,E26 - Autres industries de la chimie organique de base,74,130,119
+,E28 - Parachimie et industrie pharmaceutique,3,4,4
+,E29 - Fonderie et travail des métaux,212,294,293
+,E30 - Construction mécanique,20,34,34
+,E31 - Construction électrique et électronique,7,17,17
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,43,94,93
+,"E33 - Construction navale et aéronautique, armement",s,s,s
+,"E34 - Industrie textile, du cuir et de l'habillement",13,24,24
+,E35 - Industrie du papier et du carton,225,383,360
+,E36 - Fabrication de produits en caoutchouc,1,22,22
+,E37 - Fabrication de produits en plastique,8,27,27
+,E38 - Industries diverses,38,59,59
+Alsace,E16 - Sidérurgie,s,s,s
+,E18 - Métallurgie de première transformation des métaux non ferreux,s,s,s
+,E19 - Production de minéraux divers,0,0,0
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,27,34,34
+,E22 - Industrie du verre,s,36,36
+,E23 - Fabrication d'engrais,s,s,s
+,E24 - Autres industries de la chimie minérale,3,35,35
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",s,34,34
+,E26 - Autres industries de la chimie organique de base,s,s,s
+,E28 - Parachimie et industrie pharmaceutique,7,20,20
+,E29 - Fonderie et travail des métaux,34,56,56
+,E30 - Construction mécanique,17,43,43
+,E31 - Construction électrique et électronique,17,34,34
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,32,77,77
+,"E33 - Construction navale et aéronautique, armement",s,s,s
+,"E34 - Industrie textile, du cuir et de l'habillement",17,31,31
+,E35 - Industrie du papier et du carton,81,171,156
+,E36 - Fabrication de produits en caoutchouc,0,1,1
+,E37 - Fabrication de produits en plastique,7,27,27
+,E38 - Industries diverses,11,24,24
+Franche-Comté,E16 - Sidérurgie,s,s,s
+,E18 - Métallurgie de première transformation des métaux non ferreux,0,0,0
+,E19 - Production de minéraux divers,0,0,0
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,22,25,25
+,E22 - Industrie du verre,s,s,s
+,E23 - Fabrication d'engrais,0,0,0
+,E24 - Autres industries de la chimie minérale,s,s,s
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",s,s,s
+,E26 - Autres industries de la chimie organique de base,s,s,s
+,E28 - Parachimie et industrie pharmaceutique,1,3,3
+,E29 - Fonderie et travail des métaux,30,67,67
+,E30 - Construction mécanique,4,10,10
+,E31 - Construction électrique et électronique,1,6,6
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,33,86,86
+,"E33 - Construction navale et aéronautique, armement",s,s,s
+,"E34 - Industrie textile, du cuir et de l'habillement",1,2,2
+,E35 - Industrie du papier et du carton,18,23,23
+,E36 - Fabrication de produits en caoutchouc,s,s,s
+,E37 - Fabrication de produits en plastique,11,37,37
+,E38 - Industries diverses,16,30,30
+Pays de la Loire,E16 - Sidérurgie,s,s,s
+,E18 - Métallurgie de première transformation des métaux non ferreux,4,9,9
+,E19 - Production de minéraux divers,1,3,3
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,37,46,46
+,E22 - Industrie du verre,1,2,2
+,E23 - Fabrication d'engrais,s,s,s
+,E24 - Autres industries de la chimie minérale,s,s,s
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",s,s,s
+,E26 - Autres industries de la chimie organique de base,6,8,8
+,E28 - Parachimie et industrie pharmaceutique,4,8,8
+,E29 - Fonderie et travail des métaux,39,75,75
+,E30 - Construction mécanique,13,28,28
+,E31 - Construction électrique et électronique,9,27,27
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,16,47,46
+,"E33 - Construction navale et aéronautique, armement",16,36,36
+,"E34 - Industrie textile, du cuir et de l'habillement",11,19,19
+,E35 - Industrie du papier et du carton,46,117,113
+,E36 - Fabrication de produits en caoutchouc,21,50,46
+,E37 - Fabrication de produits en plastique,11,50,50
+,E38 - Industries diverses,29,57,57
+Bretagne,E16 - Sidérurgie,0,s,0
+,E18 - Métallurgie de première transformation des métaux non ferreux,0,0,0
+,E19 - Production de minéraux divers,s,s,s
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,24,32,32
+,E22 - Industrie du verre,s,4,4
+,E23 - Fabrication d'engrais,s,s,s
+,E24 - Autres industries de la chimie minérale,s,s,s
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",s,s,s
+,E26 - Autres industries de la chimie organique de base,13,17,17
+,E28 - Parachimie et industrie pharmaceutique,4,9,9
+,E29 - Fonderie et travail des métaux,11,40,40
+,E30 - Construction mécanique,4,11,11
+,E31 - Construction électrique et électronique,4,12,12
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,16,31,31
+,"E33 - Construction navale et aéronautique, armement",5,10,10
+,"E34 - Industrie textile, du cuir et de l'habillement",2,3,3
+,E35 - Industrie du papier et du carton,33,62,62
+,E36 - Fabrication de produits en caoutchouc,2,10,10
+,E37 - Fabrication de produits en plastique,8,29,29
+,E38 - Industries diverses,8,23,23
+Poitou-Charentes,E16 - Sidérurgie,0,0,0
+,E18 - Métallurgie de première transformation des métaux non ferreux,s,s,s
+,E19 - Production de minéraux divers,1,2,2
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,72,84,84
+,E22 - Industrie du verre,s,52,52
+,E23 - Fabrication d'engrais,0,0,0
+,E24 - Autres industries de la chimie minérale,0,0,0
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",0,0,0
+,E26 - Autres industries de la chimie organique de base,23,43,40
+,E28 - Parachimie et industrie pharmaceutique,1,2,2
+,E29 - Fonderie et travail des métaux,15,38,38
+,E30 - Construction mécanique,6,12,11
+,E31 - Construction électrique et électronique,8,21,21
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,6,14,14
+,"E33 - Construction navale et aéronautique, armement",4,7,7
+,"E34 - Industrie textile, du cuir et de l'habillement",2,4,4
+,E35 - Industrie du papier et du carton,28,41,41
+,E36 - Fabrication de produits en caoutchouc,s,s,s
+,E37 - Fabrication de produits en plastique,3,10,10
+,E38 - Industries diverses,12,23,23
+Aquitaine,E16 - Sidérurgie,s,s,s
+,E18 - Métallurgie de première transformation des métaux non ferreux,s,s,s
+,E19 - Production de minéraux divers,2,5,5
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,36,53,50
+,E22 - Industrie du verre,s,s,s
+,E23 - Fabrication d'engrais,8,17,17
+,E24 - Autres industries de la chimie minérale,103,137,137
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",s,87,81
+,E26 - Autres industries de la chimie organique de base,89,177,176
+,E28 - Parachimie et industrie pharmaceutique,18,33,32
+,E29 - Fonderie et travail des métaux,8,23,23
+,E30 - Construction mécanique,3,6,6
+,E31 - Construction électrique et électronique,3,9,9
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,4,13,13
+,"E33 - Construction navale et aéronautique, armement",13,33,33
+,"E34 - Industrie textile, du cuir et de l'habillement",1,2,2
+,E35 - Industrie du papier et du carton,502,693,517
+,E36 - Fabrication de produits en caoutchouc,0,2,2
+,E37 - Fabrication de produits en plastique,4,24,24
+,E38 - Industries diverses,63,93,93
+Midi-Pyrénées,E16 - Sidérurgie,s,s,s
+,E18 - Métallurgie de première transformation des métaux non ferreux,6,11,11
+,E19 - Production de minéraux divers,5,10,10
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,44,60,60
+,E22 - Industrie du verre,33,43,43
+,E23 - Fabrication d'engrais,0,0,0
+,E24 - Autres industries de la chimie minérale,s,s,s
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",s,s,s
+,E26 - Autres industries de la chimie organique de base,6,32,28
+,E28 - Parachimie et industrie pharmaceutique,2,10,10
+,E29 - Fonderie et travail des métaux,18,37,37
+,E30 - Construction mécanique,6,10,10
+,E31 - Construction électrique et électronique,4,19,19
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,1,6,6
+,"E33 - Construction navale et aéronautique, armement",24,62,56
+,"E34 - Industrie textile, du cuir et de l'habillement",10,15,15
+,E35 - Industrie du papier et du carton,s,s,s
+,E36 - Fabrication de produits en caoutchouc,0,0,0
+,E37 - Fabrication de produits en plastique,3,12,12
+,E38 - Industries diverses,17,27,27
+Limousin,E16 - Sidérurgie,0,0,0
+,E18 - Métallurgie de première transformation des métaux non ferreux,0,0,0
+,E19 - Production de minéraux divers,0,0,0
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,29,36,36
+,E22 - Industrie du verre,0,0,0
+,E23 - Fabrication d'engrais,0,0,0
+,E24 - Autres industries de la chimie minérale,0,0,0
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",0,0,0
+,E26 - Autres industries de la chimie organique de base,s,s,s
+,E28 - Parachimie et industrie pharmaceutique,1,2,2
+,E29 - Fonderie et travail des métaux,4,8,8
+,E30 - Construction mécanique,1,2,2
+,E31 - Construction électrique et électronique,2,8,8
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,2,4,4
+,"E33 - Construction navale et aéronautique, armement",1,2,2
+,"E34 - Industrie textile, du cuir et de l'habillement",1,2,2
+,E35 - Industrie du papier et du carton,s,293,287
+,E36 - Fabrication de produits en caoutchouc,s,s,s
+,E37 - Fabrication de produits en plastique,1,3,3
+,E38 - Industries diverses,13,21,21
+Rhône-Alpes,E16 - Sidérurgie,162,355,355
+,E18 - Métallurgie de première transformation des métaux non ferreux,s,s,s
+,E19 - Production de minéraux divers,s,s,s
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,79,104,104
+,E22 - Industrie du verre,141,173,173
+,E23 - Fabrication d'engrais,0,0,0
+,E24 - Autres industries de la chimie minérale,527,669,427
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",59,125,124
+,E26 - Autres industries de la chimie organique de base,186,330,287
+,E28 - Parachimie et industrie pharmaceutique,27,61,61
+,E29 - Fonderie et travail des métaux,87,198,197
+,E30 - Construction mécanique,32,81,81
+,E31 - Construction électrique et électronique,61,158,158
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,23,46,44
+,"E33 - Construction navale et aéronautique, armement",12,20,20
+,"E34 - Industrie textile, du cuir et de l'habillement",47,73,72
+,E35 - Industrie du papier et du carton,95,232,228
+,E36 - Fabrication de produits en caoutchouc,7,13,13
+,E37 - Fabrication de produits en plastique,38,131,130
+,E38 - Industries diverses,20,44,44
+Auvergne,E16 - Sidérurgie,s,s,s
+,E18 - Métallurgie de première transformation des métaux non ferreux,s,s,s
+,E19 - Production de minéraux divers,s,s,s
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,39,52,52
+,E22 - Industrie du verre,s,s,s
+,E23 - Fabrication d'engrais,0,0,0
+,E24 - Autres industries de la chimie minérale,s,s,s
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",s,2,2
+,E26 - Autres industries de la chimie organique de base,43,50,34
+,E28 - Parachimie et industrie pharmaceutique,5,11,11
+,E29 - Fonderie et travail des métaux,27,50,49
+,E30 - Construction mécanique,4,7,7
+,E31 - Construction électrique et électronique,2,5,5
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,2,5,5
+,"E33 - Construction navale et aéronautique, armement",s,s,s
+,"E34 - Industrie textile, du cuir et de l'habillement",3,7,7
+,E35 - Industrie du papier et du carton,7,14,14
+,E36 - Fabrication de produits en caoutchouc,29,51,51
+,E37 - Fabrication de produits en plastique,4,31,31
+,E38 - Industries diverses,4,13,13
+Languedoc-Roussillon,E16 - Sidérurgie,s,s,s
+,E18 - Métallurgie de première transformation des métaux non ferreux,s,s,s
+,E19 - Production de minéraux divers,2,3,3
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,53,64,64
+,E22 - Industrie du verre,44,59,59
+,E23 - Fabrication d'engrais,s,s,s
+,E24 - Autres industries de la chimie minérale,s,s,s
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",s,s,s
+,E26 - Autres industries de la chimie organique de base,27,38,33
+,E28 - Parachimie et industrie pharmaceutique,1,2,2
+,E29 - Fonderie et travail des métaux,2,4,4
+,E30 - Construction mécanique,2,8,8
+,E31 - Construction électrique et électronique,0,7,7
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,0,1,1
+,"E33 - Construction navale et aéronautique, armement",s,s,s
+,"E34 - Industrie textile, du cuir et de l'habillement",s,1,1
+,E35 - Industrie du papier et du carton,s,12,s
+,E36 - Fabrication de produits en caoutchouc,s,s,s
+,E37 - Fabrication de produits en plastique,2,8,8
+,E38 - Industries diverses,1,5,5
+PACA et Corse,E16 - Sidérurgie,s,s,s
+,E18 - Métallurgie de première transformation des métaux non ferreux,s,s,s
+,E19 - Production de minéraux divers,6,s,s
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,19,36,36
+,E22 - Industrie du verre,s,s,s
+,E23 - Fabrication d'engrais,s,s,s
+,E24 - Autres industries de la chimie minérale,s,195,195
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",21,62,62
+,E26 - Autres industries de la chimie organique de base,1644,1913,1817
+,E28 - Parachimie et industrie pharmaceutique,19,31,31
+,E29 - Fonderie et travail des métaux,6,15,15
+,E30 - Construction mécanique,2,6,6
+,E31 - Construction électrique et électronique,4,35,35
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,1,1,1
+,"E33 - Construction navale et aéronautique, armement",7,21,20
+,"E34 - Industrie textile, du cuir et de l'habillement",2,2,2
+,E35 - Industrie du papier et du carton,s,s,42
+,E36 - Fabrication de produits en caoutchouc,s,0,0
+,E37 - Fabrication de produits en plastique,4,11,11
+,E38 - Industries diverses,4,12,12
+DOM,E16 - Sidérurgie,0,0,0
+,E18 - Métallurgie de première transformation des métaux non ferreux,s,s,s
+,E19 - Production de minéraux divers,3,3,1
+,"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s
+,E21 - Production d'autres matériaux de construction et de céramique,14,17,17
+,E22 - Industrie du verre,0,0,0
+,E23 - Fabrication d'engrais,s,s,s
+,E24 - Autres industries de la chimie minérale,5,9,9
+,"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",0,0,0
+,E26 - Autres industries de la chimie organique de base,0,1,1
+,E28 - Parachimie et industrie pharmaceutique,0,3,3
+,E29 - Fonderie et travail des métaux,1,2,2
+,E30 - Construction mécanique,0,1,1
+,E31 - Construction électrique et électronique,0,0,0
+,E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,0,0,0
+,"E33 - Construction navale et aéronautique, armement",0,2,2
+,"E34 - Industrie textile, du cuir et de l'habillement",1,1,1
+,E35 - Industrie du papier et du carton,0,1,1
+,E36 - Fabrication de produits en caoutchouc,0,0,0
+,E37 - Fabrication de produits en plastique,0,1,1
+,E38 - Industries diverses,1,4,4
+Note : Les coefficients de conversion en tep de certaines énergies ont été actualisés pour la publication 2011.,,,,
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie hors IAA et scieries, hors industrie de l'énergie, y compris récupération. ",,,,
+"Source : Insee, enquête annuelle sur les consommations d'énergie dans l'industrie 2011.",,,,

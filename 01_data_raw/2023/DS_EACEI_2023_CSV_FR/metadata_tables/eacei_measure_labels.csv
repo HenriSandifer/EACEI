@@ -1,0 +1,130 @@
+code,label
+AUTRE_CSTP,"Quantités consommées de bois, liqueur noire, produits pétroliers secondaires et autres combustibles"
+BIOR_CSTP,Consommation de biogaz et biométhane
+BIOR_CSUP,Consommation de biogaz et biométhane
+BIOR_PRIX,Prix moyen annuel du biogaz et biométhane
+BIOR_QAUP,Quantités achetées de biogaz et biométhane
+BIOR_VALA,Valeur des achats de biogaz et biométhane
+BR_AUCO,Quantité d’électricité produite et consommée
+CR_VALA,Valeur des achats de vapeur
+CR_VTTP,Vapeur vendue
+BR_CONTRAT_CHANG_1_PROP,Proportion d’établissements ayant renouvelé leur contrat d’électricité en 2023
+CUR_CSTP,Consommation de combustibles usuels
+BR_CONTRAT_FIN_1_PROP,Proportion d’établissements avec un contrat d’électricité au tarif réglementé
+DR_CONTRAT_CHANG_1_PROP,Proportion d’établissements ayant renouvelé leur contrat de gaz en 2023
+BR_CONTRAT_FIN_2_PROP,Proportion d’établissements avec un contrat d’électricité à prix fixe sur une durée contractuelle
+DR_CONTRAT_CONCERNE_PROP,Proportion d’établissements qui consomment du gaz
+BR_CONTRAT_FIN_3_PROP,Proportion d’établissements avec un contrat d’électricité dont le prix indexé sur le tarif réglementé
+DR_CONTRAT_FIN_1_PROP,Proportion d’établissements avec un contrat de gaz à prix fixe sur une durée contractuelle
+BR_CONTRAT_FIN_4_PROP,Proportion d’établissements avec un contrat d’électricité dont le prix indexé sur le prix de gros
+DR_CONTRAT_FIN_2_PROP,Proportion d’établissements avec un contrat de gaz dont le prix indexé sur le prix de gros
+BR_CONTRAT_FIN_5_PROP,Proportion d’établissements avec un autre type de contrat d’électricité
+LR_USQ3,Quantités de fioul domestique consommées pour la production d’électricité
+DR_CONTRAT_FIN_3_PROP,Proportion d’établissements avec un autre type de contrat de gaz
+LR_USQ4,Quantités de fioul domestique consommées pour le chauffage ou un autre usage
+BR_CSTP,Consommation d’électricité
+LR_USQFAB,Quantités de fioul domestique consommées pour la fabrication
+DR_PCT,Gaz de réseau consommé hors utilisation en tant que matière première
+LR_VALA,Valeur des achats de fioul domestique
+BR_CSUP,Consommation d’électricité
+EFFECTIF,Nombre d’établissements
+MR_CSTP,Consommation d’autres produits pétroliers
+ENM_PCT,Autres énergies consommées hors utilisation en tant que matière première
+BR_NTHE,Production d’électricité d’origine non thermique
+FACTURE,Facture énergétique
+NR_CSTP,Consommation de liqueur noire
+BR_PCT,Électricité consommée hors utilisation en tant que matière première
+OR_CSTP,Consommation de bois et sous-produit du bois
+BR_PRIX,Prix moyen annuel de l’électricité
+FR_PRIX,Prix moyen annuel de la houille
+OR_CSUP,Consommation de bois et sous-produit du bois
+GAZR_CSTP,Consommation de gaz naturel et autres gaz
+OR_PRIX,Prix moyen annuel du bois
+BR_PROD,Électricité autoproduite
+GAZR_CSUP,Consommation de gaz naturel et autres gaz
+BR_QAUP,Électricité achetée
+GAZR_PRIX,Prix moyen annuel du gaz de réseau
+OR_QAUP,Quantités achetées de bois
+BR_THER,Électricité produite d’origine thermique
+OR_VALA,Valeur des achats de bois
+BR_USQ1,Électricité : usage force motrice
+GAZR_QAUP,Quantités achetées de gaz
+PP_CSTP,Consommation de produits pétroliers principaux
+BR_USQ2,"Électricité : usages thermiques, y compris production de froid "
+PP_PCT,Produits pétroliers consommés hors utilisation en tant que matière première
+GAZR_USQ2,Quantités de gaz consommées en tant que matières premières
+PR_AUCO,Quantité d’hydrogène autoproduite et consommée
+BR_USQ4,Électricité : usage électrolyse
+GAZR_USQ3,Quantités de gaz consommées pour la production d’électricité
+PR_CSTP,Consommation d’hydrogène
+BR_USQ6,Électricité : usage chauffage des locaux et autres
+GAZR_USQ4,Quantités de gaz consommées pour le chauffage ou un autre usage
+PR_CSUP,Consommation d’hydrogène
+BR_USQ7,Électricité : usages thermodynamiques hors chauffage des locaux
+GAZR_USQ9,Quantités de gaz consommées pour la mobilité sur site
+PR_PRIX,Prix moyen annuel d’hydrogène
+BR_USQ8,Électricité : usage éclairage
+GAZR_USQFAB,Quantités de gaz consommées pour la fabrication
+BR_USQ9,Électricité : usage mobilité sur site
+GAZR_VALA,Valeur des achats de gaz
+PR_PROD,Quantité d’hydrogène autoproduite
+BR_VALA,Valeur des achats d'électricité
+GR_PRIX,Prix moyen annuel de la lignite
+PR_QAUP,Quantités achetées d’hydrogène
+HR_PRIX,Prix moyen annuel du coke de houille
+PR_USQ2,Quantités d’hydrogène consommées en tant que matières premières
+BR_VEND,Électricité produite et vendue
+IR_CSTP,Consommation de coke de pétrole
+PR_USQ3,Quantités d’hydrogène utilisées pour la production d’électricité
+CAR_CSTP,Consommation autres combustibles
+IR_CSUP,Consommation de coke de pétrole
+PR_USQ4,Quantités d’hydrogène utilisées pour le chauffage ou un autre usage
+CMSR_CSTP,Consommation de combustibles minéraux solides
+PR_USQ8,"Quantités d’hydrogène utilisées pour la combustion, hors production d’électricité "
+IR_PRIX,Prix moyen annuel du coke de pétrole
+PR_USQ9,Quantités d’hydrogène utilisées pour la mobilité sur site
+CMSR_CSUP,Consommation de combustibles minéraux solides
+PR_VALA,Valeur des achats d’hydrogène
+IR_QAUP,Quantités achetées de coke de pétrole
+CMSR_PRIX,Prix moyen des combustibles minéraux solides
+PR_VEND,Quantité d’hydrogène autoproduite et vendue
+IR_VALA,Valeur des achats de coke de pétrole
+CMSR_QAUP,Combustibles minéraux solides achetés
+QR_CSTP,Consommation de gazole non routier
+JR_CSTP,Consommation de butane-propane
+QR_CSUP,Consommation de gazole non routier
+CMSR_VALA,Valeur des achats de combustibles minéraux solides
+JR_CSUP,Consommation de butane-propane
+QR_PRIX,Prix moyen annuel du gazole non routier
+CMS_PCT,Combustibles minéraux solides consommés hors utilisation en tant que matière première
+COMBPRB,Consommation de combustibles pour la production d'électricité
+JR_PRIX,Prix moyen annuel du butane-propane
+QR_QAUP,Quantités achetées de gazole non routier
+CONSBRT_MILLIERS,Total brut de la consommation
+QR_USQ2,Quantités de gazole non routier consommées en tant que matières premières
+CONSBRT_MILLIONS,Consommation brute
+JR_QAUP,Quantités achetées de butane-propane
+QR_USQ3,Quantités de gazole non routier consommées pour la production d’électricité
+CONSNET_MILLIERS,Total net de la consommation
+QR_USQ4,Quantités de gazole non routier consommées pour le chauffage ou un autre usage
+JR_VALA,Valeur des achats de butane-propane
+CONSNET_MILLIONS,Consommation nette
+QR_USQ9,Quantités de gazole non routier consommées pour la mobilité sur site
+KR_CSTP,Consommation de fioul lourd
+CR_CSTP,Vapeur consommée
+QR_USQFAB,Quantités de gazole non routier consommées pour la fabrication
+KR_CSUP,Consommation de fioul lourd
+QR_VALA,Valeur des achats de gazole non routier
+CR_PCT,Vapeur consommée hors utilisation en tant que matière première
+KR_PRIX,Prix moyen annuel du fioul lourd
+CR_PRIX,Prix moyen annuel de la vapeur
+XR_CSTP,Consommation de combustibles spéciaux renouvelables
+YR_CSTP,Consommation de combustibles spéciaux non renouvelables
+KR_QAUP,Quantités achetées de fioul lourd
+CR_QAUP,Vapeur achetée
+KR_VALA,Valeur des achats de fioul lourd
+LR_CSTP,Consommation de fioul domestique
+LR_CSUP,Consommation de fioul domestique
+LR_PRIX,Prix moyen annuel du fioul domestique
+LR_QAUP,Quantités achetées de fioul domestique
+LR_USQ2,Quantités de fioul domestique consommées en tant que matières premières

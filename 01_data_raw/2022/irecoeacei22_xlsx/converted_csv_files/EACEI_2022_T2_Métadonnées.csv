@@ -1,0 +1,100 @@
+Nom du fichier xlsx,EACEI_2022_T2,Unnamed: 2,Unnamed: 3
+Date de création du fichier,2024-03-12T13:36:46,,
+Onglet,Secteur d'activité,"NAF_T2 : Achats et consommation en unité propre, valeur d'achat et prix moyens des produits énergétiques selon le secteur d'activité en NAF rév.2 de l'établissement",
+Onglet,Effectif ,TEFF_T2 : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP) et nombre d'établissements selon la tranche d'effectif de l'établissement,
+Onglet,Régions,"REG_T2 : Achats et consommation en unité propre, valeur d'achat et prix moyens des produits énergétiques selon la région",
+Source,Enquête sur les consommations d'énergie dans l'industrie 2022,,
+,,,
+COD_VAR,LIB_VAR,COD_MOD,LIB_MOD
+FREQ,Fréquence,A,Annuel
+TIME_PERIOD,Période temporelle,2022 -> 2022,2022 -> 2022
+GEO_DATE,Millésime géographique,2022,2022
+GEO_SCOPE,Périmètre géographique,FE,France entière
+GEO_OBJECT,Niveau géographique,NAT,Niveau national
+GEO_OBJECT,Niveau géographique,REG,Région
+GEO_OBJECT,Niveau géographique,FM_DOM,France métropolitaine et DOM
+GEO,Géographie,,
+ACTIVITY,Activité,B07T09,"Industries extractives (à l’exception de l’extraction de houille, de lignite et d’hydrocarbures)"
+ACTIVITY,Activité,C10T12,"Fabrication de denrées alimentaires, de boissons et de produits à base de tabac"
+ACTIVITY,Activité,13,Fabrication de textiles
+ACTIVITY,Activité,14,Industrie de l'habillement
+ACTIVITY,Activité,15,Industrie du cuir et de la chaussure
+ACTIVITY,Activité,16,"Travail du bois et fabrication d'articles en bois et en liège, à l’exception des meubles ; fabrication d’articles en vannerie et sparterie"
+ACTIVITY,Activité,17,Industrie du papier et du carton
+ACTIVITY,Activité,18,Imprimerie et reproduction d'enregistrements
+ACTIVITY,Activité,20,Industrie chimique
+ACTIVITY,Activité,21,Industrie pharmaceutique
+ACTIVITY,Activité,22,Fabrication de produits en caoutchouc et en plastique
+ACTIVITY,Activité,23,Fabrication d'autres produits minéraux non métalliques
+ACTIVITY,Activité,24,Métallurgie
+ACTIVITY,Activité,25,"Fabrication de produits métalliques, à l'exception des machines et des équipements"
+ACTIVITY,Activité,26,"Fabrication de produits informatiques, électroniques et optiques"
+ACTIVITY,Activité,27,Fabrication d'équipements électriques
+ACTIVITY,Activité,28,Fabrication de machines et équipements n.c.a.
+ACTIVITY,Activité,29,Industrie automobile
+ACTIVITY,Activité,30,Fabrication d'autres matériels de transport
+ACTIVITY,Activité,31,Fabrication de meubles
+ACTIVITY,Activité,32,Autres industries manufacturières
+ACTIVITY,Activité,33,Réparation et installation de machines et d'équipements
+ACTIVITY,Activité,38,"Collecte, traitement et élimination des déchets ; récupération"
+ACTIVITY,Activité,_T,Total
+COMPARE_TIME,Indicateur de comparabilité aux années antérieures,_Z,Non applicable
+EACEI_MEASURE,Mesure EACEI,FACTURE,Facture énergétique (en millions d'euros courants)
+EACEI_MEASURE,Mesure EACEI,CMSR_QAUP,Quantités achetées de combustibles minéraux solides
+EACEI_MEASURE,Mesure EACEI,CMSR_CSUP,Quantités consommées de combustibles minéraux solides
+EACEI_MEASURE,Mesure EACEI,CMSR_VALA,Valeur des achats de combustibles minéraux solides
+EACEI_MEASURE,Mesure EACEI,CMSR_PRIX,Prix moyen des combustibles minéraux solides
+EACEI_MEASURE,Mesure EACEI,GAZR_QAUP,Quantités achetées de gaz
+EACEI_MEASURE,Mesure EACEI,GAZR_CSUP,Quantités de gaz consommées
+EACEI_MEASURE,Mesure EACEI,GAZR_VALA,Valeur des achats de gaz
+EACEI_MEASURE,Mesure EACEI,GAZR_PRIX,Prix moyen annuel du gaz de réseau (en € / Mwh)
+EACEI_MEASURE,Mesure EACEI,BIOR_QAUP,Quantités achetées de biogaz et biométhane
+EACEI_MEASURE,Mesure EACEI,BIOR_CSUP,Quantités consommées de biogaz et biométhane
+EACEI_MEASURE,Mesure EACEI,BIOR_VALA,Valeur des achats de biogaz et biométhane
+EACEI_MEASURE,Mesure EACEI,BIOR_PRIX,Prix moyen annuel du Biogaz et biométhane (en € /t)
+EACEI_MEASURE,Mesure EACEI,IR_QAUP,Quantités achetées de coke de pétrole
+EACEI_MEASURE,Mesure EACEI,IR_CSUP,Quantités consommées de coke de pétrole
+EACEI_MEASURE,Mesure EACEI,IR_VALA,Valeur des achats de coke de pétrole
+EACEI_MEASURE,Mesure EACEI,IR_PRIX,Prix moyen annuel du coke de pétrole (en € / t)
+EACEI_MEASURE,Mesure EACEI,JR_QAUP,Quantités achetées de butane-propane
+EACEI_MEASURE,Mesure EACEI,JR_CSUP,Quantités consommées de butane-propane
+EACEI_MEASURE,Mesure EACEI,JR_VALA,Valeur des achats de butane-propane
+EACEI_MEASURE,Mesure EACEI,JR_PRIX,Prix moyen annuel du butane-propane (en € / t)
+EACEI_MEASURE,Mesure EACEI,KR_QAUP,Quantités achetées de fioul lourd
+EACEI_MEASURE,Mesure EACEI,KR_CSUP,Quantités consommées de fioul lourd
+EACEI_MEASURE,Mesure EACEI,KR_VALA,Valeur des achats de fioul lourd
+EACEI_MEASURE,Mesure EACEI,KR_PRIX,Prix moyen annuel du fioul lourd (en € / t)
+EACEI_MEASURE,Mesure EACEI,LR_QAUP,Quantités achetées de fioul domestique
+EACEI_MEASURE,Mesure EACEI,LR_CSUP,Quantités consommées de fioul domestique
+EACEI_MEASURE,Mesure EACEI,LR_VALA,Valeur des achats de fioul domestique
+EACEI_MEASURE,Mesure EACEI,LR_PRIX,Prix moyen annuel du fioul domestique (en € / l)
+EACEI_MEASURE,Mesure EACEI,QR_QAUP,Quantités achetées de gazole non routier
+EACEI_MEASURE,Mesure EACEI,QR_CSUP,Quantités consommées de gazole non routier
+EACEI_MEASURE,Mesure EACEI,QR_VALA,Valeur des achats de gazole non routier
+EACEI_MEASURE,Mesure EACEI,QR_PRIX,Prix moyen annuel du gazole non routier (en € / l)
+EACEI_MEASURE,Mesure EACEI,OR_QAUP,Quantités achetées de bois
+EACEI_MEASURE,Mesure EACEI,OR_CSUP,Quantités consommées de bois
+EACEI_MEASURE,Mesure EACEI,OR_VALA,Valeur des achats de bois
+EACEI_MEASURE,Mesure EACEI,OR_PRIX,Prix moyen annuel du bois (en € / t)
+EACEI_MEASURE,Mesure EACEI,CR_QAUP,Quantités achetées de vapeur
+EACEI_MEASURE,Mesure EACEI,CR_CSUP,Quantités consommées de vapeur
+EACEI_MEASURE,Mesure EACEI,CR_VALA,Valeur des achats de vapeur
+EACEI_MEASURE,Mesure EACEI,CR_PRIX,Prix moyen annuel de la vapeur (en € / t)
+EACEI_MEASURE,Mesure EACEI,PR_QAUP,Quantités achetées d’hydrogène
+EACEI_MEASURE,Mesure EACEI,PR_CSUP,Quantités consommées d’hydrogène
+EACEI_MEASURE,Mesure EACEI,PR_PROD,Quantités auto produites d’hydrogène
+EACEI_MEASURE,Mesure EACEI,PR_VALA,Valeur des achats d’hydrogène
+EACEI_MEASURE,Mesure EACEI,PR_PRIX,Prix moyen annuel d’hydrogène (en €/t)
+EACEI_MEASURE,Mesure EACEI,PR_AUCO,Autoproduction consommée
+EACEI_MEASURE,Mesure EACEI,PR_VEND,Autoproduction vendue d’hydrogène
+EACEI_MEASURE,Mesure EACEI,BR_QAUP,Achats d’électricité
+EACEI_MEASURE,Mesure EACEI,BR_CSUP,Quantités consommées d’électricité
+EACEI_MEASURE,Mesure EACEI,BR_PROD,Autoproduction électricité
+EACEI_MEASURE,Mesure EACEI,BR_VALA,Valeur des achats d'électricité
+EACEI_MEASURE,Mesure EACEI,BR_PRIX,Prix moyen annuel de l’électricité (en € / Mwh)
+NUMBER_EMPL,Taille de l'entreprise/établissement,E20T49,20 à 49 salariés
+NUMBER_EMPL,Taille de l'entreprise/établissement,E50T99,50 à 99 salariés
+NUMBER_EMPL,Taille de l'entreprise/établissement,E100T249,100 à 249 salariés
+NUMBER_EMPL,Taille de l'entreprise/établissement,E250T499,250 à 499 salariés
+NUMBER_EMPL,Taille de l'entreprise/établissement,E_GE500,500 salariés et plus
+NUMBER_EMPL,Taille de l'entreprise/établissement,_T,Total

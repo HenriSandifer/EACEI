@@ -1,0 +1,33 @@
+"NAF_T4 :  Autoproduction, achats et consommation d'électricité par usage en GWh selon le secteur d'activité en NAF rév.2 de l'établissement",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11
+,,,,,,,,,,,
+Indicateurs,Autoproduction d'origine thermique,Autoproduction d'origine non thermique,Autoproduction vendue,Autoproduction consommée (1),Achats (2),Consommation (1 + 2),Usage force motrice,Usages thermiques (y compris production de froid),Usage électrolyse,Usage chauffage des locaux et autres,"Usages thermodynamiques hors chauffage des locaux (Prod. froid, PAC, CMV)"
+"Secteur d'activité, division de la NAF rév.2",,,,,,,,,,,
+Total industrie,4669,582,1903,3349,109718,113067,68341,10308,12936,8239,13239
+07 - Extraction de minerais métalliques,s,s,s,s,s,s,s,s,s,s,s
+08 - 09 - Industries extractives,12,0,0,12,s,s,613,1,4,s,3
+10 - Industries alimentaires,1699,3,380,1321,17255,18576,11897,978,26,1510,4166
+11 - Fabrication de boissons,0,4,s,s,s,2168,1288,211,s,175,s
+12 - Fabrication de produits à base de tabac,0,0,0,0,16,17,12,0,0,2,3
+13 - Fabrication de textiles,s,s,s,s,s,1048,780,89,0,102,76
+14 - Industrie de l'habillement,0,0,0,0,109,109,83,1,0,24,1
+15 - Industrie du cuir et de la chaussure,0,0,0,0,124,124,75,8,0,27,14
+"16 - Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles - fabrication d'articles en vannerie et sparterie",129,2,131,0,2007,2007,1769,39,1,150,48
+17 - Industrie du papier et du carton,1312,39,512,839,7561,8399,7892,70,5,278,154
+18 - Imprimerie et reproduction d'enregistrements,1,0,0,1,1182,1183,s,36,s,158,75
+20 - Industrie chimique,1140,69,482,727,18584,19312,11449,473,3547,450,3392
+21 - Industrie pharmaceutique,s,s,0,23,2382,2404,1258,153,2,344,648
+22 - Fabrication de produits en caoutchouc et en plastique,s,s,s,s,s,6513,4172,932,19,503,886
+23 - Fabrication d'autres produits minéraux non métalliques,6,10,0,16,8313,8330,5838,1521,s,s,228
+24 - Métallurgie,203,103,8,298,21358,21656,8172,3617,8815,549,503
+"25 - Fabrication de produits métalliques, à l'exception des machines et des équipements",0,301,301,0,5031,5031,3365,593,215,651,206
+"26 - Fabrication de produits informatiques, électroniques et optiques",0,0,0,0,2174,2174,849,120,25,645,535
+27 - Fabrication d'équipements électriques,1,0,0,1,s,s,1032,s,9,300,250
+28 - Fabrication de machines et équipements n.c.a.,1,0,0,1,s,s,s,266,7,326,222
+29 - Industrie automobile,s,s,25,32,4862,4894,3203,390,146,500,656
+30 - Fabrication d'autres matériels de transport,s,s,22,2,1916,1919,884,230,21,421,362
+31 - Fabrication de meubles,0,s,s,0,405,405,319,9,0,55,21
+32 - Autres industries manufacturières,s,0,0,s,s,s,362,104,3,90,s
+33 - Réparation et installation de machines et d'équipements,0,0,0,0,755,755,354,s,s,232,122
+38 - Récupération,s,0,s,0,530,530,418,45,2,49,17
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération.",,,,,,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie 2017.",,,,,,,,,,,

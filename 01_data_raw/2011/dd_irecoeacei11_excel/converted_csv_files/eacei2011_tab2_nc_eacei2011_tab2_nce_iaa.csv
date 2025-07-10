@@ -1,0 +1,33 @@
+"Tab2_NCE : Autoproduction, achats et consommation d'électricité en GWh selon la nomenclature des activités consommatrices d'énergie",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+,,,,,,
+INDICATEUR,Production d'origine thermique,Production d'origine non thermique,Ventes,Autoconsommation (1),Achats (2),Consommation (1 + 2)
+NCE,,,,,,
+Total,5715,483,2681,3517,108433,111951
+Total hors IAA et scieries,3774,469,1942,2302,90127,92429
+E12 - Industrie laitière,66,0,29,37,3526,3563
+E13 - Sucreries,754,0,10,743,324,1067
+"E14 - Industries alimentaires, hors industrie du lait et du sucre",1118,14,701,432,14089,14520
+E16 - Sidérurgie,s,314,140,565,11622,12187
+E18 - Métallurgie de première transformation des métaux non ferreux,s,0,s,0,7032,7032
+E19 - Production de minéraux divers,2,s,s,7,s,s
+"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s,s,s,s
+E21 - Production d'autres matériaux de construction et de céramique,73,s,18,63,2492,2555
+E22 - Industrie du verre,3,2,0,5,3404,3409
+E23 - Fabrication d'engrais,59,0,2,57,560,617
+E24 - Autres industries de la chimie minérale,856,s,781,75,6768,6843
+"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",75,s,52,31,2464,2495
+E26 - Autres industries de la chimie organique de base,708,s,246,475,7235,7710
+E28 - Parachimie et industrie pharmaceutique,6,0,0,6,2449,2454
+E29 - Fonderie et travail des métaux,38,9,1,46,7887,7933
+E30 - Construction mécanique,4,s,1,4,2416,2420
+E31 - Construction électrique et électronique,5,s,1,4,4516,4521
+E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,38,s,22,s,4966,4982
+"E33 - Construction navale et aéronautique, armement",65,s,s,65,1894,1959
+"E34 - Industrie textile, du cuir et de l'habillement",6,4,5,5,1353,1358
+E35 - Industrie du papier et du carton,1286,s,497,860,8876,9736
+E36 - Fabrication de produits en caoutchouc,61,s,57,4,1488,1492
+E37 - Fabrication de produits en plastique,5,0,s,5,5565,5570
+E38 - Industries diverses,87,1,77,11,4354,4365
+Note : Les coefficients de conversion en tep de certaines énergies ont été actualisés pour la publication 2011.,,,,,,
+"Champ : France (hors Dom pour les IAA et scieries), établissements de 20 salariés ou plus appartenant à l'industrie (y compris IAA et scieries), hors industrie de l'énergie, y compris récupération.",,,,,,
+"Source : Insee, SSP, Enquête annuelle sur les consommations d'énergie dans l'industrie 2011, y compris IAA et scieries (calculs Insee).",,,,,,

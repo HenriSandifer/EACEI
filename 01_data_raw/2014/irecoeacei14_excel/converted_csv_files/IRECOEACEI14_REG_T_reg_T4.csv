@@ -1,0 +1,29 @@
+"REG_T4 : Autoproduction, achats et consommation d'électricité par usage en GWh selon la région (ancienne nomenclature) en 2014",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11
+,,,,,,,,,,,
+Indicateurs,Autoproduction d'origine thermique,Autoproduction d'origine non thermique,Autoproduction vendue,Autoproduction consommée (1),Achats (2),Consommation (1 + 2),Usage force motrice,Usages thermiques (y compris production de froid),Usage électrolyse,Usage chauffage des locaux et autres,"Usages thermodynamiques hors chauffage des locaux (Prod. froid, PAC, CMV)"
+Région,,,,,,,,,,,
+Toutes régions,s,s,1840,3036,107669,110705,71714,11085,10553,7037,9795
+Île-de-France,55,0,s,s,s,5277,2970,634,82,700,857
+Champagne-Ardenne,134,0,24,110,s,s,2429,540,s,226,199
+Picardie,449,0,0,449,4075,4524,3025,405,331,363,382
+Haute-Normandie,428,0,164,265,6275,6540,5423,379,37,279,409
+Centre,93,0,s,s,s,3650,2585,397,36,264,342
+Basse-Normandie,25,0,0,24,2112,2136,1483,231,32,147,231
+Bourgogne,2,0,0,2,2762,2764,1683,490,21,279,263
+Nord-Pas-de-Calais,s,s,s,s,s,16775,9440,1100,4843,425,931
+Lorraine,s,s,188,199,8105,8305,6343,1143,56,322,328
+Alsace,180,1,143,39,5077,5116,3892,489,s,s,239
+Franche-Comté,s,s,s,1,s,s,2121,85,s,118,197
+Pays de la Loire,83,4,43,43,5912,5955,4012,658,55,426,793
+Bretagne,s,s,1,15,4203,4218,2652,341,31,343,834
+Poitou-Charentes,s,s,s,s,s,2078,1508,190,16,138,202
+Aquitaine,378,1,s,s,s,4849,3122,629,296,273,491
+Midi-Pyrénées,s,s,s,s,s,2884,1760,235,25,386,463
+Limousin,18,2,0,20,1051,1071,849,77,9,60,73
+Rhône-Alpes,89,82,81,90,14149,14239,7445,2303,1628,1387,1446
+Auvergne,s,0,s,s,s,2507,1543,336,13,187,428
+Languedoc-Roussillon,s,s,s,s,s,s,905,133,s,s,147
+PACA et Corse,973,0,s,s,s,8798,6231,266,1529,280,464
+DOM,s,s,2,9,427,437,293,23,0,39,75
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération.",,,,,,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie en 2014.",,,,,,,,,,,

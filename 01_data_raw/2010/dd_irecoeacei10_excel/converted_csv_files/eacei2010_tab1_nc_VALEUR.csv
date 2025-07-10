@@ -1,0 +1,34 @@
+Tab1_NCE : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP) selon la nomenclature des activités consommatrices d'énergie,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24
+INDICATEUR : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP),,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ENERGIES,Houille,Lignite - charbon pauvre,Coke de houille,Gaz naturel de réseau,Autres gaz de réseau,Coke de pétrole,Butane propane,Fioul lourd,Fioul domestique,Total combustibles usuels,Autres produits pétroliers,Liqueurs noires,Bois et sous-produit du bois,Combustibles spéciaux renouvelables,Combustibles spéciaux non renouvelables,Total autres combustibles,Total combustibles,Achats de vapeur,Achats d'électricité,Autoconsommation d'électricité,Total brut,Ventes de vapeur,Consommation pour production d'électricité,Total net
+NCE,,,,,,,,,,,,,,,,,,,,,,,,
+Total,4920,207,618,11083,105,806,1658,1005,296,20699,1373,702,1011,236,369,3690,24389,1708,9322,354,35773,398,1433,33955
+Total hors IAA,4777,86,597,8633,95,806,1557,748,250,17549,1369,702,935,236,369,3612,21161,1439,7716,252,30568,353,1175,29041
+E12 - Industrie laitière,0,0,0,394,1,0,19,99,9,522,0,0,28,0,0,28,550,23,294,4,870,2,20,847
+E13 - Sucreries,89,61,21,523,0,0,0,93,3,790,0,0,0,0,0,1,791,0,25,60,876,38,99,751
+"E14 - Industries alimentaires, hors industrie du lait et du sucre",54,60,0,1533,9,0,81,65,29,1831,3,0,25,0,0,28,1859,247,1255,38,3399,5,139,3255
+E16 - Sidérurgie,4110,s,292,553,s,s,5,s,s,5051,0,0,52,s,s,55,5106,47,955,64,6171,s,s,6171
+E18 - Métallurgie de première transformation des métaux non ferreux,0,s,0,235,s,118,5,s,4,s,s,s,0,0,0,s,375,26,s,s,s,0,0,s
+E19 - Production de minéraux divers,0,0,0,27,0,0,3,s,14,s,s,s,0,0,0,s,47,s,s,s,90,0,2,88
+"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+E21 - Production d'autres matériaux de construction et de céramique,s,s,64,s,1,s,s,s,87,744,14,0,46,9,8,77,821,s,s,s,1067,0,18,1048
+E22 - Industrie du verre,0,0,s,673,0,0,s,258,s,s,0,s,0,0,s,s,942,s,s,s,1213,0,0,1212
+E23 - Fabrication d'engrais,0,0,0,1022,0,0,4,3,2,1031,0,0,7,0,0,7,1038,0,54,6,1097,0,8,1089
+E24 - Autres industries de la chimie minérale,205,s,s,612,0,0,1,s,1,s,s,s,0,0,5,s,1082,s,s,s,1800,103,218,1479
+"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",s,0,0,294,0,0,0,6,s,s,s,0,s,0,0,s,476,98,202,3,778,36,29,714
+E26 - Autres industries de la chimie organique de base,72,0,0,1347,65,s,s,s,s,3102,830,s,12,s,35,900,4002,560,616,48,5225,184,257,4784
+E28 - Parachimie et industrie pharmaceutique,0,0,0,218,0,0,16,s,6,s,0,0,s,s,s,s,248,15,s,s,480,0,6,474
+E29 - Fonderie et travail des métaux,s,s,s,585,12,s,40,4,19,s,s,0,s,0,0,s,905,s,s,s,1559,s,s,s
+E30 - Construction mécanique,0,0,s,187,2,0,17,s,s,218,0,0,1,0,0,1,219,1,208,0,428,0,1,427
+E31 - Construction électrique et électronique,0,0,s,s,1,s,s,s,s,s,s,s,s,s,s,3,s,2,s,s,657,0,1,656
+E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,0,0,5,406,0,0,11,1,9,433,0,0,s,0,s,0,433,s,s,s,916,s,s,902
+"E33 - Construction navale et aéronautique, armement",0,0,0,142,1,0,3,s,s,148,1,0,s,s,s,7,155,9,s,s,330,s,s,319
+"E34 - Industrie textile, du cuir et de l'habillement",0,0,0,159,1,0,7,5,6,177,0,s,s,0,0,0,177,4,s,s,315,s,s,313
+E35 - Industrie du papier et du carton,29,0,0,824,s,0,11,s,s,943,0,s,462,112,s,1265,2208,386,s,s,3475,28,589,2859
+E36 - Fabrication de produits en caoutchouc,0,0,0,108,0,0,2,0,s,s,0,s,s,0,0,s,113,66,131,1,311,s,s,307
+E37 - Fabrication de produits en plastique,0,0,0,133,1,s,12,s,10,170,s,0,2,s,0,2,172,27,s,s,675,0,2,673
+E38 - Industries diverses,0,0,0,207,2,0,12,5,23,249,0,s,s,0,0,346,595,2,369,1,967,0,15,953
+,,,,,,,,,,,,,,,,,,,,,,,,
+Champ : France métropolitaine.,,,,,,,,,,,,,,,,,,,,,,,,
+"Sources : Insee, SSP, Enquête annuelle sur les consommations d'énergie dans l'industrie 2010, y compris IAA et scieries (calculs Insee).",,,,,,,,,,,,,,,,,,,,,,,,

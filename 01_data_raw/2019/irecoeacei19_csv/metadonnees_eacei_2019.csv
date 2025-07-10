@@ -1,0 +1,178 @@
+COD_VAR;LIB_VAR;COD_MOD;LIB_MOD1
+INDIC_SL;Indicateur;CONSBRT;Consommation brute (en millions de TEP)
+INDIC_SL;Indicateur;CONSNET;Consommation nette (en millions de TEP)
+INDIC_SL;Indicateur;FACTURE;Facture énergétique (en millions d'euros courants)
+INDIC_SL;Indicateur;BR_PCT;Electricité consommée hors utilisation en tant que matière première (en %)
+INDIC_SL;Indicateur;CMS_PCT;Combustibles minéraux solides (houille, lignite, coke de houille) consommés hors utilisation en tant que matière première (en %)
+INDIC_SL;Indicateur;DR_PCT;Gaz de réseau consommé hors utilisation en tant que matière première (en %)
+INDIC_SL;Indicateur;PP_PCT;Produits pétroliers (coke de pétrole, butane-propane, fioul lourd et fioul domestique) consommés hors utilisation en tant que matière première (en %)
+INDIC_SL;Indicateur;CR_PCT;Vapeur consommée hors utilisation en tant que matière première (en %)
+INDIC_SL;Indicateur;ENM_PCT;Énergies non marchandes consommées hors utilisation en tant que matière première (en %)
+INDIC_SL;Indicateur;TOT_PCT;Total (en %)
+INDIC_SL;Indicateur;BR_PRIX;Prix moyen annuel de l'électricité (en € / Mwh)
+INDIC_SL;Indicateur;CR_PRIX;Prix moyen annuel de la vapeur (en € / t)
+INDIC_SL;Indicateur;DR_PRIX;Prix moyen annuel du gaz de réseau (en € / Mwh)
+INDIC_SL;Indicateur;FR_PRIX;Prix moyen annuel de la houille (en € / t)
+INDIC_SL;Indicateur;GR_PRIX;Prix moyen annuel de la lignite, du charbon pauvre (en € / t)
+INDIC_SL;Indicateur;HR_PRIX;Prix moyen annuel du coke de houille (en € / t)
+INDIC_SL;Indicateur;IR_PRIX;Prix moyen annuel du coke de pétrole (en € / t)
+INDIC_SL;Indicateur;JR_PRIX;Prix moyen annuel du butane-propane (en € / t)
+INDIC_SL;Indicateur;KR_PRIX;Prix moyen annuel du fioul lourd (en € / t)
+INDIC_SL;Indicateur;LR_PRIX;Prix moyen annuel du fioul domestique (en € / l)
+INDIC_SL;Indicateur;OR_PRIX;Prix moyen annuel du bois (en € / t)
+INDIC_T1;Indicateur;NB_ETAB;Nombre d'établissements
+INDIC_T1;Indicateur;FR_CSTP;Combustibles minéraux solides (houille, lignite - charbon pauvre, coke de houille)
+INDIC_T1;Indicateur;DR_CSTP;Gaz de réseau
+INDIC_T1;Indicateur;IR_CSTP;Coke de pétrole
+INDIC_T1;Indicateur;JR_CSTP;Butane propane
+INDIC_T1;Indicateur;KR_CSTP;Fioul lourd
+INDIC_T1;Indicateur;LR_CSTP;Fioul domestique
+INDIC_T1;Indicateur;CONCOMB1;Total combustibles usuels
+INDIC_T1;Indicateur;MR_CSTP;Autres produits pétroliers
+INDIC_T1;Indicateur;NR_CSTP;Liqueurs noires
+INDIC_T1;Indicateur;OR_CSTP;Bois et sous-produit du bois
+INDIC_T1;Indicateur;PR_CSTP;Hydrogene
+INDIC_T1;Indicateur;XR_CSTP;Combustibles spéciaux renouvelables
+INDIC_T1;Indicateur;YR_CSTP;Combustibles spéciaux non renouvelables
+INDIC_T1;Indicateur;CONCOMB2;Total autres combustibles
+INDIC_T1;Indicateur;CONCOMB;Total combustibles
+INDIC_T1;Indicateur;CR_CSTP;Achats de vapeur
+INDIC_T1;Indicateur;BR_CSTP;Electricité
+INDIC_T1;Indicateur;CONSBRT;Total brut
+INDIC_T1;Indicateur;CR_VTTP;Vapeur vendue
+INDIC_T1;Indicateur;COMBPRB;Consommation pour production d'électricité
+INDIC_T1;Indicateur;CONSNET;Total net
+INDIC_T2;Indicateur;QAUP;Quantités achetées
+INDIC_T2;Indicateur;CSUP;Consommation
+INDIC_T2;Indicateur;VALA;Valeur des achats (en millions d'euros)
+INDIC_T2;Indicateur;PRIX;Prix moyen
+INDIC_T3;Indicateur;USQF;Fabrication (fours, séchoirs…) y compris production de vapeur
+INDIC_T3;Indicateur;USQ2;Matières premières
+INDIC_T3;Indicateur;USQ3;Production d'électricité
+INDIC_T3;Indicateur;USQ4;Chauffages et autres usages
+INDIC_T3;Indicateur;USQ8;Combustion hors production d’électricité
+INDIC_T3;Indicateur;CSTP;Ensemble des usages
+INDIC_T4;Indicateur;BR_THER;Autoproduction d'origine thermique
+INDIC_T4;Indicateur;BR_NTHE;Autoproduction d'origine non thermique
+INDIC_T4;Indicateur;BR_VEND;Autoproduction vendue
+INDIC_T4;Indicateur;BR_AUCO;Autoproduction consommée (1)
+INDIC_T4;Indicateur;BR_QAUP;Achats (2)
+INDIC_T4;Indicateur;BR_CSUP;Consommation (1 + 2)
+INDIC_T4;Indicateur;BR_USQ2_UP;Usages thermiques (y compris production de froid)
+ANNEE;Année;1996;1996
+ANNEE;Année;1997;1997
+ANNEE;Année;1998;1998
+ANNEE;Année;1999;1999
+ANNEE;Année;2000;2000
+ANNEE;Année;2001;2001
+ANNEE;Année;2002;2002
+ANNEE;Année;2003;2003
+ANNEE;Année;2004;2004
+ANNEE;Année;2005r;2005
+ANNEE;Année;2005;2005
+ANNEE;Année;2006;2006
+ANNEE;Année;2007;2007
+ANNEE;Année;2008;2008
+ANNEE;Année;2009;2009
+ANNEE;Année;2010;2010
+ANNEE;Année;2011;2011
+ANNEE;Année;2012;2012
+ANNEE;Année;2013;2013
+ANNEE;Année;2014;2014
+ANNEE;Année;2015;2015
+ANNEE;Année;2016;2016
+ANNEE;Année;2017;2017
+ANNEE;Année;2018;2018
+ANNEE;Année;2019;2019
+ENERGIE;Type d'énergie;T;Total des énergies
+ENERGIE;Type d'énergie;FR;Combustibles minéraux solides (houille, lignite - charbon pauvre, coke de houille)
+ENERGIE;Type d'énergie;DR;Gaz de réseau
+ENERGIE;Type d'énergie;IR;Coke de pétrole
+ENERGIE;Type d'énergie;JR;Butane propane
+ENERGIE;Type d'énergie;KR;Fioul lourd
+ENERGIE;Type d'énergie;LR;Fioul domestique
+ENERGIE;Type d'énergie;OR;Bois
+ENERGIE;Type d'énergie;CR;Vapeur
+ENERGIE;Type d'énergie;BR;Electricité
+ENERGIE;Type d'énergie;PR;Hydrogene
+ENERGIE2;Type d'énergie;FR;Combustibles minéraux solides (houille, lignite - charbon pauvre, coke de houille)
+ENERGIE2;Type d'énergie;DR;Gaz de réseau
+ENERGIE2;Type d'énergie;IR;Coke de pétrole
+ENERGIE2;Type d'énergie;JR;Butane propane
+ENERGIE2;Type d'énergie;KR;Fioul lourd
+ENERGIE2;Type d'énergie;LR;Fioul domestique
+ENERGIE2;Type d'énergie;OR;Bois et sous-produit du bois
+ENERGIE2;Type d'énergie;CR;Vapeur
+ENERGIE2;Type d'énergie;PR;Hydrogene
+NCE;Nomenclature activités consommatrices d'énergie;T;Total industrie
+NCE;Nomenclature activités consommatrices d'énergie;E12;E12 - Industrie laitière
+NCE;Nomenclature activités consommatrices d'énergie;E13;E13 - Sucreries
+NCE;Nomenclature activités consommatrices d'énergie;E14;E14 - Industries alimentaires, hors industrie du lait et du sucre
+NCE;Nomenclature activités consommatrices d'énergie;E16;E16 - Sidérurgie
+NCE;Nomenclature activités consommatrices d'énergie;E18;E18 - Métallurgie de première transformation des métaux non ferreux
+NCE;Nomenclature activités consommatrices d'énergie;E19;E19 - Production de minéraux divers
+NCE;Nomenclature activités consommatrices d'énergie;E20;E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments
+NCE;Nomenclature activités consommatrices d'énergie;E21;E21 - Production d'autres matériaux de construction et de céramique
+NCE;Nomenclature activités consommatrices d'énergie;E22;E22 - Industrie du verre
+NCE;Nomenclature activités consommatrices d'énergie;E23;E23 - Fabrication d'engrais
+NCE;Nomenclature activités consommatrices d'énergie;E24;E24 - Autres industries de la chimie minérale
+NCE;Nomenclature activités consommatrices d'énergie;E25;E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques
+NCE;Nomenclature activités consommatrices d'énergie;E26;E26 - Autres industries de la chimie organique de base
+NCE;Nomenclature activités consommatrices d'énergie;E28;E28 - Parachimie et industrie pharmaceutique
+NCE;Nomenclature activités consommatrices d'énergie;E29;E29 - Fonderie et travail des métaux
+NCE;Nomenclature activités consommatrices d'énergie;E30;E30 - Construction mécanique
+NCE;Nomenclature activités consommatrices d'énergie;E31;E31 - Construction électrique et électronique
+NCE;Nomenclature activités consommatrices d'énergie;E32;E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre
+NCE;Nomenclature activités consommatrices d'énergie;E33;E33 - Construction navale et aéronautique, armement
+NCE;Nomenclature activités consommatrices d'énergie;E34;E34 - Industrie textile, du cuir et de l'habillement
+NCE;Nomenclature activités consommatrices d'énergie;E35;E35 - Industrie du papier et du carton
+NCE;Nomenclature activités consommatrices d'énergie;E36;E36 - Fabrication de produits en caoutchouc
+NCE;Nomenclature activités consommatrices d'énergie;E37;E37 - Fabrication de produits en plastique
+NCE;Nomenclature activités consommatrices d'énergie;E38;E38 - Industries diverses
+REGION;Région;T;Toutes régions
+REGION;Région;11;Île-de-France
+REGION;Région;24;Centre-Val de Loire
+REGION;Région;27;Bourgogne-Franche-Comté
+REGION;Région;28;Normandie
+REGION;Région;32;Hauts-de-France
+REGION;Région;44;Grand Est
+REGION;Région;52;Pays de la Loire
+REGION;Région;53;Bretagne
+REGION;Région;75;Nouvelle-Aquitaine
+REGION;Région;76;Occitanie
+REGION;Région;84;Auvergne-Rhône-Alpes
+REGION;Région;93;Provence-Alpes-Côte d'Azur et Corse
+REGION;Région;97;Dom
+SECTEUR;Secteur d'activité, division de la NAF rév.2;T;Total industrie
+SECTEUR;Secteur d'activité, division de la NAF rév.2;7;07 - Extraction de minerais métalliques
+SECTEUR;Secteur d'activité, division de la NAF rév.2;8;08 - 09 - Industries extractives
+SECTEUR;Secteur d'activité, division de la NAF rév.2;10;10 - Industries alimentaires
+SECTEUR;Secteur d'activité, division de la NAF rév.2;11;11 - Fabrication de boissons
+SECTEUR;Secteur d'activité, division de la NAF rév.2;12;12 - Fabrication de produits à base de tabac
+SECTEUR;Secteur d'activité, division de la NAF rév.2;13;13 - Fabrication de textiles
+SECTEUR;Secteur d'activité, division de la NAF rév.2;14;14 - Industrie de l'habillement
+SECTEUR;Secteur d'activité, division de la NAF rév.2;15;15 - Industrie du cuir et de la chaussure
+SECTEUR;Secteur d'activité, division de la NAF rév.2;16;16 - Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles - fabrication d'articles en vannerie et sparterie
+SECTEUR;Secteur d'activité, division de la NAF rév.2;17;17 - Industrie du papier et du carton
+SECTEUR;Secteur d'activité, division de la NAF rév.2;18;18 - Imprimerie et reproduction d'enregistrements
+SECTEUR;Secteur d'activité, division de la NAF rév.2;20;20 - Industrie chimique
+SECTEUR;Secteur d'activité, division de la NAF rév.2;21;21 - Industrie pharmaceutique
+SECTEUR;Secteur d'activité, division de la NAF rév.2;22;22 - Fabrication de produits en caoutchouc et en plastique
+SECTEUR;Secteur d'activité, division de la NAF rév.2;23;23 - Fabrication d'autres produits minéraux non métalliques
+SECTEUR;Secteur d'activité, division de la NAF rév.2;24;24 - Métallurgie
+SECTEUR;Secteur d'activité, division de la NAF rév.2;25;25 - Fabrication de produits métalliques, à l'exception des machines et des équipements
+SECTEUR;Secteur d'activité, division de la NAF rév.2;26;26 - Fabrication de produits informatiques, électroniques et optiques
+SECTEUR;Secteur d'activité, division de la NAF rév.2;27;27 - Fabrication d'équipements électriques
+SECTEUR;Secteur d'activité, division de la NAF rév.2;28;28 - Fabrication de machines et équipements n.c.a.
+SECTEUR;Secteur d'activité, division de la NAF rév.2;29;29 - Industrie automobile
+SECTEUR;Secteur d'activité, division de la NAF rév.2;30;30 - Fabrication d'autres matériels de transport
+SECTEUR;Secteur d'activité, division de la NAF rév.2;31;31 - Fabrication de meubles
+SECTEUR;Secteur d'activité, division de la NAF rév.2;32;32 - Autres industries manufacturières
+SECTEUR;Secteur d'activité, division de la NAF rév.2;33;33 - Réparation et installation de machines et d'équipements
+SECTEUR;Secteur d'activité, division de la NAF rév.2;38;38 - Récupération
+TEFF;Tranche d'effectif salarié;T;Total industrie
+TEFF;Tranche d'effectif salarié;3;20 à 49 salariés
+TEFF;Tranche d'effectif salarié;4;50 à 99 salariés
+TEFF;Tranche d'effectif salarié;5;100 à 249 salariés
+TEFF;Tranche d'effectif salarié;6;250 à 499 salariés
+TEFF;Tranche d'effectif salarié;7;500 salariés ou plus

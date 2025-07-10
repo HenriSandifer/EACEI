@@ -1,0 +1,71 @@
+Nom du fichier xlsx,EACEI_2022_T1,Unnamed: 2,Unnamed: 3
+Date de création du fichier,2024-03-12T12:57:03,,
+Onglet,Secteur d'activité,NAF_T1 : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP) et nombre d'établissements selon le secteur d'activité en NAF. rév.2,
+Onglet,Effectif,TEFF_T1 : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP) et nombre d'établissements selon la tranche d'effectif de l'établissement,
+Onglet,Régions,REG_T1 : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP) et nombre d'établissements selon la région,
+Source,Enquête sur les consommations d'énergie dans l'industrie 2022,,
+,,,
+COD_VAR,LIB_VAR,COD_MOD,LIB_MOD
+FREQ,Fréquence,A,Annuel
+TIME_PERIOD,Période temporelle,2022 -> 2022,2022 -> 2022
+GEO_DATE,Millésime géographique,2022,2022
+GEO_SCOPE,Périmètre géographique,FE,France entière
+GEO_OBJECT,Niveau géographique,NAT,Niveau national
+GEO_OBJECT,Niveau géographique,REG,Région
+GEO_OBJECT,Niveau géographique,FM_DOM,France métropolitaine et DOM
+GEO,Géographie,,
+ACTIVITY,Activité,B07T09,"Industries extractives (à l’exception de l’extraction de houille, de lignite et d’hydrocarbures)"
+ACTIVITY,Activité,C10T12,"Fabrication de denrées alimentaires, de boissons et de produits à base de tabac"
+ACTIVITY,Activité,13,Fabrication de textiles
+ACTIVITY,Activité,14,Industrie de l'habillement
+ACTIVITY,Activité,15,Industrie du cuir et de la chaussure
+ACTIVITY,Activité,16,"Travail du bois et fabrication d'articles en bois et en liège, à l’exception des meubles ; fabrication d’articles en vannerie et sparterie"
+ACTIVITY,Activité,17,Industrie du papier et du carton
+ACTIVITY,Activité,18,Imprimerie et reproduction d'enregistrements
+ACTIVITY,Activité,20,Industrie chimique
+ACTIVITY,Activité,21,Industrie pharmaceutique
+ACTIVITY,Activité,22,Fabrication de produits en caoutchouc et en plastique
+ACTIVITY,Activité,23,Fabrication d'autres produits minéraux non métalliques
+ACTIVITY,Activité,24,Métallurgie
+ACTIVITY,Activité,25,"Fabrication de produits métalliques, à l'exception des machines et des équipements"
+ACTIVITY,Activité,26,"Fabrication de produits informatiques, électroniques et optiques"
+ACTIVITY,Activité,27,Fabrication d'équipements électriques
+ACTIVITY,Activité,28,Fabrication de machines et équipements n.c.a.
+ACTIVITY,Activité,29,Industrie automobile
+ACTIVITY,Activité,30,Fabrication d'autres matériels de transport
+ACTIVITY,Activité,31,Fabrication de meubles
+ACTIVITY,Activité,32,Autres industries manufacturières
+ACTIVITY,Activité,33,Réparation et installation de machines et d'équipements
+ACTIVITY,Activité,38,"Collecte, traitement et élimination des déchets ; récupération"
+ACTIVITY,Activité,_T,Total
+COMPARE_TIME,Indicateur de comparabilité aux années antérieures,1_2005,Comparable aux années postérieures à 2005
+COMPARE_TIME,Indicateur de comparabilité aux années antérieures,_Z,Non applicable
+EACEI_MEASURE,Mesure EACEI,EFFECTIF,Nombre d’établissements
+EACEI_MEASURE,Mesure EACEI,CMSR_CSTP,"Combustibles minéraux solides (houille, lignite, charbon pauvre,  coke de houille)"
+EACEI_MEASURE,Mesure EACEI,GAZR_CSTP,Quantités de gaz naturel et autres gaz consommées
+EACEI_MEASURE,Mesure EACEI,BIOR_CSTP,Biogaz et biométhane
+EACEI_MEASURE,Mesure EACEI,IR_CSTP,Coke de pétrole
+EACEI_MEASURE,Mesure EACEI,JR_CSTP,Butane propane
+EACEI_MEASURE,Mesure EACEI,KR_CSTP,Fioul lourd
+EACEI_MEASURE,Mesure EACEI,LR_CSTP,Quantités de fioul domestique consommées
+EACEI_MEASURE,Mesure EACEI,QR_CSTP,Quantités de gazole non routier consommées
+EACEI_MEASURE,Mesure EACEI,CUR_CSTP,Total combustibles usuels
+EACEI_MEASURE,Mesure EACEI,MR_CSTP,Autres produits pétroliers
+EACEI_MEASURE,Mesure EACEI,NR_CSTP,Liqueurs noires
+EACEI_MEASURE,Mesure EACEI,OR_CSTP,Bois et sous-produit du bois
+EACEI_MEASURE,Mesure EACEI,PR_CSTP,Quantités d’hydrogène consommées
+EACEI_MEASURE,Mesure EACEI,XR_CSTP,Combustibles spéciaux renouvelables
+EACEI_MEASURE,Mesure EACEI,YR_CSTP,Combustibles spéciaux non renouvelables
+EACEI_MEASURE,Mesure EACEI,CAR_CSTP,Total autres combustibles
+EACEI_MEASURE,Mesure EACEI,CR_CSTP,Achats de vapeur
+EACEI_MEASURE,Mesure EACEI,BR_CSTP,Électricité
+EACEI_MEASURE,Mesure EACEI,CONSBRT_MILLIERS,Total brut de la consommation (en milliers de TEP)
+EACEI_MEASURE,Mesure EACEI,CR_VTTP,Vapeur vendue
+EACEI_MEASURE,Mesure EACEI,COMBPRB,Consommation pour production d'électricité
+EACEI_MEASURE,Mesure EACEI,CONSNET_MILLIERS,Total net de la consommation (en milliers de TEP)
+NUMBER_EMPL,Taille de l'entreprise/établissement,E20T49,20 à 49 salariés
+NUMBER_EMPL,Taille de l'entreprise/établissement,E50T99,50 à 99 salariés
+NUMBER_EMPL,Taille de l'entreprise/établissement,E100T249,100 à 249 salariés
+NUMBER_EMPL,Taille de l'entreprise/établissement,E250T499,250 à 499 salariés
+NUMBER_EMPL,Taille de l'entreprise/établissement,E_GE500,500 salariés et plus
+NUMBER_EMPL,Taille de l'entreprise/établissement,_T,Total

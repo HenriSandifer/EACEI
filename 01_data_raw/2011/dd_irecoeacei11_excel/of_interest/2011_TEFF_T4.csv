@@ -1,0 +1,14 @@
+"tab2_taille - Autoproduction, achats et consommation d'électricité en GWh selon la taille de l'entreprise",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+,,,,,,
+INDICATEUR,Production d'origine thermique,Production d'origine non thermique,Ventes,Autoconsommation (1),Achats (2),Consommation (1 + 2)
+TAILLE,,,,,,
+Total,3774,469,1942,2302,90127,92429
+20 à 49 employés,s,17,s,31,7879,7910
+50 à 99 employés,s,s,82,80,11474,11553
+100 à 249 employés,260,88,104,244,19986,20230
+250 à 499 employés,1626,202,817,1010,22463,23473
+500 à 999 employés,409,s,219,190,14526,14717
+1 000 à 1 999 employés,385,0,211,175,5797,5972
+2 000 employés ou plus,472,133,s,572,8002,8574
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie hors IAA et scieries, hors industrie de l'énergie, y compris récupération.",,,,,,
+"Source : Insee, enquête annuelle sur les consommations d'énergie dans l'industrie 2011.",,,,,,

@@ -1,0 +1,29 @@
+"Tab2_Région : Autoproduction, achats et consommation d'électricité en GWh selon la région",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+,,,,,,
+INDICATEUR,Production d'origine thermique,Production d'origine hydraulique,Ventes,Autoconsommation (1),Achats (2),Consommation (1 + 2)
+REGION,,,,,,
+Toutes régions,6024,669,2577,4116,108392,112507
+Ile-de-France,s,s,67,73,5400,5472
+Champagne-Ardenne,s,s,s,145,3647,3791
+Picardie,s,s,s,s,s,4969
+Haute-Normandie,s,s,143,404,5986,6389
+Centre,s,s,121,114,3820,3934
+Basse-Normandie,s,s,s,s,s,2049
+Bourgogne,4,s,s,4,2539,2543
+Nord-Pas-de-Calais,928,s,s,286,17087,17373
+Lorraine,479,110,333,256,8597,8852
+Alsace,155,s,s,126,5689,5815
+Franche-Comté,s,s,s,s,s,3391
+Pays de la Loire,97,0,60,37,5618,5655
+Bretagne,29,0,0,29,4229,4258
+Poitou-Charentes,s,s,s,s,s,2149
+Aquitaine,s,s,31,453,4642,5095
+Midi-Pyrénées,302,70,90,282,2504,2786
+Limousin,44,s,s,s,s,916
+Rhône-Alpes,s,s,564,198,14591,14790
+Auvergne,112,s,s,s,s,2543
+Languedoc-Roussillon,s,s,s,s,s,1928
+PACA et Corse,846,s,s,726,6884,7610
+,,,,,,
+Champ : France métropolitaine.,,,,,,
+"Sources : Insee, SSP, Enquête annuelle sur les consommations d'énergie dans l'industrie 2010, y compris IAA et scieries (calculs Insee).",,,,,,

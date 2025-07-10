@@ -1,0 +1,20 @@
+"REG_T4 : Autoproduction, achats et consommation d'électricité par usage en GWh selon la région",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+,,,,,,,
+Indicateur,Autoproduction d'origine thermique,Autoproduction d'origine non thermique,Autoproduction vendue,Autoproduction consommée (1),Achats (2),Consommation (1 + 2),Usages thermiques (y compris production de froid)
+Région,,,,,,,
+Toutes régions,5617,454,2143,3971,106074,110045,8954
+Île-de-France,127,0,s,s,s,5281,873
+Centre-Val de Loire,241,3,184,59,3450,3509,421
+Bourgogne-Franche-Comté,1,0,s,s,s,5566,571
+Normandie,s,s,176,410,7945,8356,524
+Hauts-de-France,1481,156,286,1351,19578,20929,1464
+Grand Est,1452,34,583,903,15825,16728,1542
+Pays de la Loire,55,26,s,s,s,5697,548
+Bretagne,s,s,87,4,4035,4039,302
+Nouvelle-Aquitaine,404,12,188,228,7308,7536,623
+Occitanie,257,73,163,167,4704,4871,392
+Auvergne-Rhône-Alpes,312,79,258,175,18722,18896,1430
+Provence-Alpes-Côte d'Azur et Corse,673,2,98,578,7566,8144,246
+Dom,s,s,s,s,s,492,20
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération.",,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie 2019.",,,,,,,

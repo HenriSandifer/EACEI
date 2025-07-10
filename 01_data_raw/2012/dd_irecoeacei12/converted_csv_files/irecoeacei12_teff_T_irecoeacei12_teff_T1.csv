@@ -1,0 +1,15 @@
+teff_T1 - Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP) selon la tranche d'effectif de l'établissement,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22
+INDICATEUR : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP),,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+ENERGIES,Houille,Lignite - charbon pauvre,Coke de houille,Gaz de réseau,Coke de pétrole,Butane propane,Fioul lourd,Fioul domestique,Total combustibles usuels,Autres produits pétroliers,Liqueurs noires,Bois et sous-produit du bois,Combustibles spéciaux renouvelables,Combustibles spéciaux non renouvelables,Total autres combustibles,Total combustibles,Achats de vapeur,Electricité,Total brut,Vapeur vendue,Consommation pour production d'électricité,Total net
+TAILLE,,,,,,,,,,,,,,,,,,,,,,
+Total industrie,4854,195,376,10719,718,1690,821,276,19649,1296,852,734,303,367,3551,23200,1542,9427,34170,488,1001,32681
+20 à 49 employés,82,s,s,816,27,s,45,98,1192,30,s,81,22,s,155,1347,47,997,2390,nd,nd,2157
+50 à 99 employés,125,45,82,1236,218,50,100,59,1915,261,0,91,71,113,536,2451,156,1069,3677,nd,nd,3663
+100 à 249 employés,409,47,63,3324,345,537,260,59,5043,174,1,188,80,215,658,5702,447,2295,8444,nd,nd,8225
+250 à 499 employés,348,35,65,2786,24,867,331,27,4483,s,s,347,127,20,1340,5823,479,2399,8700,nd,nd,7961
+500 à 999 employés,4,s,s,1409,104,s,41,12,1772,s,s,s,s,s,843,2615,285,1394,4293,nd,nd,4149
+1 000 à 1 999 employés,83,0,s,379,0,5,43,7,s,s,0,s,s,0,s,592,97,508,1197,nd,nd,1131
+2 000 employés ou plus,3804,s,s,768,0,0,2,14,s,0,0,s,s,0,s,4671,32,766,5469,nd,nd,5395
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération. ",,,,,,,,,,,,,,,,,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie 2012",,,,,,,,,,,,,,,,,,,,,,

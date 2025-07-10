@@ -1,0 +1,16 @@
+Tab1_Taille : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP) selon la tranche d'effectif de l'établissement,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24
+INDICATEUR : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP),,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ENERGIES,Houille,Lignite - charbon pauvre,Coke de houille,Gaz naturel de réseau,Autres gaz de réseau,Coke de pétrole,Butane propane,Fioul lourd,Fioul domestique,Total combustibles usuels,Autres produits pétroliers,Liqueurs noires,Bois et sous-produit du bois,Combustibles spéciaux renouvelables,Combustibles spéciaux non renouvelables,Total autres combustibles,Total combustibles,Achats de vapeur,Achats d'électricité,Autoconsommation d'électricité,Total brut,Ventes de vapeur,Consommation pour production d'électricité,Total net
+TAILLE,,,,,,,,,,,,,,,,,,,,,,,,
+TT - Total,4614,303,529,10880,90,771,1602,1010,294,20093,1330,870,695,236,390,3521,23614,1465,9325,302,34707,314,1178,33215
+1 - 20 à 49 employés,s,s,1,903,s,36,93,94,111,1304,33,s,s,10,6,111,1415,33,882,4,2334,s,s,2083
+2 - 50 à 99 employés,162,52,71,1144,7,224,52,133,59,1905,258,0,71,37,131,497,2402,190,1186,10,3789,s,s,3762
+3 - 100 à 249 employés,390,52,65,3470,13,380,s,s,62,5279,261,s,185,s,222,729,6008,399,2269,70,8747,75,164,8508
+4 - 250 à 499 employés,320,38,74,2799,7,29,660,396,29,4352,s,s,363,128,16,1349,5701,429,2291,137,8558,97,630,7830
+5 - 500 à 999 employés,5,s,34,1418,7,102,s,s,10,1860,s,s,17,0,16,818,2678,174,1385,17,4255,37,68,4150
+6 - 1 000 à 1 999 employés,s,0,s,370,s,0,4,44,7,s,s,0,s,0,0,s,674,204,545,15,1438,0,54,1384
+7 - 2 000 employés ou plus,3629,s,s,776,0,0,s,3,16,s,0,0,0,s,0,s,4735,35,766,49,5586,s,s,5498
+Note : Les coefficients de conversion en tep de certaines énergies ont été actualisés pour la publication 2011.,,,,,,,,,,,,,,,,,,,,,,,,
+"Champ : France (hors Dom pour les IAA et scieries), établissements de 20 salariés ou plus appartenant à l'industrie (y compris IAA et scieries), hors industrie de l'énergie, y compris récupération.",,,,,,,,,,,,,,,,,,,,,,,,
+"Source : Insee, SSP, Enquête annuelle sur les consommations d'énergie dans l'industrie 2011, y compris IAA et scieries (calculs Insee).",,,,,,,,,,,,,,,,,,,,,,,,

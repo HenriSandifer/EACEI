@@ -1,0 +1,14 @@
+tab5_taille - Répartition de la consommation d'électricité par usage en GWh selon la taille de l'entreprise,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,,,,
+INDICATEUR,Force motrice,Usages thermiques,Autres usages y compris électrolyse,Ensemble des usages
+TAILLE,,,,
+Total,60830,15328,16271,92429
+20 à 49 employés,5858,1110,942,7910
+50 à 99 employés,7709,1527,2317,11553
+100 à 249 employés,13909,3731,2589,20230
+250 à 499 employés,15149,5219,3106,23473
+500 à 999 employés,7483,1644,5590,14717
+1 000 à 1 999 employés,3708,1034,1230,5972
+2 000 employés ou plus,7014,1063,496,8574
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie hors IAA et scieries, hors industrie de l'énergie, y compris récupération.",,,,
+"Source : Insee, enquête annuelle sur les consommations d'énergie dans l'industrie 2011.",,,,

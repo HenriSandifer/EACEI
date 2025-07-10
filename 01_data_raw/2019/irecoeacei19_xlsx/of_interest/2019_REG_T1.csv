@@ -1,0 +1,15 @@
+REG,Nombre d'établissements,"Combustibles minéraux solides (houille, lignite - charbon pauvre, coke de houille)",Gaz de réseau,Coke de pétrole,Butane propane,Fioul lourd,Fioul domestique,Total combustibles usuels,Autres produits pétroliers,Liqueurs noires,Bois et sous-produit du bois,Hydrogene,Combustibles spéciaux renouvelables,Combustibles spéciaux non renouvelables,Total autres combustibles,Total combustibles,Achats de vapeur,Electricité,Total brut,Vapeur vendue,Consommation pour production d'électricité,Total net
+Toutes régions,19943,5437,10509,568,2928,168,273,19884,1567,778,905,295,295,400,4239,24122,1818,9464,35404,424,609,34371
+Île-de-France,1490,26,652,15,4,1,9,708,0,0,s,0,s,s,5,713,18,454,1186,ns,ns,1177
+Centre-Val de Loire,1032,26,414,40,10,2,11,504,s,0,28,s,8,5,41,545,6,302,854,ns,ns,810
+Bourgogne-Franche-Comté,1305,25,377,0,21,10,14,448,0,0,52,42,s,s,109,558,116,479,1153,ns,ns,1152
+Normandie,1244,11,s,s,s,10,16,2258,784,s,87,s,43,s,920,3178,249,719,4146,ns,ns,4065
+Hauts-de-France,1997,s,1993,131,s,s,33,4923,345,0,43,10,14,82,494,5417,157,1800,7375,ns,ns,7210
+Grand Est,2096,887,2176,41,19,10,43,3175,7,0,247,94,84,134,566,3740,282,1439,5461,ns,ns,5277
+Pays de la Loire,1733,10,421,49,16,5,20,521,s,0,43,s,17,43,103,624,55,490,1168,ns,ns,1156
+Bretagne,1172,s,338,0,30,11,11,s,0,s,s,s,22,0,s,434,39,347,820,ns,ns,815
+Nouvelle-Aquitaine,1868,81,577,s,24,36,s,766,13,509,233,10,47,20,832,1598,296,648,2542,ns,ns,2395
+Occitanie,1368,35,323,82,10,12,18,481,0,s,48,0,7,s,237,718,54,419,1191,ns,ns,1189
+Auvergne-Rhône-Alpes,3591,204,1270,105,37,51,34,1701,2,0,85,31,31,55,204,1905,276,1625,3806,ns,ns,3749
+Provence-Alpes-Côte d'Azur et Corse,801,s,s,64,1511,16,20,3979,416,s,33,104,s,s,691,4670,206,700,5576,ns,ns,5249
+Dom,247,0,0,0,2,s,s,s,1,0,s,0,s,0,s,21,64,42,128,ns,ns,128

@@ -1,0 +1,33 @@
+"Tab2_NCE : Autoproduction, achats et consommation d'électricité en GWh selon la nomenclature des activités consommatrices d'énergie",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+,,,,,,
+INDICATEUR,Production d'origine thermique,Production d'origine hydraulique,Ventes,Autoconsommation (1),Achats (2),Consommation (1 + 2)
+NCE,,,,,,
+Total,6024,669,2577,4116,108392,112507
+Total hors IAA,4127,666,1859,2935,89720,92654
+E12 - Industrie laitière,67,1,25,42,3413,3455
+E13 - Sucreries,699,0,5,694,295,989
+"E14 - Industries alimentaires, hors industrie du lait et du sucre",1127,2,688,441,14599,15040
+E16 - Sidérurgie,s,s,156,744,11102,11846
+E18 - Métallurgie de première transformation des métaux non ferreux,s,s,s,s,s,7251
+E19 - Production de minéraux divers,s,s,s,s,s,s
+"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s,s,s,s
+E21 - Production d'autres matériaux de construction et de céramique,s,s,19,s,s,2549
+E22 - Industrie du verre,s,s,0,s,s,3155
+E23 - Fabrication d'engrais,s,s,1,68,628,696
+E24 - Autres industries de la chimie minérale,s,s,s,s,s,7050
+"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",s,s,107,33,2346,2379
+E26 - Autres industries de la chimie organique de base,s,s,163,554,7161,7715
+E28 - Parachimie et industrie pharmaceutique,25,s,s,s,s,2520
+E29 - Fonderie et travail des métaux,s,s,s,s,s,7585
+E30 - Construction mécanique,4,2,3,3,2414,2417
+E31 - Construction électrique et électronique,4,0,0,s,s,4504
+E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,s,s,s,s,s,5093
+"E33 - Construction navale et aéronautique, armement",s,s,s,s,s,1939
+"E34 - Industrie textile, du cuir et de l'habillement",5,s,s,s,s,1551
+E35 - Industrie du papier et du carton,s,s,512,s,s,10245
+E36 - Fabrication de produits en caoutchouc,85,0,75,10,1525,1535
+E37 - Fabrication de produits en plastique,6,s,s,s,s,5532
+E38 - Industries diverses,107,0,91,16,4291,4307
+,,,,,,
+Champ : France métropolitaine.,,,,,,
+"Sources : Insee, SSP, Enquête annuelle sur les consommations d'énergie dans l'industrie 2010, y compris IAA et scieries (calculs Insee).",,,,,,

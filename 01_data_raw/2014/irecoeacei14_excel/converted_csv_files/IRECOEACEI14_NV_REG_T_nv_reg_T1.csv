@@ -1,0 +1,20 @@
+NV_REG_T1 : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP) et nombre d'établissements selon la région (nouvelle région) en 2014,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23
+,,,,,,,,,,,,,,,,,,,,,,,
+Indicateurs,Nombre d'établissements,Houille,Lignite - charbon pauvre,Coke de houille,Gaz de réseau,Coke de pétrole,Butane propane,Fioul lourd,Fioul domestique,Total combustibles usuels,Autres produits pétroliers,Liqueurs noires,Bois et sous-produit du bois,Combustibles spéciaux renouvelables,Combustibles spéciaux non renouvelables,Total autres combustibles,Total combustibles,Achats de vapeur,Electricité,Total brut,Vapeur vendue,Consommation pour production d'électricité,Total net
+Région,,,,,,,,,,,,,,,,,,,,,,,
+Toutes régions,20876,5157,s,452,10719,740,2632,s,252,20629,1261,s,855,s,495,3663,24292,1584,9521,35397,483,711,34202
+Île-de-France,1708,27,0,1,627,15,7,1,10,688,0,0,s,s,138,142,830,3,454,1287,ns,ns,1279
+Centre-Val de Loire,1129,21,0,2,359,50,8,6,9,455,0,0,32,6,2,40,495,1,314,810,ns,ns,794
+Bourgogne-Franche-Comté,1332,104,0,0,472,0,17,5,14,634,0,0,50,0,0,63,697,7,526,1238,ns,ns,1233
+Normandie,1337,0,0,s,209,s,s,56,16,2382,509,0,17,s,31,705,3087,217,746,4049,ns,ns,3922
+Nord-Pas-de-Calais-Picardie,2015,18,s,183,661,115,29,59,28,4841,6,0,2,5,1,353,5194,193,1832,7220,ns,ns,7036
+Alsace-Champagne-Ardenne-Lorraine,2215,0,132,190,2284,19,23,13,39,3602,1,0,69,24,s,637,4239,102,1449,5834,ns,ns,5657
+Pays de la Loire,1798,s,s,s,462,57,26,s,18,591,s,0,s,19,s,89,680,82,512,1274,ns,ns,1253
+Bretagne,1111,s,0,0,403,0,s,24,15,478,s,s,s,s,0,41,519,36,363,918,ns,ns,910
+Aquitaine-Limousin-Poitou-Charentes,2045,45,0,0,552,56,15,118,26,880,6,507,183,21,30,798,1677,333,688,2699,ns,ns,2538
+Languedoc-Roussillon-Midi-Pyrénées,1343,67,0,0,333,24,4,17,17,510,0,0,21,s,38,273,783,25,403,1220,ns,ns,1194
+Auvergne-Rhône-Alpes,3744,115,0,29,1253,109,45,51,33,1643,15,0,66,29,47,175,1818,248,1441,3507,ns,ns,3472
+PACA et Corse,825,s,0,0,s,108,1289,143,17,3912,137,s,s,11,s,337,4249,208,757,5213,ns,ns,4787
+DOM,275,0,0,0,1,0,1,1,10,12,s,0,s,9,1,11,24,68,38,129,ns,ns,128
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération.",,,,,,,,,,,,,,,,,,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie en 2014.",,,,,,,,,,,,,,,,,,,,,,,

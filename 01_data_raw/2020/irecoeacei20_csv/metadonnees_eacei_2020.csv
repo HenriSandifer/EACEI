@@ -1,0 +1,179 @@
+COD_VAR;LIB_VAR;COD_MOD;LIB_MOD1
+ANNEE;Année;1996;1996
+ANNEE;Année;1997;1997
+ANNEE;Année;1998;1998
+ANNEE;Année;1999;1999
+ANNEE;Année;2000;2000
+ANNEE;Année;2001;2001
+ANNEE;Année;2002;2002
+ANNEE;Année;2003;2003
+ANNEE;Année;2004;2004
+ANNEE;Année;2005R;2005
+ANNEE;Année;2005;2005
+ANNEE;Année;2006;2006
+ANNEE;Année;2007;2007
+ANNEE;Année;2008;2008
+ANNEE;Année;2009;2009
+ANNEE;Année;2010;2010
+ANNEE;Année;2011;2011
+ANNEE;Année;2012;2012
+ANNEE;Année;2013;2013
+ANNEE;Année;2014;2014
+ANNEE;Année;2015;2015
+ANNEE;Année;2016;2016
+ANNEE;Année;2017;2017
+ANNEE;Année;2018;2018
+ANNEE;Année;2019;2019
+ANNEE;Année;2020;2020
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;CONSBRT;Consommation brute (en millions de TEP)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;CONSNET;Consommation nette (en millions de TEP)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;FACTURE;Facture énergétique (en millions d'euros courants)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;BR_PCT;Electricité consommée hors utilisation en tant que matière première (en %)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;CMS_PCT;Combustibles minéraux solides (houille, lignite, coke de houille) consommés hors utilisation en tant que matière première (en %)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;DR_PCT;Gaz de réseau consommé hors utilisation en tant que matière première (en %)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;PP_PCT;Produits pétroliers (coke de pétrole, butane-propane, fioul lourd et fioul domestique) consommés hors utilisation en tant que matière première (en %)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;CR_PCT;Vapeur consommée hors utilisation en tant que matière première (en %)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;ENM_PCT;Énergies non marchandes consommées hors utilisation en tant que matière première (en %)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;TOT_PCT;Total (en %)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;BR_PRIX;Prix moyen annuel de l'électricité (en € / Mwh)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;CR_PRIX;Prix moyen annuel de la vapeur (en € / t)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;DR_PRIX;Prix moyen annuel du gaz de réseau (en € / Mwh)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;FR_PRIX;Prix moyen annuel de la houille (en € / t)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;GR_PRIX;Prix moyen annuel de la lignite, du charbon pauvre (en € / t)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;HR_PRIX;Prix moyen annuel du coke de houille (en € / t)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;IR_PRIX;Prix moyen annuel du coke de pétrole (en € / t)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;JR_PRIX;Prix moyen annuel du butane-propane (en € / t)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;KR_PRIX;Prix moyen annuel du fioul lourd (en € / t)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;LR_PRIX;Prix moyen annuel du fioul domestique (en € / l)
+INDIC_SL;Séries longues de 1996 à 2020 sur les consommations énergétiques;OR_PRIX;Prix moyen annuel du bois (en € / t)
+INDIC_T1;Consommation d'énergie en ktep;NB_ETAB;Nombre d'établissements
+INDIC_T1;Consommation d'énergie en ktep;CMSR_CSTP;Combustibles minéraux solides (houille, lignite - charbon pauvre, coke de houille)
+INDIC_T1;Consommation d'énergie en ktep;GAZR_CSTP;Gaz naturel et autres gaz
+INDIC_T1;Consommation d'énergie en ktep;IR_CSTP;Coke de pétrole
+INDIC_T1;Consommation d'énergie en ktep;JR_CSTP;Butane propane
+INDIC_T1;Consommation d'énergie en ktep;KR_CSTP;Fioul lourd
+INDIC_T1;Consommation d'énergie en ktep;LR_CSTP;Fioul domestique
+INDIC_T1;Consommation d'énergie en ktep;CUR_CSTP;Total combustibles usuels
+INDIC_T1;Consommation d'énergie en ktep;MR_CSTP;Autres produits pétroliers
+INDIC_T1;Consommation d'énergie en ktep;NR_CSTP;Liqueurs noires
+INDIC_T1;Consommation d'énergie en ktep;OR_CSTP;Bois et sous-produit du bois
+INDIC_T1;Consommation d'énergie en ktep;PR_CSTP;Hydrogene
+INDIC_T1;Consommation d'énergie en ktep;XR_CSTP;Combustibles spéciaux renouvelables
+INDIC_T1;Consommation d'énergie en ktep;YR_CSTP;Combustibles spéciaux non renouvelables
+INDIC_T1;Consommation d'énergie en ktep;CAR_CSTP;Total autres combustibles
+INDIC_T1;Consommation d'énergie en ktep;CR_CSTP;Achats de vapeur
+INDIC_T1;Consommation d'énergie en ktep;BR_CSTP;Electricité
+INDIC_T1;Consommation d'énergie en ktep;CONSBRT;Total brut
+INDIC_T1;Consommation d'énergie en ktep;CR_VTTP;Vapeur vendue
+INDIC_T1;Consommation d'énergie en ktep;COMBPRB;Consommation pour production d'électricité
+INDIC_T1;Consommation d'énergie en ktep;CONSNET;Total net
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;FACTURE;Valeur des achats de l’ensemble des énergies (en millions d'euros)
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;CMSR_QAUP;Quantités achetées de combustibles minéraux solides
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;CMSR_CSUP;Quantités consommées de combustibles minéraux solides
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;CMSR_VALA;Valeur des achats de combustibles minéraux solides
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;CMSR_PRIX;Prix moyen des combustibles minéraux solides
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;GAZR_QAUP;Quantités achetées de gaz
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;GAZR_CSUP;Quantités consommées de gaz
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;GAZR_VALA;Valeur des achats de gaz
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;GAZR_PRIX;Prix moyen du gaz
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;IR_QAUP;Quantités achetées de coke de pétrole
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;IR_CSUP;Quantités consommées de coke de pétrole
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;IR_VALA;Valeur des achats de coke de pétrole
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;IR_PRIX;Prix moyen de coke de pétrole
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;JR_QAUP;Quantités achetées de butane-propane
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;JR_CSUP;Quantités consommées de butane-propane
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;JR_VALA;Valeur des achats de butane-propane
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;JR_PRIX;Prix moyen de butane-propane
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;KR_QAUP;Quantités achetées de fioul lourd
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;KR_CSUP;Quantités consommées de fioul lourd
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;KR_VALA;Valeur des achats de fioul lourd
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;KR_PRIX;Prix moyen de fioul lourd
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;LR_QAUP;Quantités achetées de fioul domestique
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;LR_CSUP;Quantités consommées de fioul domestique
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;LR_VALA;Valeur des achats de fioul domestique
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;LR_PRIX;Prix moyen de fioul domestique
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;OR_QAUP;Quantités achetées de bois
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;OR_CSUP;Quantités consommées de bois
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;OR_VALA;Valeur des achats de bois
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;OR_PRIX;Prix moyen du bois
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;CR_QAUP;Quantités achetées de vapeur
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;CR_CSUP;Quantités consommées de vapeur
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;CR_VALA;Valeur des achats de vapeur
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;CR_PRIX;Prix moyen de vapeur
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;PR_CSUP;Quantités consommées d’hydrogènes
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;PR_PROD;Quantités autoproduites d’hydrogène
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;PR_VALA;Prix moyen d’hydrogène
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;BR_QAUP;Quantités achetées d'électricité
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;BR_CSUP;Quantités consommées d'électricité
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;BR_PROD;Quantités autoproduites d’électricité
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;BR_VALA;Valeur des achats d'électricité
+INDIC_T2;Achats et consommation en unité propre, valeur d'achat et prix moyen des produits énergétiques;BR_PRIX;Prix moyen d’électricité
+INDIC_T3;Répartition de la consommation de combustibles par usage en ktep;GAZR_USQFAB;Quantités de gaz consommées pour la fabrication
+INDIC_T3;Répartition de la consommation de combustibles par usage en ktep;GAZR_USQ2;Quantités de gaz consommées en tant que matières premières
+INDIC_T3;Répartition de la consommation de combustibles par usage en ktep;GAZR_USQ3;Quantités de gaz consommées pour la production d’électricité
+INDIC_T3;Répartition de la consommation de combustibles par usage en ktep;GAZR_USQ4;Quantités de gaz consommées pour le chauffage ou un autre usage
+INDIC_T3;Répartition de la consommation de combustibles par usage en ktep;GAZR_CSTP;Quantités de gaz consommées
+INDIC_T3;Répartition de la consommation de combustibles par usage en ktep;LR_USQFAB;Quantités de fioul domestique consommées pour la fabrication
+INDIC_T3;Répartition de la consommation de combustibles par usage en ktep;LR_USQ2;Quantités de fioul domestique consommées en tant que matières premières
+INDIC_T3;Répartition de la consommation de combustibles par usage en ktep;LR_USQ3;Quantités de fioul domestique consommées pour la production d’électricité
+INDIC_T3;Répartition de la consommation de combustibles par usage en ktep;LR_USQ4;Quantités de fioul domestique consommées pour le chauffage ou un autre usage
+INDIC_T3;Répartition de la consommation de combustibles par usage en ktep;LR_CSTP;Quantités de fioul domestique consommées
+INDIC_T3;Répartition de la consommation de combustibles par usage en ktep;PR_USQ2;Quantités d’hydrogène consommées en tant que matières premières
+INDIC_T3;Répartition de la consommation de combustibles par usage en ktep;PR_USQ8;Quantités d’hydrogène utilisées pour la combustion (hors production d’électricité)
+INDIC_T3;Répartition de la consommation de combustibles par usage en ktep;PR_CSTP;Quantités d’hydrogène consommées
+INDIC_T4;Autoproduction, achats et consommation d'électricité par usage en GWh;BR_THER;Autoproduction d'origine thermique
+INDIC_T4;Autoproduction, achats et consommation d'électricité par usage en GWh;BR_NTHE;Autoproduction d'origine non thermique
+INDIC_T4;Autoproduction, achats et consommation d'électricité par usage en GWh;BR_PROD;Autoproduction électricité
+INDIC_T4;Autoproduction, achats et consommation d'électricité par usage en GWh;BR_VEND;Autoproduction vendue
+INDIC_T4;Autoproduction, achats et consommation d'électricité par usage en GWh;BR_AUCO;Autoproduction consommée (1)
+INDIC_T4;Autoproduction, achats et consommation d'électricité par usage en GWh;BR_QAUP;Achats (2)
+INDIC_T4;Autoproduction, achats et consommation d'électricité par usage en GWh;BR_CSUP;Consommation (1 + 2)
+INDIC_T4;Autoproduction, achats et consommation d'électricité par usage en GWh;BR_USQ1;Usage force motrice
+INDIC_T4;Autoproduction, achats et consommation d'électricité par usage en GWh;BR_USQ2;Usages thermiques (y compris production de froid)
+INDIC_T4;Autoproduction, achats et consommation d'électricité par usage en GWh;BR_USQ4;Usage électrolyse
+INDIC_T4;Autoproduction, achats et consommation d'électricité par usage en GWh;BR_USQ6;Usage chauffage des locaux et autres
+INDIC_T4;Autoproduction, achats et consommation d'électricité par usage en GWh;BR_USQ7;Usages thermodynamiques hors chauffage des locaux (Prod. froid, PAC, CMV)
+REGION;Région;GLOBAL;Toutes régions
+REGION;Région;11;Île-de-France
+REGION;Région;24;Centre-Val de Loire
+REGION;Région;27;Bourgogne-Franche-Comté
+REGION;Région;28;Normandie
+REGION;Région;32;Hauts-de-France
+REGION;Région;44;Grand Est
+REGION;Région;52;Pays de la Loire
+REGION;Région;53;Bretagne
+REGION;Région;75;Nouvelle-Aquitaine
+REGION;Région;76;Occitanie
+REGION;Région;84;Auvergne-Rhône-Alpes
+REGION;Région;93;Provence-Alpes-Côte d'Azur et Corse
+REGION;Région;97;Dom
+SECTEUR;Secteur d'activité, division de la NAF rév.2;GLOBAL;Total industrie
+SECTEUR;Secteur d'activité, division de la NAF rév.2;07-09;07 - 08 – 09 Toutes les Industries extractives
+SECTEUR;Secteur d'activité, division de la NAF rév.2;10-12;10 – 11 – 12 Industries alimentaires, Fabrication de boissons, Fabrication de produits à base de tabac
+SECTEUR;Secteur d'activité, division de la NAF rév.2;13;13 - Fabrication de textiles
+SECTEUR;Secteur d'activité, division de la NAF rév.2;14;14 - Industrie de l'habillement
+SECTEUR;Secteur d'activité, division de la NAF rév.2;15;15 - Industrie du cuir et de la chaussure
+SECTEUR;Secteur d'activité, division de la NAF rév.2;16;16 - Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles - fabrication d'articles en vannerie et sparterie
+SECTEUR;Secteur d'activité, division de la NAF rév.2;17;17 - Industrie du papier et du carton
+SECTEUR;Secteur d'activité, division de la NAF rév.2;18;18 - Imprimerie et reproduction d'enregistrements
+SECTEUR;Secteur d'activité, division de la NAF rév.2;20;20 - Industrie chimique
+SECTEUR;Secteur d'activité, division de la NAF rév.2;21;21 - Industrie pharmaceutique
+SECTEUR;Secteur d'activité, division de la NAF rév.2;22;22 - Fabrication de produits en caoutchouc et en plastique
+SECTEUR;Secteur d'activité, division de la NAF rév.2;23;23 - Fabrication d'autres produits minéraux non métalliques
+SECTEUR;Secteur d'activité, division de la NAF rév.2;24;24 - Métallurgie
+SECTEUR;Secteur d'activité, division de la NAF rév.2;25;25 - Fabrication de produits métalliques, à l'exception des machines et des équipements
+SECTEUR;Secteur d'activité, division de la NAF rév.2;26;26 - Fabrication de produits informatiques, électroniques et optiques
+SECTEUR;Secteur d'activité, division de la NAF rév.2;27;27 - Fabrication d'équipements électriques
+SECTEUR;Secteur d'activité, division de la NAF rév.2;28;28 - Fabrication de machines et équipements n.c.a.
+SECTEUR;Secteur d'activité, division de la NAF rév.2;29;29 - Industrie automobile
+SECTEUR;Secteur d'activité, division de la NAF rév.2;30;30 - Fabrication d'autres matériels de transport
+SECTEUR;Secteur d'activité, division de la NAF rév.2;31;31 - Fabrication de meubles
+SECTEUR;Secteur d'activité, division de la NAF rév.2;32;32 - Autres industries manufacturières
+SECTEUR;Secteur d'activité, division de la NAF rév.2;33;33 - Réparation et installation de machines et d'équipements
+SECTEUR;Secteur d'activité, division de la NAF rév.2;38;38 - Récupération
+TEFF;Tranche d'effectif salarié;GLOBAL;Total industrie
+TEFF;Tranche d'effectif salarié;03;20 à 49 salariés
+TEFF;Tranche d'effectif salarié;04;50 à 99 salariés
+TEFF;Tranche d'effectif salarié;05;100 à 249 salariés
+TEFF;Tranche d'effectif salarié;06;250 à 499 salariés
+TEFF;Tranche d'effectif salarié;07;500 salariés ou plus

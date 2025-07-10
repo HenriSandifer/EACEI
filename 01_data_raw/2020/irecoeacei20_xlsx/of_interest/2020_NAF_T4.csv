@@ -1,0 +1,40 @@
+"NAF_T4 : Autoproduction, achats et consommation d'électricité par usage en GWh selon le secteur d'activité en NAF rév.2 de l'établissement",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Indicateur,"Autoproduction d'origine
+thermique","Autoproduction d'origine non
+thermique",Autoproduction électricité,Autoproduction vendue,Autoproduction consommée (1),Achats (2),Consommation (1 + 2),Usage force motrice,"Usages thermiques (y compris
+production de froid)",Usage électrolyse,"Usage chauffage des locaux et
+autres","Usages thermodynamiques hors
+chauffage des locaux (Prod.
+froid, PAC, CMV)"
+"Secteur d'activité, division de la NAF rév.2",,,,,,,,,,,,
+Total industrie,4888.8,419.9,5308.7,1868.8,3471.4,98535.2,102006.6,58060.5,9734.9,10527.9,9332.6,14351.2
+07 - 08 – 09 Toutes les Industries extractives,3.9,0.3,4.2,0.3,3.9,576.5,580.5,489.5,18.6,1.2,51.2,20.9
+"10 – 11 – 12 Industries alimentaires, Fabrication de boissons, Fabrication de produits à base de
+tabac",1667.5,91.1,1758.6,334.3,1424.3,18330.9,19755.2,11619.8,1567.4,43,1531.4,4995.3
+13 - Fabrication de textiles,0,0.3,0.3,s,s,s,s,661.6,72.1,0,s,s
+14 - Industrie de l'habillement,0,s,s,0,s,s,s,47.7,1.2,0,s,7
+15 - Industrie du cuir et de la chaussure,0.3,0.3,0.6,0,0.6,132.5,133.1,70.9,s,s,31.4,s
+"16 - Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles -
+fabrication d'articles en vannerie et sparterie",148.2,1.6,149.8,130.5,19.4,1676.5,1695.9,1455.8,25.6,1.2,118.6,95.3
+17 - Industrie du papier et du carton,1397.1,24.5,1421.6,809.4,612.2,6686.7,7298.9,6458.1,126.7,0,400,314
+18 - Imprimerie et reproduction d'enregistrements,0.5,s,s,s,s,s,s,584.9,17.4,s,174.4,s
+20 - Industrie chimique,1086.4,23.3,1109.7,341.7,799.6,16530.1,17329.7,10038.4,514,2904.7,686,3187.2
+21 - Industrie pharmaceutique,3.8,s,s,s,s,s,s,1284.9,152.3,4.7,s,786
+22 - Fabrication de produits en caoutchouc et en plastique,73.3,1.7,75,22.9,52,5594.9,5646.9,3424.4,707,20.9,583.7,910.5
+23 - Fabrication d'autres produits minéraux non métalliques,13.1,30.8,43.9,4.3,39.6,7663.3,7702.8,4654.7,1586,82.6,847.7,532.6
+24 - Métallurgie,298.5,98.9,397.4,49.6,347.8,17814.6,18162.4,6922.1,2214,7148.8,1137.2,739.5
+"25 - Fabrication de produits métalliques, à l'exception des machines et des équipements",11.1,8.9,20,8.9,11.1,4101.3,4112.4,2131.4,623.3,124.4,874.4,360.5
+"26 - Fabrication de produits informatiques, électroniques et optiques",s,s,s,0,s,s,s,669.8,94.2,4.7,s,744.2
+27 - Fabrication d'équipements électriques,3.8,0.7,4.5,0.7,3.8,2154.5,2158.3,782.6,747.7,62.8,359.3,205.8
+28 - Fabrication de machines et équipements n.c.a.,10.7,0.9,11.6,s,s,s,s,1079.1,s,1.2,316.3,153.5
+29 - Industrie automobile,s,s,s,s,44.5,5152.7,5197.2,3504.7,598.8,100,510.5,483.7
+30 - Fabrication d'autres matériels de transport,36.8,0.4,37.2,s,s,s,s,852.3,s,18.6,346.5,369.8
+31 - Fabrication de meubles,s,s,6.9,s,s,s,s,330.2,27.9,0,s,30.2
+32 - Autres industries manufacturières,0.4,0,0.4,0,0.4,685.3,685.7,301.2,107,3.5,114,159.3
+33 - Réparation et installation de machines et d'équipements,10.4,0.5,10.9,0.6,10.3,570,580.3,274.4,27.9,1.2,219.8,58.1
+38 - Récupération,s,s,178.9,143.9,34.9,509.7,544.6,425.6,s,0,82.6,s
+,,,,,,,,,,,,
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération.",,,,,,,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie 2020.",,,,,,,,,,,,

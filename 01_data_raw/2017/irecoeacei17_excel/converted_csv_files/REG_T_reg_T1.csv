@@ -1,0 +1,20 @@
+REG_T1 : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP) et nombre d'établissements selon la région,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21
+,,,,,,,,,,,,,,,,,,,,,
+Indicateurs,Nombre d'établissements,"Combustibles minéraux solides (houille, lignite - charbon pauvre, coke de houille)",Gaz de réseau,Coke de pétrole,Butane propane,Fioul lourd,Fioul domestique,Total combustibles usuels,Autres produits pétroliers,Liqueurs noires,Bois et sous-produit du bois,Combustibles spéciaux renouvelables,Combustibles spéciaux non renouvelables,Total autres combustibles,Total combustibles,Achats de vapeur,Electricité,Total brut,Vapeur vendue,Consommation pour production d'électricité,Total net
+Région,,,,,,,,,,,,,,,,,,,,,
+Toutes régions,19421,6092,10524,594,2362,259,282,20113,3339,790,934,365,283,5710,25824,1828,9724,37376,575,446,36354
+Île-de-France,1647,26,605,9,5,0,15,660,0,0,s,s,0,3,663,7,430,1100,ns,ns,1090
+Centre-Val de Loire,1003,17,387,37,10,6,8,465,0,0,33,18,0,51,516,5,327,848,ns,ns,813
+Bourgogne-Franche-Comté,1247,s,445,0,22,s,15,570,0,0,65,s,s,79,649,125,504,1278,ns,ns,1161
+Normandie,1143,s,1139,s,s,24,15,1916,547,0,128,s,s,738,2654,246,736,3635,ns,ns,3597
+Hauts-de-France,1961,s,2114,179,s,23,31,5293,s,0,s,83,68,466,5759,192,1972,7922,ns,ns,7736
+Grand Est,2071,1040,2231,69,22,13,42,3418,s,s,s,63,64,2330,5748,247,1585,7580,ns,ns,7418
+Pays de la Loire,1697,9,434,38,23,9,19,533,0,0,s,14,s,79,613,74,500,1186,ns,ns,1174
+Bretagne,1065,s,377,0,30,s,10,440,0,s,s,0,0,6,447,56,368,871,ns,ns,865
+Nouvelle-Aquitaine,1838,s,530,s,22,46,25,725,10,496,225,47,33,811,1536,351,630,2517,ns,ns,2373
+Occitanie,1270,87,307,56,9,16,19,494,s,s,s,16,27,263,757,39,344,1140,ns,ns,1138
+Auvergne-Rhône-Alpes,3432,208,1252,82,40,47,36,1665,5,0,85,20,41,151,1816,229,1610,3655,ns,ns,3608
+Provence-Alpes-Côte d'Azur et Corse,787,s,701,76,s,54,34,3917,538,s,s,9,s,702,4619,192,677,5487,ns,ns,5225
+Dom,260,0,0,0,1,3,14,17,s,0,s,s,0,30,47,65,44,156,ns,ns,155
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération.",,,,,,,,,,,,,,,,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie 2017.",,,,,,,,,,,,,,,,,,,,,

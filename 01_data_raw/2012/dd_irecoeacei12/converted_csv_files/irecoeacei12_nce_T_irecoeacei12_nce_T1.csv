@@ -1,0 +1,32 @@
+nce_T1 - Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP) selon la nomenclature des activités consommatrices d'énergie,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22
+INDICATEUR : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP),,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+ENERGIES,Houille,Lignite - charbon pauvre,Coke de houille,Gaz de réseau,Coke de pétrole,Butane propane,Fioul lourd,Fioul domestique,Total combustibles usuels,Autres produits pétroliers,Liqueurs noires,Bois et sous-produit du bois,Combustibles spéciaux renouvelables,Combustibles spéciaux non renouvelables,Total autres combustibles,Total combustibles,Achats de vapeur,Electricité,Total brut,Vapeur vendue,Consommation pour production d'électricité,Total net
+NCE,,,,,,,,,,,,,,,,,,,,,,
+Total industrie,4854,195,376,10719,718,1690,821,276,19649,1296,852,734,303,367,3551,23200,1542,9427,34170,488,1001,32681
+E12 - Industrie laitière,0,0,0,409,0,17,75,7,509,0,0,6,0,0,7,515,23,320,859,nd,nd,852
+E13 - Sucreries,90,61,18,555,0,0,92,5,821,0,0,s,s,0,14,835,69,95,999,nd,nd,824
+"E14 - Industries alimentaires, hors industrie du lait et du sucre",123,75,0,1327,0,58,65,28,1678,2,0,66,58,1,126,1804,174,1252,3229,nd,nd,3145
+E16 - Sidérurgie,s,s,160,538,16,5,s,16,4768,0,0,s,s,0,41,4809,17,1019,5845,nd,nd,5842
+E18 - Métallurgie de première transformation des métaux non ferreux,s,s,0,269,122,4,s,5,s,s,0,0,0,0,s,406,12,615,1034,nd,nd,1033
+E19 - Production de minéraux divers,0,0,0,s,0,3,s,s,42,s,0,0,0,0,s,s,s,30,84,nd,nd,83
+"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",239,31,0,254,555,2,29,15,1125,154,0,15,88,309,565,1690,5,232,1926,nd,nd,1926
+E21 - Production d'autres matériaux de construction et de céramique,s,1,s,443,3,18,s,77,746,s,0,48,s,12,s,s,s,204,1036,nd,nd,1033
+E22 - Industrie du verre,0,0,s,713,0,s,181,3,903,0,0,0,0,0,0,903,1,270,1174,nd,nd,1173
+E23 - Fabrication d'engrais,0,0,0,s,0,2,3,2,s,0,0,s,0,0,s,905,0,56,961,nd,nd,954
+E24 - Autres industries de la chimie minérale,200,s,s,747,0,0,7,1,978,s,s,0,0,s,171,1149,179,649,1976,nd,nd,1673
+"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",s,0,0,226,0,0,s,1,s,s,0,s,0,s,s,474,56,169,699,nd,nd,669
+E26 - Autres industries de la chimie organique de base,s,0,0,1427,s,1447,208,s,3119,742,s,s,23,34,829,3948,505,635,5088,nd,nd,4692
+E28 - Parachimie et industrie pharmaceutique,0,0,0,204,0,17,s,5,s,s,0,s,0,0,s,234,17,221,471,nd,nd,469
+E29 - Fonderie et travail des métaux,11,s,104,591,s,38,2,16,764,0,0,1,0,1,2,766,2,666,1434,nd,nd,1432
+E30 - Construction mécanique,0,0,0,167,0,10,2,13,192,s,0,1,s,0,2,194,2,204,400,nd,nd,400
+E31 - Construction électrique et électronique,0,0,14,158,s,s,2,7,206,s,0,s,0,s,1,206,1,366,573,nd,nd,572
+E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,0,0,6,332,0,10,1,8,356,s,0,1,0,s,1,357,30,396,782,nd,nd,776
+"E33 - Construction navale et aéronautique, armement",0,0,0,124,0,s,0,3,s,0,0,s,s,0,1,s,s,164,305,nd,nd,296
+"E34 - Industrie textile, du cuir et de l'habillement",0,0,0,128,0,8,4,s,s,0,0,0,0,0,0,s,s,109,255,nd,nd,253
+E35 - Industrie du papier et du carton,26,0,0,777,0,8,57,5,874,s,s,253,112,8,1206,2080,346,800,3227,nd,nd,2797
+E36 - Fabrication de produits en caoutchouc,0,0,0,84,0,2,0,1,87,0,0,18,0,0,18,105,60,122,288,nd,nd,271
+E37 - Fabrication de produits en plastique,0,0,0,126,0,10,18,8,163,0,0,2,s,s,2,165,18,454,637,nd,nd,636
+E38 - Industries diverses,0,0,0,195,0,12,4,27,237,s,s,261,0,s,262,500,8,380,888,nd,nd,878
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération. ",,,,,,,,,,,,,,,,,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie 2012",,,,,,,,,,,,,,,,,,,,,,

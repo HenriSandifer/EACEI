@@ -1,0 +1,30 @@
+tab5_naf - Répartition de la consommation d'électricité par usage en GWh selon le secteur d'activité,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,,,,
+INDICATEUR,Force motrice,Usages thermiques,Autres usages y compris électrolyse,Ensemble des usages
+SECTEUR,,,,
+Total,60830,15328,16271,92429
+07 - Extraction de minerais métalliques,3,0,0,3
+08 - Autres industries extractives,906,35,6,948
+13 - Fabrication de textiles,927,172,28,1127
+14 - Industrie de l'habillement,79,s,13,s
+15 - Industrie du cuir et de la chaussure,88,21,9,119
+"16 - Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles - fabrication d'articles en vannerie et sparterie",1240,100,25,1365
+17 - Industrie du papier et du carton,8593,1074,69,9736
+18 - Imprimerie et reproduction d'enregistrements,1065,206,46,1317
+20 - Industrie chimique,12430,866,4676,17972
+21 - Industrie pharmaceutique,1457,556,134,2147
+22 - Fabrication de produits en caoutchouc et en plastique,4984,1677,401,7062
+23 - Fabrication d'autres produits minéraux non métalliques,6076,1537,563,8176
+24 - Métallurgie,9016,4942,8118,22075
+"25 - Fabrication de produits métalliques, à l'exception des machines et des équipements",3659,970,622,5251
+"26 - Fabrication de produits informatiques, électroniques et optiques",1245,791,328,2363
+27 - Fabrication d'équipements électriques,1369,542,202,2113
+28 - Fabrication de machines et équipements n.c.a.,1591,500,150,2241
+29 - Industrie automobile,3714,s,483,s
+30 - Fabrication d'autres matériels de transport,1069,475,263,1808
+31 - Fabrication de meubles,460,55,19,534
+32 - Autres industries manufacturières,419,160,44,623
+33 - Réparation et installation de machines et d'équipements,182,s,63,s
+"38 - Collecte, traitement et élimination des déchets ; récupération",257,s,8,s
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie hors IAA et scieries, hors industrie de l'énergie, y compris récupération.",,,,
+"Source : Insee, enquête annuelle sur les consommations d'énergie dans l'industrie 2011.",,,,

@@ -1,0 +1,34 @@
+Tab1_NCE : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP) selon la nomenclature des activités consommatrices d'énergie,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24
+INDICATEUR : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP),,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ENERGIES,Houille,Lignite - charbon pauvre,Coke de houille,Gaz naturel de réseau,Autres gaz de réseau,Coke de pétrole,Butane propane,Fioul lourd,Fioul domestique,Total combustibles usuels,Autres produits pétroliers,Liqueurs noires,Bois et sous-produit du bois,Combustibles spéciaux renouvelables,Combustibles spéciaux non renouvelables,Total autres combustibles,Total combustibles,Achats de vapeur,Achats d'électricité,Autoconsommation d'électricité,Total brut,Ventes de vapeur,Consommation pour production d'électricité,Total net
+NCE,,,,,,,,,,,,,,,,,,,,,,,,
+Total,4614,303,529,10880,90,771,1602,1010,294,20093,1330,870,695,236,390,3521,23614,1465,9325,302,34707,314,1178,33215
+Total hors IAA et scieries,4471,187,509,8463,76,771,1506,763,252,16999,1326,870,637,236,390,3459,20458,1307,7751,198,29714,270,917,28527
+E12 - Industrie laitière,0,0,0,405,3,0,20,85,9,521,0,0,20,0,0,21,542,21,303,3,869,2,19,848
+E13 - Sucreries,90,64,19,554,0,0,0,105,2,835,0,0,0,0,0,0,835,0,28,64,927,37,121,769
+"E14 - Industries alimentaires, hors industrie du lait et du sucre",53,52,0,1457,11,0,75,57,26,1731,4,0,21,0,0,25,1756,137,1212,37,3142,5,121,3016
+E16 - Sidérurgie,3814,s,243,549,s,18,5,5,18,4799,s,0,40,s,0,40,4839,17,999,49,5905,s,s,5903
+E18 - Métallurgie de première transformation des métaux non ferreux,s,s,0,245,0,122,4,6,5,383,0,0,0,0,0,0,383,30,605,0,1018,0,0,1018
+E19 - Production de minéraux divers,0,0,0,26,0,0,3,s,14,s,s,0,0,0,0,s,46,s,s,1,89,0,2,86
+"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+E21 - Production d'autres matériaux de construction et de céramique,s,1,70,489,s,5,20,16,86,793,18,0,41,8,10,77,870,s,214,5,1106,0,13,1093
+E22 - Industrie du verre,0,0,s,692,s,0,6,258,3,959,0,0,0,0,0,0,959,1,293,0,1254,0,1,1253
+E23 - Fabrication d'engrais,0,0,0,757,0,0,2,3,2,765,0,0,5,0,0,4,769,s,48,5,830,s,s,825
+E24 - Autres industries de la chimie minérale,198,s,s,875,0,0,0,s,1,s,s,0,0,0,4,s,1324,98,582,6,2011,104,222,1684
+"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",s,0,0,286,0,0,s,5,1,352,s,0,0,0,s,s,s,77,212,3,s,25,17,s
+E26 - Autres industries de la chimie organique de base,s,0,0,1466,s,s,1306,243,8,3103,752,s,s,30,36,841,3944,528,622,41,5135,128,117,4890
+E28 - Parachimie et industrie pharmaceutique,0,0,0,189,2,0,18,11,5,s,s,0,s,0,0,s,227,14,211,0,452,s,s,450
+E29 - Fonderie et travail des métaux,12,1,162,573,10,10,39,21,16,844,0,0,1,0,1,2,846,3,678,4,1530,s,s,1529
+E30 - Construction mécanique,0,0,0,156,1,0,14,0,8,180,0,0,0,0,0,0,180,1,208,0,390,0,0,389
+E31 - Construction électrique et électronique,0,0,18,158,5,27,6,2,8,s,s,0,s,0,s,s,227,1,388,0,617,0,1,616
+E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,0,0,6,320,2,0,9,1,9,347,0,0,s,0,s,1,348,34,427,s,810,s,s,798
+"E33 - Construction navale et aéronautique, armement",0,0,0,117,1,0,3,s,s,124,1,0,s,s,s,2,126,7,163,6,301,s,s,288
+"E34 - Industrie textile, du cuir et de l'habillement",0,0,0,154,1,0,5,3,6,169,0,s,s,0,0,0,169,3,116,0,289,0,2,287
+E35 - Industrie du papier et du carton,24,0,0,767,0,0,9,59,6,866,s,850,293,112,s,1258,2124,368,763,74,3329,11,488,2831
+E36 - Fabrication de produits en caoutchouc,0,0,0,s,s,0,3,0,1,s,0,0,s,0,0,s,113,59,128,0,300,0,6,294
+E37 - Fabrication de produits en plastique,0,0,0,120,3,0,13,14,8,159,0,0,1,s,s,1,160,26,479,0,666,0,2,664
+E38 - Industries diverses,0,0,0,189,1,0,15,4,34,242,s,s,240,0,1,243,485,2,374,1,862,0,12,851
+Note : Les coefficients de conversion en tep de certaines énergies ont été actualisés pour la publication 2011.,,,,,,,,,,,,,,,,,,,,,,,,
+"Champ : France (hors Dom pour les IAA et scieries), établissements de 20 salariés ou plus appartenant à l'industrie (y compris IAA et scieries), hors industrie de l'énergie, y compris récupération.",,,,,,,,,,,,,,,,,,,,,,,,
+"Source : Insee, SSP, Enquête annuelle sur les consommations d'énergie dans l'industrie 2011, y compris IAA et scieries (calculs Insee).",,,,,,,,,,,,,,,,,,,,,,,,

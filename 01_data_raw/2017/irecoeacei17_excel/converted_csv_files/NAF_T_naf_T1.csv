@@ -1,0 +1,33 @@
+NAF_T1 : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP) et nombre d'établissements selon le secteur d'activité en NAF. rév.2,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21
+,,,,,,,,,,,,,,,,,,,,,
+Indicateurs,Nombre d'établissements,"Combustibles minéraux solides (houille, lignite - charbon pauvre, coke de houille)",Gaz de réseau,Coke de pétrole,Butane propane,Fioul lourd,Fioul domestique,Total combustibles usuels,Autres produits pétroliers,Liqueurs noires,Bois et sous-produit du bois,Combustibles spéciaux renouvelables,Combustibles spéciaux non renouvelables,Total autres combustibles,Total combustibles,Achats de vapeur,Electricité,Total brut,Vapeur vendue,Consommation pour production d'électricité,Total net
+"Secteur d'activité, division de la NAF rév.2",,,,,,,,,,,,,,,,,,,,,
+Total industrie,19421,6092,10524,594,2362,259,282,20113,3339,790,934,365,283,5710,25824,1828,9724,37376,575,446,36354
+07 - Extraction de minerais métalliques,3,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,0,1,ns,ns,1
+08 - 09 - Industries extractives,194,0,32,0,s,s,64,101,10,0,s,s,s,20,121,s,56,187,ns,ns,186
+10 - Industries alimentaires,2696,287,2291,s,s,83,23,2752,s,0,87,141,s,228,2979,246,1598,4823,ns,ns,4580
+11 - Fabrication de boissons,325,0,120,0,6,2,5,132,0,0,4,36,0,40,172,3,186,362,ns,ns,361
+12 - Fabrication de produits à base de tabac,7,0,4,0,0,0,0,4,0,0,0,0,0,0,4,0,1,6,ns,ns,6
+13 - Fabrication de textiles,469,0,126,0,4,2,3,135,0,0,0,0,0,0,135,0,90,225,ns,ns,225
+14 - Industrie de l'habillement,265,0,13,0,0,0,1,14,0,0,0,0,0,0,14,0,9,23,ns,ns,23
+15 - Industrie du cuir et de la chaussure,209,0,9,0,2,0,0,12,0,0,0,0,0,0,12,0,11,23,ns,ns,23
+"16 - Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles - fabrication d'articles en vannerie et sparterie",754,0,s,0,s,3,18,77,0,s,s,0,0,314,391,10,173,573,ns,ns,558
+17 - Industrie du papier et du carton,521,16,828,0,7,26,5,881,s,766,363,s,s,1220,2101,390,722,3214,ns,ns,3023
+18 - Imprimerie et reproduction d'enregistrements,650,0,40,0,1,0,1,43,0,0,s,0,s,s,s,s,102,173,ns,ns,173
+20 - Industrie chimique,871,448,2849,s,2149,s,12,5480,3271,s,s,26,10,3401,8880,983,1661,11524,ns,ns,11036
+21 - Industrie pharmaceutique,303,0,168,0,1,0,s,s,0,0,0,0,s,s,173,46,207,426,ns,ns,421
+22 - Fabrication de produits en caoutchouc et en plastique,1353,0,203,0,13,13,6,235,0,0,14,0,0,15,249,59,560,869,ns,ns,854
+23 - Fabrication d'autres produits minéraux non métalliques,858,214,1492,423,12,107,33,2281,53,0,55,69,233,410,2690,17,716,3424,ns,ns,3423
+24 - Métallurgie,444,5101,1100,s,s,6,39,6418,s,0,0,0,s,7,6425,23,1862,8310,ns,ns,8258
+"25 - Fabrication de produits métalliques, à l'exception des machines et des équipements",3229,s,304,0,42,0,s,365,0,0,2,0,0,2,367,1,433,801,ns,ns,801
+"26 - Fabrication de produits informatiques, électroniques et optiques",715,0,s,0,0,0,1,s,0,0,0,0,0,0,s,s,187,220,ns,ns,220
+27 - Fabrication d'équipements électriques,692,s,98,0,5,0,4,s,0,0,s,0,0,s,120,s,169,289,ns,ns,289
+28 - Fabrication de machines et équipements n.c.a.,1497,0,143,0,11,0,10,163,0,0,1,0,0,1,165,s,186,351,ns,ns,351
+29 - Industrie automobile,611,s,323,0,s,1,5,345,s,0,2,0,s,3,349,13,421,783,ns,ns,775
+30 - Fabrication d'autres matériels de transport,330,0,s,0,4,s,3,111,s,0,s,0,0,5,116,6,165,287,ns,ns,286
+31 - Fabrication de meubles,330,0,19,0,1,0,2,22,0,0,14,0,0,14,36,0,35,71,ns,ns,71
+32 - Autres industries manufacturières,507,0,29,0,2,0,1,31,0,0,0,0,0,0,31,s,62,97,ns,ns,96
+33 - Réparation et installation de machines et d'équipements,1212,0,25,0,1,0,4,30,0,0,0,0,0,0,30,2,65,96,ns,ns,96
+38 - Récupération,377,0,122,0,5,0,32,159,0,0,s,s,0,0,160,15,46,220,ns,ns,219
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération.",,,,,,,,,,,,,,,,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie 2017.",,,,,,,,,,,,,,,,,,,,,

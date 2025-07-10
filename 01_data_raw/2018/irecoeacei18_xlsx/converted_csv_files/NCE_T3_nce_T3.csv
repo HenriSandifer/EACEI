@@ -1,0 +1,33 @@
+NCE_T3 : Répartition de la consommation de combustibles par usage en milliers de tonnes-équivalent-pétrole (kTEP) selon la nomenclature des activités consommatrices d'énergie,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36,Unnamed: 37,Unnamed: 38,Unnamed: 39,Unnamed: 40
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Type d'énergie,"Combustibles minéraux solides (houille, lignite - charbon pauvre, coke de houille)",,,,,Gaz de réseau,,,,,Coke de pétrole,,,,,Butane propane,,,,,Fioul lourd,,,,,Fioul domestique,,,,,Bois et sous-produit du bois,,,,,Vapeur,,,,
+Indicateur,"Fabrication (fours, séchoirs…) y compris production de vapeur",Matières premières,Production d'électricité,Chauffages et autres usages,Ensemble des usages,"Fabrication (fours, séchoirs…) y compris production de vapeur",Matières premières,Production d'électricité,Chauffages et autres usages,Ensemble des usages,"Fabrication (fours, séchoirs…) y compris production de vapeur",Matières premières,Production d'électricité,Chauffages et autres usages,Ensemble des usages,"Fabrication (fours, séchoirs…) y compris production de vapeur",Matières premières,Production d'électricité,Chauffages et autres usages,Ensemble des usages,"Fabrication (fours, séchoirs…) y compris production de vapeur",Matières premières,Production d'électricité,Chauffages et autres usages,Ensemble des usages,"Fabrication (fours, séchoirs…) y compris production de vapeur",Matières premières,Production d'électricité,Chauffages et autres usages,Ensemble des usages,"Fabrication (fours, séchoirs…) y compris production de vapeur",Matières premières,Production d'électricité,Chauffages et autres usages,Ensemble des usages,"Fabrication (fours, séchoirs…) y compris production de vapeur",Matières premières,Production d'électricité,Chauffages et autres usages,Ensemble des usages
+Nomenclature activités consommatrices d'énergie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Total industrie,1652,4269,s,s,5994,8266,1077,339,1099,10781,498,s,s,s,561,137,2047,0,75,2259,170,0,3,12,185,86,7,9,184,286,904,so,26,62,993,1736,so,32,83,1850
+E12 - Industrie laitière,0,0,0,0,0,409,0,0,18,427,0,0,0,0,0,s,0,s,3,17,s,0,s,s,17,3,0,1,1,5,33,so,0,s,s,47,so,0,1,48
+E13 - Sucreries,178,0,13,0,191,573,0,63,8,645,s,0,0,0,s,0,0,0,s,s,0,0,0,0,0,2,0,s,s,6,s,so,0,0,s,30,so,0,0,30
+"E14 - Industries alimentaires, hors industrie du lait et du sucre",159,0,0,0,159,1190,4,103,96,1393,0,0,0,0,0,49,0,0,13,63,24,0,0,1,25,14,1,1,12,28,s,so,0,1,s,147,so,0,5,152
+E16 - Sidérurgie,s,4162,s,s,4855,624,s,0,s,658,s,5,0,s,12,3,0,0,1,4,s,0,0,s,0,s,0,0,s,11,0,so,0,s,s,9,so,0,2,11
+E18 - Métallurgie de première transformation des métaux non ferreux,0,s,0,0,s,260,s,0,s,275,s,s,0,0,s,s,s,0,s,0,5,0,0,0,5,0,s,s,3,4,0,so,0,0,0,s,so,0,0,s
+E19 - Production de minéraux divers,0,0,0,0,0,9,0,0,s,s,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,7,13,0,so,0,0,0,s,so,0,s,s
+"E20 - Fabrication de plâtres, produits en plâtre, chaux et ciments",195,0,0,0,195,261,0,0,5,266,414,0,0,0,414,s,s,0,0,1,7,0,0,0,7,3,0,0,11,14,41,so,0,0,41,12,so,0,0,12
+E21 - Production d'autres matériaux de construction et de céramique,56,14,0,0,70,419,s,0,s,453,s,33,s,0,34,5,0,0,3,8,6,0,0,1,7,28,1,1,50,80,s,so,0,s,23,s,so,0,0,s
+E22 - Industrie du verre,s,s,0,0,0,858,s,0,s,905,0,0,0,0,0,s,0,0,1,s,s,0,0,s,51,0,s,s,1,2,0,so,0,0,0,s,so,0,s,1
+E23 - Fabrication d'engrais,0,0,0,0,0,305,568,s,s,986,0,0,0,0,0,0,0,0,s,s,s,0,0,0,s,1,0,0,1,2,3,so,0,0,3,0,so,0,0,0
+E24 - Autres industries de la chimie minérale,294,29,0,0,323,282,s,s,2,339,s,0,0,0,s,2,0,0,0,2,s,0,0,0,s,s,s,s,2,3,s,so,0,0,s,239,so,s,s,249
+"E25 - Fabrication de matières plastiques, de caoutchouc synthétique et de fibres artificielles ou synthétiques",59,0,s,s,s,128,0,7,9,144,0,0,0,0,0,0,0,0,0,0,s,0,0,0,s,0,0,0,1,1,0,so,0,0,0,165,so,s,s,170
+E26 - Autres industries de la chimie organique de base,0,0,0,0,0,1071,s,s,23,1528,0,s,0,0,s,s,2031,s,s,2035,s,0,0,0,s,2,0,0,3,6,35,so,s,s,s,600,so,10,12,622
+E28 - Parachimie et industrie pharmaceutique,0,0,0,0,0,115,0,0,s,s,0,0,0,0,0,s,s,s,2,20,0,0,0,0,0,1,1,0,2,4,s,so,0,0,s,10,so,0,4,14
+E29 - Fonderie et travail des métaux,s,s,0,0,104,330,1,0,136,467,s,0,0,s,0,s,0,s,16,36,0,0,0,0,0,2,0,0,11,14,1,so,0,1,2,s,so,0,s,1
+E30 - Construction mécanique,0,0,0,0,0,46,0,0,89,135,0,0,0,0,0,s,0,s,6,14,0,0,0,0,0,3,1,0,5,9,0,so,0,s,s,0,so,0,3,3
+E31 - Construction électrique et électronique,17,0,0,0,17,70,23,0,67,160,0,0,0,0,0,1,0,0,4,5,s,0,s,s,0,s,s,1,4,4,0,so,0,0,0,s,so,0,s,2
+E32 - Construction de véhicules automobiles et d'autres matériels de transport terrestre,s,0,0,0,s,178,0,4,161,342,0,0,0,0,0,s,0,0,5,s,s,0,0,s,1,s,s,0,4,8,s,so,0,s,0,1,so,0,15,16
+"E33 - Construction navale et aéronautique, armement",0,0,0,0,0,34,s,1,54,s,0,0,0,0,0,s,s,0,0,2,0,0,s,0,s,3,0,1,2,6,s,so,0,s,4,2,so,0,10,12
+"E34 - Industrie textile, du cuir et de l'habillement",0,0,0,0,0,103,0,1,30,134,0,0,0,0,0,3,0,0,2,5,s,0,0,s,8,1,0,0,3,4,0,so,0,0,0,8,so,0,2,11
+E35 - Industrie du papier et du carton,s,0,s,0,12,716,s,s,48,820,0,0,0,0,0,2,0,0,5,7,s,0,s,0,27,1,0,0,3,5,341,so,s,s,356,365,so,s,s,378
+E36 - Fabrication de produits en caoutchouc,0,0,0,0,0,58,0,s,13,s,0,0,0,0,0,s,0,0,s,1,s,0,0,s,s,s,0,s,s,0,s,so,0,s,7,s,so,s,6,38
+E37 - Fabrication de produits en plastique,0,0,0,0,0,73,7,26,36,142,0,0,0,0,0,s,1,s,5,12,3,0,0,1,5,1,0,0,5,6,4,so,0,1,5,20,so,0,3,22
+E38 - Industries diverses,0,0,0,0,0,154,0,s,s,215,0,0,0,0,0,5,0,0,4,9,2,0,1,0,3,7,2,1,43,52,342,so,0,52,395,32,so,0,1,33
+Note : la répartition des usages de la vapeur ne concerne que la quantité achetée de cette énergie.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie 2018.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

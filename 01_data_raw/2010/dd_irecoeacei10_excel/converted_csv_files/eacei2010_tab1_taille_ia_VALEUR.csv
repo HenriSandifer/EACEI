@@ -1,0 +1,16 @@
+Tab1_Taille : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP) selon la tranche d'effectif de l'établissement,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24
+INDICATEUR : Consommation d'énergie en milliers de tonnes-équivalent-pétrole (kTEP),,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+ENERGIES,Houille,Lignite - charbon pauvre,Coke de houille,Gaz naturel de réseau,Autres gaz de réseau,Coke de pétrole,Butane propane,Fioul lourd,Fioul domestique,Total combustibles usuels,Autres produits pétroliers,Liqueurs noires,Bois et sous-produit du bois,Combustibles spéciaux renouvelables,Combustibles spéciaux non renouvelables,Total autres combustibles,Total combustibles,Achats de vapeur,Achats d'électricité,Autoconsommation d'électricité,Total brut,Ventes de vapeur,Consommation pour production d'électricité,Total net
+TAILLE,,,,,,,,,,,,,,,,,,,,,,,,
+Total,4920,207,618,11083,105,806,1658,1005,296,20699,1373,702,1011,236,369,3690,24389,207,618,11083,105,806,1658,1005
+20 à 49 employés,s,s,0,916,s,s,66,61,102,s,13,s,70,s,5,s,1380,29,0,916,12,s,s,61
+50 à 99 employés,125,39,68,1242,7,217,63,138,59,1958,256,0,87,38,137,518,2476,39,68,1242,7,217,63,138
+100 à 249 employés,405,56,72,3771,17,430,436,278,69,5536,s,s,271,75,196,816,6352,56,72,3771,17,430,436,278
+250 à 499 employés,312,s,74,2486,2,s,607,286,31,3867,s,s,558,94,16,1382,5249,36,74,2486,2,33,607,286
+500 à 999 employés,4,s,34,1427,33,s,471,199,13,2282,s,s,24,0,15,819,3101,0,34,1427,33,103,471,199
+1 000 à 1 999 employés,s,0,s,385,s,0,15,42,6,s,s,0,1,s,0,s,759,0,156,385,34,s,s,42
+2 000 employés ou plus,3937,s,s,856,0,0,0,1,16,5072,0,0,0,0,0,0,5072,47,214,856,0,s,s,1
+,,,,,,,,,,,,,,,,,,,,,,,,
+Champ : France métropolitaine.,,,,,,,,,,,,,,,,,,,,,,,,
+"Sources : Insee, SSP, Enquête annuelle sur les consommations d'énergie dans l'industrie 2010, y compris IAA et scieries (calculs Insee).",,,,,,,,,,,,,,,,,,,,,,,,

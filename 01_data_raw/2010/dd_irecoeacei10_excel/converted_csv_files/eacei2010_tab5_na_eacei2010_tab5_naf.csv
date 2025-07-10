@@ -1,0 +1,29 @@
+Tab5_NAF : Répartition de la consommation d'électricité par usage en GWh selon le secteur d'activité,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,,,,
+INDICATEUR,Force motrice,Usages thermiques,Autres usages y compris électrolyse,Ensemble des usages
+SECTEUR,,,,
+Total,63781,14484,14388,92654
+07 - Extraction de minerais métalliques,s,s,0,4
+08 - Autres industries extractives,952,30,11,993
+13 - Fabrication de textiles,1021,217,51,1289
+14 - Industrie de l'habillement,83,28,6,116
+15 - Industrie du cuir et de la chaussure,s,s,24,146
+"16 - Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles - fabrication d'articles en vannerie et sparterie",1330,68,18,1417
+17 - Industrie du papier et du carton,9812,329,104,10245
+18 - Imprimerie et reproduction d'enregistrements,1169,215,62,1445
+20 - Industrie chimique,13974,820,3333,18128
+21 - Industrie pharmaceutique,1618,484,131,2233
+22 - Fabrication de produits en caoutchouc et en plastique,5005,1693,369,7067
+23 - Fabrication d'autres produits minéraux non métalliques,5906,1393,562,7861
+24 - Métallurgie,9098,5048,7696,21842
+"25 - Fabrication de produits métalliques, à l'exception des machines et des équipements",3551,1013,489,5053
+"26 - Fabrication de produits informatiques, électroniques et optiques",1160,833,313,2306
+27 - Fabrication d'équipements électriques,1427,527,199,2154
+28 - Fabrication de machines et équipements n.c.a.,1550,475,156,2181
+29 - Industrie automobile,3849,529,460,4839
+30 - Fabrication d'autres matériels de transport,1082,457,263,1802
+31 - Fabrication de meubles,497,52,24,574
+32 - Autres industries manufacturières,406,157,35,598
+33 - Réparation et installation de machines et d'équipements,189,92,81,363
+Champ : France métropolitaine.,,,,
+Source : Enquête annuelle sur les consommations d'énergie dans l'industrie 2010.,,,,

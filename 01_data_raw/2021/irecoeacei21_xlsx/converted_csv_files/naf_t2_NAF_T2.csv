@@ -1,0 +1,76 @@
+"NAF_T2 : Achats et consommation en unité propre, valeur d'achat et prix moyens des produits énergétiques selon le secteur d'activité en NAF rév.2 de l'établissement",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28,Unnamed: 29,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36,Unnamed: 37,Unnamed: 38,Unnamed: 39,Unnamed: 40,Unnamed: 41,Unnamed: 42,Unnamed: 43,Unnamed: 44,Unnamed: 45,Unnamed: 46,Unnamed: 47,Unnamed: 48,Unnamed: 49,Unnamed: 50,Unnamed: 51,Unnamed: 52,Unnamed: 53
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Achats et consommation en unité propre, valeur
+d'achat et prix moyen des produits énergétiques","Valeur des achats de
+l’ensemble des énergies (en
+millions d'euros)","Quantités achetées de
+combustibles minéraux solides","Quantités consommées de
+combustibles minéraux solides","Valeur des achats de
+combustibles minéraux solides","Prix moyen des combustibles
+minéraux solides",Quantités achetées de gaz,Quantités consommées de gaz,Valeur des achats de gaz,Prix moyen du gaz,"Quantités achetées de biogaz
+et biométhane","Quantités consommées de biogaz
+et biométhane","Valeur des achats de biogaz et
+biométhane","Prix moyen du biogaz et
+biométhane","Quantités achetées de coke de
+pétrole","Quantités consommées de coke
+de pétrole","Valeur des achats de coke de
+pétrole",Prix moyen de coke de pétrole,"Quantités achetées de
+butane-propane","Quantités consommées de
+butane-propane","Valeur des achats de
+butane-propane",Prix moyen de butane-propane,"Quantités achetées de fioul
+lourd","Quantités consommées de fioul
+lourd","Valeur des achats de fioul
+lourd",Prix moyen de fioul lourd,"Quantités achetées de fioul
+domestique","Quantités consommées de fioul
+domestique","Valeur des achats de fioul
+domestique",Prix moyen de fioul domestique,"Quantités achetées de gazole
+non routier","Quantités consommées de gazole
+non routier","Valeur des achats de gazole
+non routier","Prix moyen de gazole non
+routier",Quantités achetées de bois,Quantités consommées de bois,Valeur des achats de bois,Prix moyen du bois,Quantités achetées de vapeur,Quantités consommées de vapeur,Valeur des achats de vapeur,Prix moyen de vapeur,Quantités achetées d’hydrogène,"Quantités consommées
+d’hydrogène","Quantités autoproduites
+d’hydrogène",Valeur des achats d’hydrogène,Prix moyen d’hydrogène,Autoproduction consommée,"Autoproduction vendue
+d’hydrogène","Quantités achetées
+d'électricité","Quantités consommées
+d'électricité","Quantités autoproduites
+d’électricité","Valeur des achats
+d'électricité",Prix moyen d’électricité
+"Secteur d'activité, division de la NAF rév.2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Total industrie,17134.9,7895.1,8063,1426.6,180.7,136596.5,137024.4,4749.5,34.8,250.7,678.6,11.1,44.4,739.5,763.1,136.5,184.6,2048.6,2133.5,1063.8,519.3,300.2,337.7,197.1,656.6,131736.9,135556.2,95,0.72,221354.4,221122,162,0.73,2189.7,3644.4,107.6,49.2,26939.8,26939.8,903.6,33.5,25.4,90.2,115.6,73.4,2890.3,64.8,50.7,105892.5,109901.3,6784.7,8213.3,77.6
+07 - 08 – 09 Toutes les Industries extractives,144.6,0,0,0,0,498.9,498.9,11.9,23.8,s,s,s,s,0,0,0,0,0.4,0.4,0.3,673.1,0,0,0,0,3545,3539.3,2.7,0.75,79395.5,79738.8,59.5,0.75,s,s,s,s,s,s,s,s,0,0,0,0,0,0,0,s,801.9,s,67.5,s
+"10 – 11 – 12 Industries alimentaires, Fabrication
+de boissons, Fabrication de produits à base de
+tabac",2915.1,404.5,416.5,74.2,183.5,31116.3,31305.7,1041.6,33.5,32.7,222.2,1.6,49,0,0,0,0,67.3,67.2,47.7,708.9,28.4,28,21.4,755.8,25047.6,25720,17.2,0.69,15923.7,15976.9,11.6,0.73,547.6,558.3,27.6,50.4,3847,3847,97.1,25.2,0.8,0.8,0,4.4,5555.7,0,0,19123.4,20676.3,2478.8,1569.6,82.1
+13 - Fabrication de textiles,114.4,0,0,0,0,856.1,856.1,27.3,31.8,0,0,0,0,0,0,0,0,4.9,5,3.3,666.1,0.9,0.8,s,s,2425.7,2415.2,1.8,0.75,937.2,945.4,s,s,0.1,0.1,0,147.9,s,s,s,s,0,0,0,0,0,0,0,915.4,s,s,78.6,85.9
+14 - Industrie de l'habillement,14.2,0,0,0,0,115.1,115.1,4.4,38,0,0,0,0,0,0,0,0,0.2,0.2,0.2,1024.7,0.1,0.1,0.1,900,1027.9,1023.1,0.7,0.73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,s,s,s,8.8,s
+15 - Industrie du cuir et de la chaussure,26.8,0,0,0,0,292.8,292.8,10.7,36.4,0,0,0,0,0,0,0,0,1.3,65,1,710.5,0,s,0,0,744.7,752.4,s,s,s,s,s,s,0.2,s,0,107,1,1,0.2,158.8,0,0,0,0,0,0,0,s,141.1,13.4,14.4,s
+"16 - Travail du bois et fabrication d'articles en
+bois et en liège, à l'exception des meubles -
+fabrication d'articles en vannerie et sparterie",264.9,0,0,0,0,869.4,869.4,31.4,36.1,0,0,0,0,0,0,0,0,3.9,4.1,3.4,881,1,1,1,979.8,6149.2,6239.9,4.6,0.74,13625.2,13602.9,9.5,0.69,387.2,s,15.9,41.1,213.9,213.9,4.3,20,0,0,0,0,0,0,0,2279.1,2632.8,500.3,194.9,85.5
+17 - Industrie du papier et du carton,1073.6,s,s,s,s,9674.7,9904.7,345.4,35.7,s,s,s,s,0,0,0,0,5,5,4.4,892.9,s,s,s,s,3989.7,4016.1,s,s,3763.1,3751.8,2.8,0.73,796.2,1361.9,39.2,49.3,5061.9,5061.9,116.8,23.1,0,0,0,0,0,0,0,7269.3,7815,1635.6,545.5,75
+18 - Imprimerie et reproduction d'enregistrements,106.6,0,0,0,0,s,s,16.9,s,0,0,0,0,0,0,0,0,s,s,1.4,s,s,s,s,s,802.3,945.9,s,s,14.4,14.3,0,0.96,0,s,0,0,26,26,1.1,43.3,0,0,0,0,0,0,0,982.8,985.7,3.3,86.5,88
+20 - Industrie chimique,4452.1,564,559.1,83.9,148.8,36434.4,36442.8,1417.7,38.9,26.1,34.5,s,s,s,s,s,s,1879.5,1892.2,936.1,498.1,s,s,6.2,s,19604.9,21687.9,13,0.66,6186.9,6115.1,4.4,0.71,269.6,291.9,17.7,65.5,14579.3,14579.3,588.4,40.4,s,85.3,s,47.3,s,s,s,17103.5,17818.5,953,1338.3,78.2
+21 - Industrie pharmaceutique,307.4,0,0,0,0,2212.7,2212.7,65.6,29.7,s,s,0.7,s,0,0,0,0,s,s,1,s,s,s,s,s,1033.6,958.9,s,s,135.1,144.2,0.1,0.75,s,s,s,s,s,s,42.9,s,s,s,0,s,s,0,0,s,2607.1,s,196.7,s
+"22 - Fabrication de produits en caoutchouc et en
+plastique",630.8,0,0,0,0,2231.2,2231.2,81.2,36.4,s,s,s,s,0,0,0,0,15.8,17.1,12.1,767.2,0,0,0,918.8,5478.8,5505.4,4,0.73,724.8,736.8,0.7,0.91,s,s,s,s,636.4,636.4,18.4,29,s,s,0,s,s,0,0,6388.4,6447.3,80.2,507,79.4
+"23 - Fabrication d'autres produits minéraux non
+métalliques",1578.1,407.6,419.1,66.9,164.2,22939.5,22939.5,628.1,27.4,46.1,46.1,s,s,542.7,550.6,71.6,131.9,s,s,11.4,s,s,s,s,s,10514.6,10480.7,s,s,s,s,21.1,s,147.8,156.8,s,s,113.8,113.8,s,s,0.5,0.5,0,3.2,7003,0,0,8368.2,8421.3,s,610.8,73
+24 - Métallurgie,3121,6466.8,6616.4,1187.2,183.6,14327.8,14327.8,523,36.5,s,s,s,s,193.6,209.3,63.7,328.9,8.7,8.8,6.2,706.8,0.3,0.3,s,s,9572,9494.6,6.1,0.64,11029.3,10991.8,8.4,0.76,s,13.5,s,s,210.2,210.2,4.9,23.1,s,2.3,s,11.9,s,s,0,s,20790.4,422.2,1309.2,s
+"25 - Fabrication de produits métalliques, à
+l'exception des machines et des équipements",596.7,s,s,s,s,3724.7,3724.7,133.7,35.9,0,0,0,0,s,s,s,s,14.9,15.6,13.7,917,0.4,0.4,0.3,720.6,10088.5,10437.9,7.7,0.77,s,s,2.7,s,2.8,s,0.3,91.9,6.5,6.5,s,s,0.2,0.2,0,2.5,10149.7,0,0,4857.5,4869.4,16.2,428.3,88.2
+"26 - Fabrication de produits informatiques,
+électroniques et optiques",208,0,0,0,0,387.5,387.5,16.2,41.7,0,0,0,0,0,0,0,0,s,s,0.3,s,0,0.1,s,s,897.7,850.2,s,s,s,s,s,s,0,0,0,0,14,14,0.6,45.3,0,0,0,0.5,14070.2,0,0,2267.2,2281,13.8,189.6,83.6
+27 - Fabrication d'équipements électriques,209.7,s,s,s,s,s,s,52.5,s,s,s,s,s,0,0,0,0,s,s,2.5,s,0,0,0,846.4,2045.3,2089.1,s,s,302.1,313.4,0.2,0.74,s,s,s,s,20.1,20.1,0.9,44.2,s,s,0,1,s,0,0,1885.7,1896.1,12.2,145.5,77.1
+28 - Fabrication de machines et équipements n.c.a.,278,0,0,0,0,1781,1781,71.8,40.3,s,s,s,s,0,0,0,0,7.6,7.8,5.6,733.6,0.5,0.4,0.3,609.6,8344.2,8358.3,7.1,0.86,3396.7,3431,2.9,0.86,s,s,s,s,42.5,42.5,1.9,45.5,s,s,s,s,s,s,s,s,2047.3,22.2,188.1,s
+29 - Industrie automobile,466.5,0,0,0,0,3560.7,3560.7,135.8,38.1,82.1,82.1,5.2,63.3,0,0,0,0,s,s,6.2,s,s,s,s,s,3580.4,3616.7,s,s,1923.8,1927.6,1.5,0.77,1.8,7.8,0.2,87.5,s,s,7.6,s,0,0,0,0.1,2487.5,0,0,3785.5,3940.5,166.4,312.7,82.6
+30 - Fabrication d'autres matériels de transport,246.4,0,0,0,0,1376.5,1376.5,59.2,43,0,0,s,0,0,0,0,0,2.5,2.7,2,783.9,0.2,0.2,s,s,1670.8,1642.9,s,s,1046.6,1048.3,1.5,1.45,s,s,1.8,s,221.1,221.1,7.4,33.3,0.8,0.8,0,2.3,2889.9,0,0,1845.1,1925,s,170.7,92.5
+31 - Fabrication de meubles,58.8,0,0,0,0,s,s,9.8,s,0,0,0,0,0,0,0,0,2.1,s,1.8,876.2,0,s,0,0,2291.2,2458.5,1.6,0.69,24.4,25.7,s,s,3.4,49.4,0.4,106.5,s,s,s,s,s,s,0,s,s,0,0,s,475.7,s,45.1,s
+32 - Autres industries manufacturières,84.6,0,0,0,0,497.9,497.9,18.8,37.8,0,0,0,0,0,0,0,0,s,s,1,s,0,s,0,0,771.8,784.8,s,s,2.8,3,0,0.81,s,s,s,s,1.1,1.1,0,38.4,0,0,0,0,1758.2,0,0,675.7,678.4,2.7,64.2,95.1
+"33 - Réparation et installation de machines et
+d'équipements",90.8,0,0,0,0,326.3,326.3,19.3,59.3,s,s,s,s,s,s,s,s,1.5,5.9,1.3,879.4,0,0,s,s,4929.6,4935.6,4.1,0.84,s,s,14.1,s,0.2,0.2,0.1,393.7,s,s,s,s,0,0,0,0.1,3292.4,0,0,472.6,s,s,52.4,110.9
+38 - Récupération,146,0,0,0,0,s,s,27.2,s,s,s,s,s,0,0,0,0,0.8,1.1,0.9,1184.8,1.3,1.3,s,s,7181.2,7602.8,5.3,0.74,s,s,20.2,s,s,s,s,s,171.9,171.9,2,11.7,0,0,0,0,0,0,0,s,904.1,30.2,89,s
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Note : la consommation d'énergie peut différer de la quantité achetée dans le cas d'énergies stockables (fioul par exemple), ou dans le cas de l'électricité (autoproduction consommée) et du bois (une partie non achetée).",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie 2021.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

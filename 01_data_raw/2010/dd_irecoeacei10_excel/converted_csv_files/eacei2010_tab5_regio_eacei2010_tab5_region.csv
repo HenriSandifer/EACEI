@@ -1,0 +1,28 @@
+Tab5_région : Répartition de la consommation d'électricité par usage en GWh selon la région,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,,,,
+INDICATEUR,Force motrice,Usages thermiques,Autres usages y compris électrolyse,Ensemble des usages
+REGION,,,,
+Toutes régions,63781,14484,14388,92654
+Ile-de-France,3497,1078,444,5019
+Champagne-Ardenne,1939,576,140,2655
+Picardie,2287,609,257,3153
+Haute-Normandie,5108,441,197,5746
+Centre,2368,698,184,3249
+Basse-Normandie,915,205,72,1192
+Bourgogne,1522,418,160,2100
+Nord-Pas-de-Calais,8421,1826,4530,14777
+Lorraine,6713,1312,262,8287
+Alsace,3796,596,331,4724
+Franche-Comté,1804,s,s,3122
+Pays de la Loire,2788,s,s,3673
+Bretagne,1133,411,138,1682
+Poitou-Charentes,1296,284,80,1659
+Aquitaine,3006,962,371,4339
+Midi-Pyrénées,1538,433,227,2198
+Limousin,614,85,36,735
+Rhône-Alpes,7082,2408,4014,13504
+Auvergne,1336,510,166,2013
+Languedoc-Roussillon,760,197,576,1533
+PACA et Corse,5705,478,912,7096
+Champ : France métropolitaine.,,,,
+Source : Enquête annuelle sur les consommations d'énergie dans l'industrie 2010.,,,,

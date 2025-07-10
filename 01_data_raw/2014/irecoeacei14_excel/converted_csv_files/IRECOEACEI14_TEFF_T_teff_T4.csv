@@ -1,0 +1,12 @@
+"TEFF_T4 : Autoproduction, achats et consommation d'électricité par usage en GWh selon la tranche d'effectif de l'établissement en 2014",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11
+,,,,,,,,,,,
+Indicateurs,Autoproduction d'origine thermique,Autoproduction d'origine non thermique,Autoproduction vendue,Autoproduction consommée (1),Achats (2),Consommation (1 + 2),Usage force motrice,Usages thermiques (y compris production de froid),Usage électrolyse,Usage chauffage des locaux et autres,"Usages thermodynamiques hors chauffage des locaux (Prod. froid, PAC, CMV)"
+Tranche d'effectif salarié,,,,,,,,,,,
+Total industrie,s,s,1840,3036,107669,110705,71714,11085,10553,7037,9795
+20 à 49 employés,19,6,6,19,11928,11947,7926,1086,318,1125,1238
+50 à 99 employés,89,41,45,85,13799,13884,9341,1060,1122,796,1383
+100 à 249 employés,617,136,157,597,27086,27682,17984,3793,1296,2027,2510
+250 à 499 employés,1945,86,598,1433,25870,27303,17678,2881,2843,1321,2567
+500 employés ou plus,s,s,1033,903,28986,29889,18785,2265,4974,1768,2097
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération.",,,,,,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie en 2014.",,,,,,,,,,,

@@ -1,0 +1,413 @@
+{
+  "target_2023_headers": [
+    "Facture énergétique (en millions d'euros courants)",
+    "Combustibles minéraux solides achetés (en milliers de tonnes)",
+    "Consommation de combustibles minéraux solides (en milliers de tonnes)",
+    "Valeur des achats de combustibles minéraux solides (en millions d'euros)",
+    "Prix moyen des combustibles minéraux solides (en €/t)",
+    "Quantités achetées de gaz (en GWh)",
+    "Consommation de gaz naturel et autres gaz (en GWh)",
+    "Valeur des achats de gaz (en millions d'euros)",
+    "Prix moyen annuel du gaz de réseau (en €/MWh)",
+    "Quantités achetées de biogaz et biométhane (en GWh)",
+    "Consommation de biogaz et biométhane (en GWh)",
+    "Valeur des achats de biogaz et biométhane (en millions d'euros)",
+    "Prix moyen annuel du biogaz et biométhane (en €/t)",
+    "Quantités achetées de coke de pétrole (en milliers de tonnes)",
+    "Consommation de coke de pétrole (en milliers de tonnes)",
+    "Valeur des achats de coke de pétrole (en millions d'euros)",
+    "Prix moyen annuel du coke de pétrole (en €/t)",
+    "Quantités achetées de butane-propane (en milliers de tonnes)",
+    "Consommation de butane-propane (en milliers de tonnes)",
+    "Valeur des achats de butane-propane (en millions d'euros)",
+    "Prix moyen annuel du butane-propane (en €/t)",
+    "Quantités achetées de fioul lourd (en milliers de tonnes)",
+    "Consommation de fioul lourd (en milliers de tonnes)",
+    "Valeur des achats de fioul lourd (en millions d'euros)",
+    "Prix moyen annuel du fioul lourd (en €/t)",
+    "Quantités achetées de fioul domestique (en milliers de litres)",
+    "Consommation de fioul domestique (en milliers de litres)",
+    "Valeur des achats de fioul domestique (en millions d'euros)",
+    "Prix moyen annuel du fioul domestique (en €/l)",
+    "Quantités achetées de gazole non routier (en milliers de litres)",
+    "Consommation de gazole non routier (en milliers de litres)",
+    "Valeur des achats de gazole non routier (en millions d'euros)",
+    "Prix moyen annuel du gazole non routier (en €/l)",
+    "Quantités achetées de bois (en milliers de tonnes)",
+    "Consommation de bois et sous-produit du bois (en milliers de tonnes)",
+    "Valeur des achats de bois (en millions d'euros)",
+    "Prix moyen annuel du bois (en €/t)",
+    "Vapeur achetée (en milliers de tonnes)",
+    "Valeur des achats de vapeur (en millions d'euros)",
+    "Prix moyen annuel de la vapeur (en €/t)",
+    "Quantités achetées d’hydrogène (en milliers de tonnes)",
+    "Consommation d’hydrogène (en milliers de tonnes)",
+    "Quantité d’hydrogène autoproduite (en milliers de tonnes)",
+    "Valeur des achats d’hydrogène (en millions d'euros)",
+    "Prix moyen annuel d’hydrogène (en €/t)",
+    "Quantité d’hydrogène autoproduite et consommée (en milliers de tonnes)",
+    "Quantité d’hydrogène autoproduite et vendue (en milliers de tonnes)",
+    "Électricité achetée (en GWh)",
+    "Consommation d’électricité (en GWh)",
+    "Électricité autoproduite (en GWh)",
+    "Valeur des achats d'électricité (en millions d'euros)",
+    "Prix moyen annuel de l’électricité (en €/MWh)"
+  ],
+  "mappings": {
+    "2010_2011_multi_level": {
+        "Houille": {
+            "Quantités achetées": "Combustibles minéraux solides achetés (en milliers de tonnes)",
+            "Consommation": "Consommation de combustibles minéraux solides (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de combustibles minéraux solides (en millions d'euros)",
+            "Prix moyen": "Prix moyen des combustibles minéraux solides (en €/t)"
+        },
+        "Lignite - charbon pauvre": {
+            "Quantités achetées": "Combustibles minéraux solides achetés (en milliers de tonnes)",
+            "Consommation": "Consommation de combustibles minéraux solides (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de combustibles minéraux solides (en millions d'euros)",
+            "Prix moyen": "Prix moyen des combustibles minéraux solides (en €/t)"
+        },
+        "Coke de houille": {
+            "Quantités achetées": "Combustibles minéraux solides achetés (en milliers de tonnes)",
+            "Consommation": "Consommation de combustibles minéraux solides (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de combustibles minéraux solides (en millions d'euros)",
+            "Prix moyen": "Prix moyen des combustibles minéraux solides (en €/t)"
+        },
+        "Gaz naturel de réseau": {
+            "Quantités achetées": "Quantités achetées de gaz (en GWh)",
+            "Consommation": "Consommation de gaz naturel et autres gaz (en GWh)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de gaz (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel du gaz de réseau (en €/MWh)"
+        },
+        "Autres gaz de réseau": {
+            "Quantités achetées": "Quantités achetées de gaz (en GWh)",
+            "Consommation": "Consommation de gaz naturel et autres gaz (en GWh)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de gaz (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel du gaz de réseau (en €/MWh)"
+        },
+        "Coke de pétrole": {
+            "Quantités achetées": "Quantités achetées de coke de pétrole (en milliers de tonnes)",
+            "Consommation": "Consommation de coke de pétrole (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de coke de pétrole (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel du coke de pétrole (en €/t)"
+        },
+        "Butane propane": {
+            "Quantités achetées": "Quantités achetées de butane-propane (en milliers de tonnes)",
+            "Consommation": "Consommation de butane-propane (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de butane-propane (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel du butane-propane (en €/t)"
+        },
+        "Fioul lourd": {
+            "Quantités achetées": "Quantités achetées de fioul lourd (en milliers de tonnes)",
+            "Consommation": "Consommation de fioul lourd (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de fioul lourd (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel du fioul lourd (en €/t)"
+        },
+        "Fioul domestique": {
+            "Quantités achetées": "Quantités achetées de fioul domestique (en milliers de litres)",
+            "Consommation": "Consommation de fioul domestique (en milliers de litres)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de fioul domestique (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel du fioul domestique (en €/l)"
+        },
+        "Bois": {
+            "Quantités achetées": "Quantités achetées de bois (en milliers de tonnes)",
+            "Consommation": "Consommation de bois et sous-produit du bois (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de bois (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel du bois (en €/t)"
+        },
+        "Vapeur": {
+            "Quantités achetées": "Vapeur achetée (en milliers de tonnes)",
+            "Consommation": "Vapeur achetée (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de vapeur (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel de la vapeur (en €/t)"
+        },
+        "Electricité": {
+            "Quantités achetées": "Électricité achetée (en GWh)",
+            "Consommation": "Consommation d’électricité (en GWh)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats d'électricité (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel de l’électricité (en €/MWh)"
+        }
+    },
+    "2012_2016_multi_level": {
+        "Houille (en milliers de tonnes)": {
+            "Quantités achetées": "Combustibles minéraux solides achetés (en milliers de tonnes)",
+            "Consommation": "Consommation de combustibles minéraux solides (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de combustibles minéraux solides (en millions d'euros)",
+            "Prix moyen": "Prix moyen des combustibles minéraux solides (en €/t)"
+        },
+        "Lignite - charbon pauvre (en milliers de tonnes)": {
+            "Quantités achetées": "Combustibles minéraux solides achetés (en milliers de tonnes)",
+            "Consommation": "Consommation de combustibles minéraux solides (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de combustibles minéraux solides (en millions d'euros)",
+            "Prix moyen": "Prix moyen des combustibles minéraux solides (en €/t)"
+        },
+        "Coke de houille (en milliers de tonnes)": {
+            "Quantités achetées": "Combustibles minéraux solides achetés (en milliers de tonnes)",
+            "Consommation": "Consommation de combustibles minéraux solides (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de combustibles minéraux solides (en millions d'euros)",
+            "Prix moyen": "Prix moyen des combustibles minéraux solides (en €/t)"
+        },
+        "Gaz  de réseau (en GWh)": {
+            "Quantités achetées": "Quantités achetées de gaz (en GWh)",
+            "Consommation": "Consommation de gaz naturel et autres gaz (en GWh)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de gaz (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel du gaz de réseau (en €/MWh)"
+        },
+        "Coke de pétrole (en milliers de tonnes)": {
+            "Quantités achetées": "Quantités achetées de coke de pétrole (en milliers de tonnes)",
+            "Consommation": "Consommation de coke de pétrole (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de coke de pétrole (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel du coke de pétrole (en €/t)"
+        },
+        "Butane propane (en milliers de tonnes)": {
+            "Quantités achetées": "Quantités achetées de butane-propane (en milliers de tonnes)",
+            "Consommation": "Consommation de butane-propane (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de butane-propane (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel du butane-propane (en €/t)"
+        },
+        "Fioul lourd (en milliers de tonnes)": {
+            "Quantités achetées": "Quantités achetées de fioul lourd (en milliers de tonnes)",
+            "Consommation": "Consommation de fioul lourd (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de fioul lourd (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel du fioul lourd (en €/t)"
+        },
+        "Fioul domestique (gazole non routier) (en milliers de litres)": {
+            "Quantités achetées": "Quantités achetées de fioul domestique (en milliers de litres)",
+            "Consommation": "Consommation de fioul domestique (en milliers de litres)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de fioul domestique (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel du fioul domestique (en €/l)"
+        },
+        "Bois (en milliers de tonnes)": {
+            "Quantités achetées": "Quantités achetées de bois (en milliers de tonnes)",
+            "Consommation": "Consommation de bois et sous-produit du bois (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de bois (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel du bois (en €/t)"
+        },
+        "Vapeur (en milliers de tonnes)": {
+            "Quantités achetées": "Vapeur achetée (en milliers de tonnes)",
+            "Consommation": "Vapeur achetée (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de vapeur (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel de la vapeur (en €/t)"
+        },
+        "Electricité (en GWh)": {
+            "Quantités achetées": "Électricité achetée (en GWh)",
+            "Consommation": "Consommation d’électricité (en GWh)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats d'électricité (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel de l’électricité (en €/MWh)"
+        }
+    },
+    "2017_2019_multi_level": {
+        "Combustibles minéraux solides (houille, lignite - charbon pauvre, coke de houille)": {
+            "Quantités achetées": "Combustibles minéraux solides achetés (en milliers de tonnes)",
+            "Consommation": "Consommation de combustibles minéraux solides (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de combustibles minéraux solides (en millions d'euros)",
+            "Prix moyen": "Prix moyen des combustibles minéraux solides (en €/t)"
+        },
+        "Gaz de réseau": {
+            "Quantités achetées": "Quantités achetées de gaz (en GWh)",
+            "Consommation": "Consommation de gaz naturel et autres gaz (en GWh)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de gaz (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel du gaz de réseau (en €/MWh)"
+        },
+        "Coke de pétrole": {
+            "Quantités achetées": "Quantités achetées de coke de pétrole (en milliers de tonnes)",
+            "Consommation": "Consommation de coke de pétrole (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de coke de pétrole (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel du coke de pétrole (en €/t)"
+        },
+        "Butane propane": {
+            "Quantités achetées": "Quantités achetées de butane-propane (en milliers de tonnes)",
+            "Consommation": "Consommation de butane-propane (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de butane-propane (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel du butane-propane (en €/t)"
+        },
+        "Fioul lourd": {
+            "Quantités achetées": "Quantités achetées de fioul lourd (en milliers de tonnes)",
+            "Consommation": "Consommation de fioul lourd (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de fioul lourd (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel du fioul lourd (en €/t)"
+        },
+        "Fioul domestique": {
+            "Quantités achetées": "Quantités achetées de fioul domestique (en milliers de litres)",
+            "Consommation": "Consommation de fioul domestique (en milliers de litres)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de fioul domestique (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel du fioul domestique (en €/l)"
+        },
+        "Bois": {
+            "Quantités achetées": "Quantités achetées de bois (en milliers de tonnes)",
+            "Consommation": "Consommation de bois et sous-produit du bois (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de bois (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel du bois (en €/t)"
+        },
+        "Vapeur": {
+            "Quantités achetées": "Vapeur achetée (en milliers de tonnes)",
+            "Consommation": "Vapeur achetée (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats de vapeur (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel de la vapeur (en €/t)"
+        },
+        "Electricité": {
+            "Quantités achetées": "Électricité achetée (en GWh)",
+            "Consommation": "Consommation d’électricité (en GWh)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats d'électricité (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel de l’électricité (en €/MWh)"
+        },
+        "Hydrogene": {
+            "Quantités achetées": "Quantités achetées d’hydrogène (en milliers de tonnes)",
+            "Consommation": "Consommation d’hydrogène (en milliers de tonnes)",
+            "Valeur des achats (en millions d'euros)": "Valeur des achats d’hydrogène (en millions d'euros)",
+            "Prix moyen": "Prix moyen annuel d’hydrogène (en €/t)"
+        }
+    },
+    "2020_single_level": {
+        "Quantités achetées de\ncombustibles minéraux solides": "Combustibles minéraux solides achetés (en milliers de tonnes)",
+        "Quantités consommées de\ncombustibles minéraux solides": "Consommation de combustibles minéraux solides (en milliers de tonnes)",
+        "Valeur des achats de\ncombustibles minéraux solides": "Valeur des achats de combustibles minéraux solides (en millions d'euros)",
+        "Prix moyen des combustibles\nminéraux solides": "Prix moyen des combustibles minéraux solides (en €/t)",
+        "Quantités achetées de gaz": "Quantités achetées de gaz (en GWh)",
+        "Quantités consommées de gaz": "Consommation de gaz naturel et autres gaz (en GWh)",
+        "Valeur des achats de gaz": "Valeur des achats de gaz (en millions d'euros)",
+        "Prix moyen du gaz": "Prix moyen annuel du gaz de réseau (en €/MWh)",
+        "Quantités achetées de coke de\npétrole": "Quantités achetées de coke de pétrole (en milliers de tonnes)",
+        "Quantités consommées de coke\nde pétrole": "Consommation de coke de pétrole (en milliers de tonnes)",
+        "Valeur des achats de coke de\npétrole": "Valeur des achats de coke de pétrole (en millions d'euros)",
+        "Prix moyen de coke de pétrole": "Prix moyen annuel du coke de pétrole (en €/t)",
+        "Quantités achetées de\nbutane-propane": "Quantités achetées de butane-propane (en milliers de tonnes)",
+        "Quantités consommées de\nbutane-propane": "Consommation de butane-propane (en milliers de tonnes)",
+        "Valeur des achats de\nbutane-propane": "Valeur des achats de butane-propane (en millions d'euros)",
+        "Prix moyen de butane-propane": "Prix moyen annuel du butane-propane (en €/t)",
+        "Quantités achetées de fioul\nlourd": "Quantités achetées de fioul lourd (en milliers de tonnes)",
+        "Quantités consommées de fioul\nlourd": "Consommation de fioul lourd (en milliers de tonnes)",
+        "Valeur des achats de fioul\nlourd": "Valeur des achats de fioul lourd (en millions d'euros)",
+        "Prix moyen de fioul lourd": "Prix moyen annuel du fioul lourd (en €/t)",
+        "Quantités achetées de fioul\ndomestique": "Quantités achetées de fioul domestique (en milliers de litres)",
+        "Quantités consommées de fioul\ndomestique": "Consommation de fioul domestique (en milliers de litres)",
+        "Valeur des achats de fioul\ndomestique": "Valeur des achats de fioul domestique (en millions d'euros)",
+        "Prix moyen de fioul domestique": "Prix moyen annuel du fioul domestique (en €/l)",
+        "Quantités achetées de bois": "Quantités achetées de bois (en milliers de tonnes)",
+        "Quantités consommées de bois": "Consommation de bois et sous-produit du bois (en milliers de tonnes)",
+        "Valeur des achats de bois": "Valeur des achats de bois (en millions d'euros)",
+        "Prix moyen du bois": "Prix moyen annuel du bois (en €/t)",
+        "Quantités achetées de vapeur": "Vapeur achetée (en milliers de tonnes)",
+        "Quantités consommées de vapeur": "Vapeur achetée (en milliers de tonnes)",
+        "Valeur des achats de vapeur": "Valeur des achats de vapeur (en millions d'euros)",
+        "Prix moyen de vapeur": "Prix moyen annuel de la vapeur (en €/t)",
+        "Quantités consommées\nd’hydrogènes": "Consommation d’hydrogène (en milliers de tonnes)",
+        "Quantités autoproduites\nd’hydrogène": "Quantité d’hydrogène autoproduite (en milliers de tonnes)",
+        "Prix moyen d’hydrogène": "Prix moyen annuel d’hydrogène (en €/t)",
+        "Quantités achetées\nd'électricité": "Électricité achetée (en GWh)",
+        "Quantités consommées\nd'électricité": "Consommation d’électricité (en GWh)",
+        "Quantités autoproduites\nd’électricité": "Électricité autoproduite (en GWh)",
+        "Valeur des achats\nd'électricité": "Valeur des achats d'électricité (en millions d'euros)",
+        "Prix moyen d’électricité": "Prix moyen annuel de l’électricité (en €/MWh)"
+    },
+    "2021_single_level": {
+        "Valeur des achats de\nl’ensemble des énergies (en\nmillions d'euros)": "Facture énergétique (en millions d'euros courants)",
+        "Quantités achetées de\ncombustibles minéraux solides": "Combustibles minéraux solides achetés (en milliers de tonnes)",
+        "Quantités consommées de\ncombustibles minéraux solides": "Consommation de combustibles minéraux solides (en milliers de tonnes)",
+        "Valeur des achats de\ncombustibles minéraux solides": "Valeur des achats de combustibles minéraux solides (en millions d'euros)",
+        "Prix moyen des combustibles\nminéraux solides": "Prix moyen des combustibles minéraux solides (en €/t)",
+        "Quantités achetées de gaz": "Quantités achetées de gaz (en GWh)",
+        "Quantités consommées de gaz": "Consommation de gaz naturel et autres gaz (en GWh)",
+        "Valeur des achats de gaz": "Valeur des achats de gaz (en millions d'euros)",
+        "Prix moyen du gaz": "Prix moyen annuel du gaz de réseau (en €/MWh)",
+        "Quantités achetées de biogaz\net biométhane": "Quantités achetées de biogaz et biométhane (en GWh)",
+        "Quantités consommées de biogaz\net biométhane": "Consommation de biogaz et biométhane (en GWh)",
+        "Valeur des achats de biogaz et\nbiométhane": "Valeur des achats de biogaz et biométhane (en millions d'euros)",
+        "Prix moyen du biogaz et\nbiométhane": "Prix moyen annuel du biogaz et biométhane (en €/t)",
+        "Quantités achetées de coke de\npétrole": "Quantités achetées de coke de pétrole (en milliers de tonnes)",
+        "Quantités consommées de coke\nde pétrole": "Consommation de coke de pétrole (en milliers de tonnes)",
+        "Valeur des achats de coke de\npétrole": "Valeur des achats de coke de pétrole (en millions d'euros)",
+        "Prix moyen de coke de pétrole": "Prix moyen annuel du coke de pétrole (en €/t)",
+        "Quantités achetées de\nbutane-propane": "Quantités achetées de butane-propane (en milliers de tonnes)",
+        "Quantités consommées de\nbutane-propane": "Consommation de butane-propane (en milliers de tonnes)",
+        "Valeur des achats de\nbutane-propane": "Valeur des achats de butane-propane (en millions d'euros)",
+        "Prix moyen de butane-propane": "Prix moyen annuel du butane-propane (en €/t)",
+        "Quantités achetées de fioul\nlourd": "Quantités achetées de fioul lourd (en milliers de tonnes)",
+        "Quantités consommées de fioul\nlourd": "Consommation de fioul lourd (en milliers de tonnes)",
+        "Valeur des achats de fioul\nlourd": "Valeur des achats de fioul lourd (en millions d'euros)",
+        "Prix moyen de fioul lourd": "Prix moyen annuel du fioul lourd (en €/t)",
+        "Quantités achetées de fioul\ndomestique": "Quantités achetées de fioul domestique (en milliers de litres)",
+        "Quantités consommées de fioul\ndomestique": "Consommation de fioul domestique (en milliers de litres)",
+        "Valeur des achats de fioul\ndomestique": "Valeur des achats de fioul domestique (en millions d'euros)",
+        "Prix moyen de fioul domestique": "Prix moyen annuel du fioul domestique (en €/l)",
+        "Quantités achetées de gazole\nnon routier": "Quantités achetées de gazole non routier (en milliers de litres)",
+        "Quantités consommées de gazole\nnon routier": "Consommation de gazole non routier (en milliers de litres)",
+        "Valeur des achats de gazole\nnon routier": "Valeur des achats de gazole non routier (en millions d'euros)",
+        "Prix moyen de gazole non\nroutier": "Prix moyen annuel du gazole non routier (en €/l)",
+        "Quantités achetées de bois": "Quantités achetées de bois (en milliers de tonnes)",
+        "Quantités consommées de bois": "Consommation de bois et sous-produit du bois (en milliers de tonnes)",
+        "Valeur des achats de bois": "Valeur des achats de bois (en millions d'euros)",
+        "Prix moyen du bois": "Prix moyen annuel du bois (en €/t)",
+        "Quantités achetées de vapeur": "Vapeur achetée (en milliers de tonnes)",
+        "Quantités consommées de vapeur": "Vapeur achetée (en milliers de tonnes)",
+        "Valeur des achats de vapeur": "Valeur des achats de vapeur (en millions d'euros)",
+        "Prix moyen de vapeur": "Prix moyen annuel de la vapeur (en €/t)",
+        "Quantités achetées d’hydrogène": "Quantités achetées d’hydrogène (en milliers de tonnes)",
+        "Quantités consommées\nd’hydrogène": "Consommation d’hydrogène (en milliers de tonnes)",
+        "Quantités autoproduites\nd’hydrogène": "Quantité d’hydrogène autoproduite (en milliers de tonnes)",
+        "Valeur des achats d’hydrogène": "Valeur des achats d’hydrogène (en millions d'euros)",
+        "Prix moyen d’hydrogène": "Prix moyen annuel d’hydrogène (en €/t)",
+        "Autoproduction consommée": "Quantité d’hydrogène autoproduite et consommée (en milliers de tonnes)",
+        "Autoproduction vendue\nd’hydrogène": "Quantité d’hydrogène autoproduite et vendue (en milliers de tonnes)",
+        "Quantités achetées\nd'électricité": "Électricité achetée (en GWh)",
+        "Quantités consommées\nd'électricité": "Consommation d’électricité (en GWh)",
+        "Quantités autoproduites\nd’électricité": "Électricité autoproduite (en GWh)",
+        "Valeur des achats\nd'électricité": "Valeur des achats d'électricité (en millions d'euros)",
+        "Prix moyen d’électricité": "Prix moyen annuel de l’électricité (en €/MWh)"
+    },
+    "2022_single_level": {
+        "Facture énergétique (en millions d'euros courants)": "Facture énergétique (en millions d'euros courants)",
+        "Quantités achetées de combustibles minéraux solides": "Combustibles minéraux solides achetés (en milliers de tonnes)",
+        "Quantités consommées de combustibles minéraux solides": "Consommation de combustibles minéraux solides (en milliers de tonnes)",
+        "Valeur des achats de combustibles minéraux solides": "Valeur des achats de combustibles minéraux solides (en millions d'euros)",
+        "Prix moyen des combustibles minéraux solides": "Prix moyen des combustibles minéraux solides (en €/t)",
+        "Quantités achetées de gaz": "Quantités achetées de gaz (en GWh)",
+        "Quantités de gaz consommées": "Consommation de gaz naturel et autres gaz (en GWh)",
+        "Valeur des achats de gaz": "Valeur des achats de gaz (en millions d'euros)",
+        "Prix moyen annuel du gaz de réseau (en € / Mwh)": "Prix moyen annuel du gaz de réseau (en €/MWh)",
+        "Quantités achetées de biogaz et biométhane": "Quantités achetées de biogaz et biométhane (en GWh)",
+        "Quantités consommées de biogaz et biométhane": "Consommation de biogaz et biométhane (en GWh)",
+        "Valeur des achats de biogaz et biométhane": "Valeur des achats de biogaz et biométhane (en millions d'euros)",
+        "Prix moyen annuel du Biogaz et biométhane (en € /t)": "Prix moyen annuel du biogaz et biométhane (en €/t)",
+        "Quantités achetées de coke de pétrole": "Quantités achetées de coke de pétrole (en milliers de tonnes)",
+        "Quantités consommées de coke de pétrole": "Consommation de coke de pétrole (en milliers de tonnes)",
+        "Valeur des achats de coke de pétrole": "Valeur des achats de coke de pétrole (en millions d'euros)",
+        "Prix moyen annuel du coke de pétrole (en € / t)": "Prix moyen annuel du coke de pétrole (en €/t)",
+        "Quantités achetées de butane-propane": "Quantités achetées de butane-propane (en milliers de tonnes)",
+        "Quantités consommées de butane-propane": "Consommation de butane-propane (en milliers de tonnes)",
+        "Valeur des achats de butane-propane": "Valeur des achats de butane-propane (en millions d'euros)",
+        "Prix moyen annuel du butane-propane (en € / t)": "Prix moyen annuel du butane-propane (en €/t)",
+        "Quantités achetées de fioul lourd": "Quantités achetées de fioul lourd (en milliers de tonnes)",
+        "Quantités consommées de fioul lourd": "Consommation de fioul lourd (en milliers de tonnes)",
+        "Valeur des achats de fioul lourd": "Valeur des achats de fioul lourd (en millions d'euros)",
+        "Prix moyen annuel du fioul lourd (en € / t)": "Prix moyen annuel du fioul lourd (en €/t)",
+        "Quantités achetées de fioul domestique": "Quantités achetées de fioul domestique (en milliers de litres)",
+        "Quantités consommées de fioul domestique": "Consommation de fioul domestique (en milliers de litres)",
+        "Valeur des achats de fioul domestique": "Valeur des achats de fioul domestique (en millions d'euros)",
+        "Prix moyen annuel du fioul domestique (en € / l)": "Prix moyen annuel du fioul domestique (en €/l)",
+        "Quantités achetées de gazole non routier": "Quantités achetées de gazole non routier (en milliers de litres)",
+        "Quantités consommées de gazole non routier": "Consommation de gazole non routier (en milliers de litres)",
+        "Valeur des achats de gazole non routier": "Valeur des achats de gazole non routier (en millions d'euros)",
+        "Prix moyen annuel du gazole non routier (en € / l)": "Prix moyen annuel du gazole non routier (en €/l)",
+        "Quantités achetées de bois": "Quantités achetées de bois (en milliers de tonnes)",
+        "Quantités consommées de bois": "Consommation de bois et sous-produit du bois (en milliers de tonnes)",
+        "Valeur des achats de bois": "Valeur des achats de bois (en millions d'euros)",
+        "Prix moyen annuel du bois (en € / t)": "Prix moyen annuel du bois (en €/t)",
+        "Quantités achetées de vapeur": "Vapeur achetée (en milliers de tonnes)",
+        "Valeur des achats de vapeur": "Valeur des achats de vapeur (en millions d'euros)",
+        "Prix moyen annuel de la vapeur (en € / t)": "Prix moyen annuel de la vapeur (en €/t)",
+        "Quantités achetées d’hydrogène": "Quantités achetées d’hydrogène (en milliers de tonnes)",
+        "Quantités consommées d’hydrogène": "Consommation d’hydrogène (en milliers de tonnes)",
+        "Quantités auto produites d’hydrogène": "Quantité d’hydrogène autoproduite (en milliers de tonnes)",
+        "Valeur des achats d’hydrogène": "Valeur des achats d’hydrogène (en millions d'euros)",
+        "Prix moyen annuel d’hydrogène (en €/t)": "Prix moyen annuel d’hydrogène (en €/t)",
+        "Autoproduction consommée": "Quantité d’hydrogène autoproduite et consommée (en milliers de tonnes)",
+        "Autoproduction vendue d’hydrogène": "Quantité d’hydrogène autoproduite et vendue (en milliers de tonnes)",
+        "Achats d’électricité": "Électricité achetée (en GWh)",
+        "Quantités consommées d’électricité": "Consommation d’électricité (en GWh)",
+        "Autoproduction électricité": "Électricité autoproduite (en GWh)",
+        "Valeur des achats d'électricité": "Valeur des achats d'électricité (en millions d'euros)",
+        "Prix moyen annuel de l’électricité (en € / Mwh)": "Prix moyen annuel de l’électricité (en €/MWh)"
+    }
+  }
+}

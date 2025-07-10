@@ -1,0 +1,28 @@
+SL_T1 : Chiffres clés relatifs à la consommation d'énergie dans l'industrie (y compris IAA),Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Année,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2005,2006,2007,2008,2009,2010,2011,2012.0,2013 (ancienne série estimée),2013 (nouvelle série),2014.0,2015.0,2016.0,2017,2018
+Indicateur,,,,,,,,,,,,,,,,,,,,,,,,,
+Consommation brute (en millions de TEP),32.9,33.4,34.6,34.5,34.4,33.7,33.1,32.7,33.3,32.9,43.3,42.6,42.1,42.1,36,37.2,36,35.3,35.4,37,37.1,37.4,38.1,37.4,37.4
+Consommation nette (en millions de TEP),nd,nd,nd,nd,nd,nd,nd,nd,nd,nd,41,40.5,40.1,40.3,34.2,35.4,34.5,33.8,34,35.6,35.9,36.2,37.1,36.4,36.3
+Facture énergétique (en millions d'euros courants),7603,7894,7770,7569,8477,8762,8327,8462,9031,10356,12092,13550.6,13680.2,15398.5,12580.3,13767.6,14767.3,15256.2,15052,15894.3,15174.8,14304.4,13116.0,13280,14535
+Electricité consommée hors utilisation en tant que matière première (en %),36.6,37.8,37.7,38.3,39.3,38.6,38.1,39.4,38.9,39.6,32.2,32.1,33,32.1,32.9,32.4,32.4,32.2,so,32.2,32.3,32.6,32.5,32.9,33.3
+"Combustibles minéraux solides (houille, lignite, coke de houille) consommés hors utilisation en tant que matière première (en %)",5.5,5.1,4.9,4.4,5.6,4.1,7.1,5.1,4.2,4.9,4.5,4.9,5,4.7,4.4,4.9,6.4,6.3,so,6,5.6,7.5,6.9,5.8,5.8
+Gaz de réseau consommé hors utilisation en tant que matière première (en %),37.6,38.4,38.6,39,37.8,38,36.4,37.7,37.3,37,32.6,32.2,32.3,31.2,32,32.9,32.5,33.8,so,34.6,33.7,32.2,32.1,32.1,32.7
+"Produits pétroliers (coke de pétrole, butane-propane, fioul lourd et fioul domestique) consommés hors utilisation en tant que matière première (en %)",18.1,16.8,16.7,15.5,13.8,14.3,12.6,11.9,13.4,11.5,9.7,9.5,8.7,8,8,7.4,7.5,6.8,so,6.2,5.6,5.2,5.1,4.4,4
+Vapeur consommée hors utilisation en tant que matière première (en %),2.2,1.9,2.1,2.8,3.5,5,5.8,5.9,6.2,7,5.8,4.9,5.2,5.6,5.9,5.7,5,5.3,so,5.7,5.4,5.8,5.7,6.2,6.2
+Énergies non marchandes consommées hors utilisation en tant que matière première (en %),nd,nd,nd,nd,nd,nd,nd,nd,nd,nd,15.2,16.4,15.8,18.4,16.8,16.7,16.2,15.6,so,15.3,17.4,16.7,17.7,18.6,18
+Total (en %),100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100.0,so,100,100.0,100.0,100.0,100,100
+Prix moyen annuel de l'électricité (en € / Mwh),46.2,45.1,43.2,42.3,39.8,38.9,39.1,39.2,41.6,44.7,45.4,51,50.5,53.4,56.4,57.4,61.2,62.5,so,65.2,66.3,65.6,60.0,58,60
+Prix moyen annuel de la vapeur (en € / t),10.3,10.5,9.7,9.7,13.1,13,12.5,13,13,18.1,18,21.9,21.8,28.2,23.4,23.3,26.5,29.0,so,28.5,27.0,24.3,22.0,22,25
+Prix moyen annuel du gaz de réseau (en € / Mwh),11.2,11.9,11.4,11,15,17.4,15.6,16.8,16.4,20.4,20.6,25.7,26.8,31.9,28.4,27,28.6,30.9,so,32.4,30.0,28.5,25.0,24,26
+Prix moyen annuel de la houille (en € / t),52.1,56.6,54.2,45.7,52.3,63.7,66.7,58.8,65.1,90.4,90.2,90.7,87.5,96,95.4,142.9,180,171.4,so,129.6,114.9,111.2,111.0,164,158
+"Prix moyen annuel de la lignite, du charbon pauvre (en € / t)",nd,nd,nd,nd,nd,nd,nd,nd,nd,97.3,88.6,81.3,79.3,117.6,98.3,110.6,154,118.2,so,122,109.9,104.9,108.0,so,so
+Prix moyen annuel du coke de houille (en € / t),118.9,112.6,111.7,98.4,109.2,134.1,128.8,127.1,238.3,226.8,227.3,190.3,203.7,242,205.6,283.9,358.7,322.2,so,268,228.4,233.4,199.0,so,so
+Prix moyen annuel du coke de pétrole (en € / t),81.1,84.3,76.4,76.2,136.3,112.5,113.1,112.8,98.3,88.2,88.2,98.6,109.1,148.6,130.7,149.8,188.8,165.2,so,142.8,130.4,143.0,115.0,132,192
+Prix moyen annuel du butane-propane (en € / t),193.8,209.2,174.5,212.1,329.4,300.9,277.7,285.6,315,396.5,403,445.8,475.3,561.9,403.8,514.7,672.4,730.4,so,655,590.7,391.1,362.0,426,509
+Prix moyen annuel du fioul lourd (en € / t),115.9,114.8,95.5,115.8,182,163.7,174.4,185.8,173.4,228.3,237.7,284.4,294.6,385.9,302.6,380.2,483.5,566.1,so,507.6,479.8,342.5,297.0,423,455
+Prix moyen annuel du fioul domestique (en € / l),0.2,0.3,0.2,0.2,0.3,0.3,0.3,0.3,0.3,0.4,0.4,0.5,0.5,0.6,0.5,0.7,0.7,0.8,so,0.8,0.7,0.6,0.5,0.6,0.7
+Prix moyen annuel du bois (en € / t),nd,nd,nd,nd,nd,nd,nd,nd,nd,nd,nd,nd,nd,nd,nd,nd,nd,36.7,so,39.6,43.0,48.1,42.0,41,42
+"Remarque : la base de sondage a été élargie en 2013 entraînant une rupture de série (la nouvelle base de sondage comprend plus d’unités ce qui a un impact à la hausse sur les résultats). Les données « 2013 (ancienne série) » ont été estimées pour comparer aux années antérieures. Les données 2014 sont, quant à elles, comparables à celles de « 2013 nouvelle série ».",,,,,,,,,,,,,,,,,,,,,,,,,
+"Champ : après la rupture de série (2005) : France, industrie y compris industrie agroalimentaire (hors artisanat commercial), hors industrie de l'énergie, établissements de 20 salariés ou plus ; avant la rupture de série (2005) : France métropolitaine, industrie hors industrie agroalimentaire, hors industrie de l'énergie, établissements de 20 salariés ou plus.",,,,,,,,,,,,,,,,,,,,,,,,,
+"Source : Insee, Enquêtes annuelles sur les consommations d'énergie dans l'industrie.",,,,,,,,,,,,,,,,,,,,,,,,,

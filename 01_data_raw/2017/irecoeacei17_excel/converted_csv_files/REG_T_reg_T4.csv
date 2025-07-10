@@ -1,0 +1,20 @@
+"REG_T4 : Autoproduction, achats et consommation d'électricité par usage en GWh selon la région",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11
+,,,,,,,,,,,
+Indicateurs,Autoproduction d'origine thermique,Autoproduction d'origine non thermique,Autoproduction vendue,Autoproduction consommée (1),Achats (2),Consommation (1 + 2),Usage force motrice,Usages thermiques (y compris production de froid),Usage électrolyse,Usage chauffage des locaux et autres,"Usages thermodynamiques hors chauffage des locaux (Prod. froid, PAC, CMV)"
+Région,,,,,,,,,,,
+Toutes régions,4669,582,1903,3349,109718,113067,68341,10308,12936,8239,13239
+Île-de-France,s,s,s,s,s,4996,2523,883,42,746,802
+Centre-Val de Loire,165,3,103,65,3732,3798,2459,490,22,364,462
+Bourgogne-Franche-Comté,s,0,s,3,5857,5860,3421,s,s,361,510
+Normandie,407,0,191,216,8340,8556,6424,542,69,551,970
+Hauts-de-France,s,s,302,1187,21738,22925,12614,1773,5226,1359,1952
+Grand Est,921,8,257,672,17755,18427,12914,1986,206,1622,1698
+Pays de la Loire,s,s,36,68,5742,5810,3855,558,51,470,876
+Bretagne,s,s,s,s,s,4277,2514,411,39,314,999
+Nouvelle-Aquitaine,s,s,138,316,7012,7328,5018,s,s,498,888
+Occitanie,s,s,s,s,s,3994,2439,405,160,413,576
+Auvergne-Rhône-Alpes,190,362,440,112,18607,18719,8480,1852,4595,1188,2604
+Provence-Alpes-Côte d'Azur et Corse,s,s,90,410,7458,7868,5361,243,1180,327,757
+Dom,11,0,0,11,497,508,318,18,0,24,143
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération.",,,,,,,,,,,
+"Source : Insee, Enquête annuelle sur les consommations d'énergie dans l'industrie 2017.",,,,,,,,,,,

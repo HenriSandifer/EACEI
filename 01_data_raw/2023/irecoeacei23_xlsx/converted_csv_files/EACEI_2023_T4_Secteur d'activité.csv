@@ -1,0 +1,35 @@
+"NAF_T4 : Autoproduction, achats et consommation d'électricité par usage en GWh selon le secteur d'activité en NAF rév.2",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,Électricité produite d’origine thermique,Production d’électricité d’origine non thermique,Électricité autoproduite,Électricité produite et vendue,Quantité d’électricité produite et consommée,Électricité achetée,Consommation d’électricité,Électricité : usage force motrice,"Électricité : usages thermiques, y compris production de froid ",Électricité : usage électrolyse,Électricité : usage chauffage des locaux et autres,Électricité : usages thermodynamiques hors chauffage des locaux,Électricité : usage éclairage,Électricité : usage mobilité sur site
+,,,,,,,,,,,,,,,
+B07T09,"Industries extractives (à l’exception de l’extraction de houille, de lignite et d’hydrocarbures)",15.4,0.3,15.7,0,15.7,615.3,631,562.7,1.2,0,50.5,0.9,10.9,4.8
+C10T12,"Fabrication de denrées alimentaires, de boissons et de produits à base de tabac",1575.6,62.4,1637.9,s,s,s,19614.6,11265.4,1392.5,19.7,877.3,5301,668.5,90.2
+13,Fabrication de textiles,9.3,0.9,10.2,s,s,886,s,594.1,114.7,0.2,s,97.3,43.8,2.8
+14,Industrie de l'habillement,0.2,3.3,3.6,1.3,2.2,78.1,80.3,53.1,1.9,s,12.6,5.7,6.8,s
+15,Industrie du cuir et de la chaussure,s,s,6.2,s,s,99.6,s,37.3,5.8,0.8,s,12.7,17.1,0.9
+16,"Travail du bois et fabrication d'articles en bois et en liège, à l’exception des meubles ; fabrication d’articles en vannerie et sparterie",380.9,7.5,388.4,167.9,220.5,2347.2,2567.7,2019.6,126,0.4,173,80.5,153.6,14.5
+17,Industrie du papier et du carton,1306.1,6.1,1312.2,903.5,408.7,6082.1,6490.9,5909.7,103.2,2.8,178.2,178,109.1,9.8
+18,Imprimerie et reproduction d'enregistrements,s,s,3.9,1,2.9,678.1,681,416.2,25.4,7.6,105.1,73.8,48.7,4.1
+20,Industrie chimique,1123.5,26.5,1150,417.4,732.7,14995.5,15728.2,8876.3,584.9,2735.8,381.2,2926.3,203.5,20.1
+21,Industrie pharmaceutique,3.9,10.8,14.7,0.1,14.6,2439.5,2454.1,1131.2,119.4,0.8,334.6,752.7,108.5,6.9
+22,Fabrication de produits en caoutchouc et en plastique,22.7,28.7,51.4,10.2,41.1,5082.1,5123.2,3002.6,643.9,11.6,389.2,778,254,43.9
+23,Fabrication d'autres produits minéraux non métalliques,58,14.2,72.2,s,s,s,7443.5,4839.9,1467.1,113,378.3,481,148.1,16.2
+24,Métallurgie,142.6,113.1,255.7,16.8,234.9,17940,18174.9,6300.6,3900.3,6716.3,448.9,578.2,195.2,35.3
+25,"Fabrication de produits métalliques, à l'exception des machines et des équipements",4.5,12.5,16.9,7.3,8.3,4337.2,4345.5,2404.6,617.7,156.7,431.2,377.7,312.9,44.6
+26,"Fabrication de produits informatiques, électroniques et optiques",13.1,0.5,13.7,0,13.7,2626.3,2640,1342.7,92.2,16.3,374.8,701.4,93.1,19.5
+27,Fabrication d'équipements électriques,0.8,9.4,10.2,1.5,8.7,1457.1,1465.7,592.8,332.9,43.8,197,185.6,93.3,20.4
+28,Fabrication de machines et équipements n.c.a.,11.4,10.3,21.7,s,s,s,1658.4,877.2,232.1,4.7,244.6,132.9,143.2,23.6
+29,Industrie automobile,12.3,1.1,13.4,s,s,s,3651.4,2404.4,372.8,81.9,281.2,265.4,223.4,22.3
+30,Fabrication d'autres matériels de transport,50.5,5.4,55.9,1.3,54.7,1851.1,1905.7,831.6,223.5,8.4,341.1,332.2,157,11.8
+31,Fabrication de meubles,0,7.7,7.7,1.5,6.2,337.1,343.4,219.9,13,s,28.2,28.5,39.3,s
+32,Autres industries manufacturières,0.1,0,0.1,0,0.1,560.1,560.2,225.9,98.5,1.2,74.7,121.1,34.1,4.7
+33,Réparation et installation de machines et d'équipements,5.1,3.2,8.3,s,s,s,508.8,174.6,51.7,8.9,149.6,52.9,65,6.2
+38,"Collecte, traitement et élimination des déchets ; récupération",202.6,37.8,240.4,174.2,66.2,693.1,759.3,533.2,81,s,65.4,33.4,41.7,s
+_T,Total,4945.8,364.8,5310.6,1936.9,3368,94460.6,97828.7,54615.7,10601.8,9935.8,5590.2,13497.1,3170.8,417.2
+,,,,,,,,,,,,,,,
+Notes : ,,,,,,,,,,,,,,,
+"La consommation d'énergie peut différer de la quantité achetée dans le cas d'énergies stockables (fioul par exemple), ou dans le cas de l'électricité (autoproduction consommée) et du bois (une partie non achetée).",,,,,,,,,,,,,,,
+s : secret statistique,,,,,,,,,,,,,,,
+"Champ : France, établissements de 20 salariés ou plus appartenant à l'industrie, hors industrie de l'énergie et hors artisanat commercial, y compris récupération.",,,,,,,,,,,,,,,
+Source : Enquête sur les consommations d'énergie dans l'industrie 2023,,,,,,,,,,,,,,,
