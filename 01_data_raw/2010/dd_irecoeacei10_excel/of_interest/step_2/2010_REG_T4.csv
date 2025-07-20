@@ -1,0 +1,23 @@
+﻿ID,REG,Production d'origine thermique,Production d'origine hydraulique,Ventes,Autoconsommation (1),Achats (2),Consommation (1 + 2)
+FRA,France,4127,666,1859,2935,89720,92654
+IDF,Ile-de-France,s,s,29,54,4965,5019
+HDF,Hauts-de-France,s,s,s,s,s,3153
+NOR,Normandie,s,s,143,359,5387,5746
+CVL,Centre-Val de Loire,s,s,120,21,3228,3249
+NOR,Normandie,s,s,s,s,s,1192
+BFC,Bourgogne-Franche-Comté,1,s,s,1,2098,2100
+HDF,Hauts-de-France,133,s,s,130,14647,14777
+GRE,Grand Est,462,109,332,239,8048,8287
+GRE,Grand Est,142,s,s,113,4610,4724
+BFC,Bourgogne-Franche-Comté,s,s,s,s,s,3122
+PAL,Pays de la Loire,71,0,60,11,3662,3673
+BRE,Bretagne,4,0,0,4,1678,1682
+NOA,Nouvelle-Aquitaine,s,s,s,s,s,1659
+NOA,Nouvelle-Aquitaine,s,s,31,447,3892,4339
+OCC,Occitanie,300,70,90,280,1918,2198
+NOA,Nouvelle-Aquitaine,36,s,s,s,s,735
+ARA,Auvergne-Rhône-Alpes,s,s,564,194,13310,13504
+ARA,Auvergne-Rhône-Alpes,103,s,s,s,s,2013
+OCC,Occitanie,s,s,s,s,s,1533
+PAC,Provence-Alpes-Côte d'Azur,846,s,s,726,6370,7096
+DOM,Départements d’Outre-mer,,,,,,

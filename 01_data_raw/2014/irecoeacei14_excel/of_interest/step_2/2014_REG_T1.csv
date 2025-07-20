@@ -1,0 +1,23 @@
+﻿ID,REG,Nombre d'établissements,Houille,Lignite - charbon pauvre,Coke de houille,Gaz de réseau,Coke de pétrole,Butane propane,Fioul lourd,Fioul domestique,Total combustibles usuels,Autres produits pétroliers,Liqueurs noires,Bois et sous-produit du bois,Combustibles spéciaux renouvelables,Combustibles spéciaux non renouvelables,Total autres combustibles,Total combustibles,Achats de vapeur,Electricité,Total brut,Vapeur vendue,Consommation pour production d'électricité,Total net
+FRA,France,20876,5157,s,452,10719,740,2632,s,252,20629,1261,s,855,s,495,3663,24292,1584,9521,35397,483,711,34202
+IDF,Ile-de-France,1708,27,0,1,627,15,7,1,10,688,0,0,s,s,138,142,830,3,454,1287,ns,ns,1279
+HDF,Hauts-de-France,699,18,s,s,661,s,29,48,8,777,6,0,2,1,1,9,786,111,389,1286,ns,ns,1192
+NOR,Normandie,737,s,0,s,s,s,s,48,7,2114,509,0,s,s,31,681,2795,213,562,3570,ns,ns,3456
+CVL,Centre-Val de Loire,1129,21,0,2,359,50,8,6,9,455,0,0,32,6,2,40,495,1,314,810,ns,ns,794
+NOR,Normandie,600,0,0,s,209,s,s,8,9,268,s,0,17,s,s,24,292,4,184,479,ns,ns,466
+BFC,Bourgogne-Franche-Comté,660,s,0,0,269,0,s,s,7,286,0,0,32,0,0,32,318,7,238,563,ns,ns,558
+HDF,Hauts-de-France,1316,s,s,183,s,115,s,11,20,4064,s,0,s,4,s,344,4408,82,1443,5934,ns,ns,5844
+GRE,Grand Est,837,s,48,176,745,s,5,2,14,1816,s,0,s,18,s,358,2174,53,714,2941,ns,ns,2902
+GRE,Grand Est,748,0,0,2,1078,19,9,5,11,1125,s,0,s,6,s,190,1315,49,440,1803,ns,ns,1716
+BFC,Bourgogne-Franche-Comté,672,104,0,s,203,s,17,5,7,348,s,0,18,s,s,31,379,s,288,675,ns,ns,675
+PAL,Pays de la Loire,1798,s,s,s,462,57,26,s,18,591,s,0,s,19,s,89,680,82,512,1274,ns,ns,1253
+BRE,Bretagne,1111,s,0,0,403,0,s,24,15,478,s,s,s,s,0,41,519,36,363,918,ns,ns,910
+NOA,Nouvelle-Aquitaine,658,45,0,0,170,56,15,26,15,327,6,0,30,21,30,87,413,9,179,601,ns,ns,582
+NOA,Nouvelle-Aquitaine,994,s,0,0,282,s,s,92,9,434,0,318,153,s,s,510,945,313,417,1675,ns,ns,1534
+OCC,Occitanie,899,s,0,s,189,s,s,14,9,260,0,s,s,s,s,200,460,25,248,733,ns,ns,717
+NOA,Nouvelle-Aquitaine,393,0,0,s,100,0,s,s,2,119,0,189,s,s,0,201,319,11,92,423,ns,ns,422
+ARA,Auvergne-Rhône-Alpes,3206,115,0,7,1012,109,36,45,27,1350,15,0,52,29,47,144,1494,232,1225,2951,ns,ns,2925
+ARA,Auvergne-Rhône-Alpes,538,s,0,22,241,s,9,6,6,293,0,0,14,s,s,31,324,16,216,556,ns,ns,547
+OCC,Occitanie,444,67,0,0,144,24,4,3,8,250,s,0,21,s,38,73,323,s,155,487,ns,ns,477
+PAC,Provence-Alpes-Côte d'Azur,825,s,0,0,s,108,1289,143,17,3912,137,s,s,11,s,337,4249,208,757,5213,ns,ns,4787
+DOM,Départements d’Outre-mer,275,0,0,0,1,0,1,1,10,12,s,0,s,9,1,11,24,68,38,129,ns,ns,128

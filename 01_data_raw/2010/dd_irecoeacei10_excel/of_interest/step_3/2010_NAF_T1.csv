@@ -1,0 +1,25 @@
+﻿naf_code,naf_label,Nombre d’établissements,Consommation de combustibles minéraux solides,Consommation de gaz naturel et autres gaz,Consommation de biogaz et biométhane,Consommation de coke de pétrole,Consommation de butane-propane,Consommation de fioul lourd,Consommation de fioul domestique,Consommation de gazole non routier,Consommation de combustibles usuels,Consommation d’autres produits pétroliers,Consommation de liqueur noire,Consommation de bois et sous-produit du bois,Consommation d’hydrogène,Consommation de combustibles spéciaux renouvelables,Consommation de combustibles spéciaux non renouvelables,Consommation autres combustibles,Vapeur consommée,Consommation d’électricité,Total brut de la consommation,Vapeur vendue,Consommation de combustibles pour la production d’électricité,Total net de la consommation
+13,Fabrication de textiles,,0,140.0,,0,6,4,4,,154,0,0,0,,0,0,0,2,,267,,,265
+14,Industrie de l'habillement,,0,12.0,,0,0,1,1,,14,0,0,0,,0,0,0,0,,24,,,24
+15,Industrie du cuir et de la chaussure,,0,8.0,,0,0,0,,,,0,0,,,0,0,,2,13,25,0,0,25
+16,"Travail du bois et fabrication d’articles en bois et en liège, à l’exception des meubles ; fabrication d’articles en vannerie et sparterie",,0,67.0,,0,,4,12,,87,,,,,,,318,0,154,559,0,9,550
+17,Industrie du papier et du carton,,0.0,824.0,,0,11,,7,,943,0,689,462,,,,1265,386,881,3475,28,589,2859
+18,Imprimerie et reproduction d'enregistrements,,0,77.0,,0,,0,3,,83,0,0,0,,0,0,1,2,,210,0,5,204
+20,Industrie chimique,,307.0,3366.0,,,1391,325,16,,5434,1125,,25,,,36,1209,764,1559,8966,319,517,8130
+21,Industrie pharmaceutique,,0,193.0,,0,,1,,,,0,0,0,,0,,,21,192,414,,,410
+22,Fabrication de produits en caoutchouc et en plastique,,0,243.0,,0,14,14,12,,282,,0,3,,,0,4,92,607,986,,,980
+23,Fabrication d'autres produits minéraux non métalliques,,401,1350.0,,635,22,294,,,2735,207,0,56,,101,319,683,,,4123,,,4104
+24,Métallurgie,,4611.0,1042.0,,134,,15,,,5898,,0,52,,,,80,74,1878,7930,,,7929
+25,"Fabrication de produits métalliques, à l'exception des machines et des équipements",,,365.0,,0,33,3,15,,424,0,0,,,,,1,1,434,861,0,1,860
+26,"Fabrication de produits informatiques, électroniques et optiques",,0,49.0,,0,1,0,4,,54,,0,0,,,0,1,1,198,254,0,0,254
+27,Fabrication d'équipements électriques,,0.0,137.0,,,,,5,,206,,0,,,0,,3,2,,396,0,1,395
+28,Fabrication de machines et équipements n.c.a.,,0,177.0,,0,,,13,,203,0,0,,,0,,1,,,393,0,0,393
+29,Industrie automobile,,5,370.0,,0,,,4,,,0,0,,,0,0,,,,852,,,838
+30,Fabrication d'autres matériels de transport,,0,152.0,,0,3,,3,,158,,0,,,,,6,7,,326,,,315
+31,Fabrication de meubles,,0,37.0,,0,,,4,,45,0,0,27,,0,0,28,0,49,122,0,0,122
+32,Autres industries manufacturières,,0,28.0,,0,,,1,,,0,0,,,0,0,,,,83,0,0,83
+33,Réparation et installation de machines et d'équipements,,0,28.0,,0,2,1,5,,36,0,0,0,,0,0,0,,,69,,,68
+38,"Collecte, traitement et élimination des déchets ; récupération",,0,0.0,,0,0,0,0,,0,0,0,0,,0,0,0,0,0,0,0,0,0
+B07T09,"Industries extractives (à l’exception de l’extraction de houille, de lignite et d’hydrocarbures)",,0,60.0,,0,0.0,0.0,85,,168,10,0,12,,0.0,0.0,32,0.0,0.0,294,0,2,293
+C10T12,"Fabrication de denrées alimentaires, de boissons et de produits à base de tabac",,285,2460.0,,0,100,257,41,,3143,3,0,54,,0,0,57,269,1676,5145,45,258,4853
+_T,Total,,5745,11188.0,,806,1658,1005,296,,20699,1373,702,1011,,236,369,3690,1708,9676,35773,398,1433,33955

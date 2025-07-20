@@ -1,0 +1,28 @@
+ID,NAF,Nombre d'établissements,"Combustibles minéraux solides (houille, lignite - charbon pauvre, coke de houille)",Gaz de réseau,Coke de pétrole,Butane propane,Fioul lourd,Fioul domestique,Total combustibles usuels,Autres produits pétroliers,Liqueurs noires,Bois et sous-produit du bois,Hydrogene,Combustibles spéciaux renouvelables,Combustibles spéciaux non renouvelables,Total autres combustibles,Total combustibles,Achats de vapeur,Electricité,Total brut,Vapeur vendue,Consommation pour production d'électricité,Total net
+Total industrie,19943,5437,10509,568,2928,168,273,19884,1567,778,905,295,295,400,4239,24122,1818,9464,35404,424,609,34371
+07,Extraction de minerais métalliques,4,0,0,0,s,0,s,s,0,0,0,0,0,0,0,s,0,0,s,ns,ns,s
+08 - 09,Industries extractives,198,0,35,0,1,1,65,101,12,0,s,0,s,0,s,s,s,57,187,ns,ns,187
+10,Industries alimentaires,2776,183,2352,s,67,33,s,2666,0,0,71,3,86,1,161,2827,258,1576,4660,ns,ns,4439
+11,Fabrication de boissons,326,0,125,0,6,1,2,135,0,0,0,0,11,0,11,146,13,145,304,ns,ns,304
+12,Fabrication de produits à base de tabac,3,0,s,0,0,0,0,s,0,0,0,0,0,0,0,s,0,0,s,ns,ns,s
+13,Fabrication de textiles,451,0,104,0,5,2,s,s,0,0,0,0,0,s,s,s,s,87,207,ns,ns,205
+14,Industrie de l'habillement,292,0,s,0,1,0,1,s,0,0,0,0,0,0,0,s,0,9,s,ns,ns,s
+15,Industrie du cuir et de la chaussure,219,0,s,0,1,0,0,s,0,0,s,0,0,0,s,10,3,12,26,ns,ns,26
+16,"Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles - fabrication d'articles en vannerie et sparterie",703,0,53,0,s,1,15,s,0,0,305,0,1,0,306,s,s,160,545,ns,ns,526
+17,Industrie du papier et du carton,582,11,786,0,6,27,5,834,s,762,357,0,100,s,1231,2065,300,648,3013,ns,ns,2695
+18,Imprimerie et reproduction d'enregistrements,581,0,36,0,2,0,1,40,0,0,s,0,0,2,s,s,s,83,126,ns,ns,126
+20,Industrie chimique,925,324,2857,s,2728,s,14,5945,1492,15,68,272,s,s,1863,7808,1052,1710,10569,ns,ns,10195
+21,Industrie pharmaceutique,302,0,157,0,2,0,1,160,0,0,0,0,0,11,11,170,28,201,400,ns,ns,397
+22,Fabrication de produits en caoutchouc et en plastique,1457,0,227,0,12,19,6,264,0,0,11,0,s,s,12,276,49,575,900,ns,ns,867
+23,Fabrication d'autres produits minéraux non métalliques,934,250,1596,448,15,62,39,2409,55,0,69,2,82,363,571,2980,12,705,3698,ns,ns,3696
+24,Métallurgie,433,4642,1054,s,s,4,17,5840,s,0,0,s,0,s,19,5859,32,1820,7712,ns,ns,7659
+25,"Fabrication de produits métalliques, à l'exception des machines et des équipements",3403,s,289,0,32,s,10,340,0,0,2,1,0,0,3,343,1,415,759,ns,ns,758
+26,"Fabrication de produits informatiques, électroniques et optiques",617,0,s,0,0,s,6,43,0,0,0,0,0,0,0,43,1,165,209,ns,ns,209
+27,Fabrication d'équipements électriques,684,14,91,0,3,0,2,110,0,0,0,0,0,0,1,111,1,171,283,ns,ns,282
+28,Fabrication de machines et équipements n.c.a.,1473,0,127,0,10,0,10,147,0,0,s,s,0,0,4,150,1,173,324,ns,ns,323
+29,Industrie automobile,599,s,300,0,s,s,4,323,0,0,s,s,0,0,1,323,17,383,723,ns,ns,720
+30,Fabrication d'autres matériels de transport,335,0,107,0,3,0,3,113,s,0,s,0,0,0,11,125,12,178,315,ns,ns,313
+31,Fabrication de meubles,362,0,17,0,3,0,2,22,0,0,12,0,0,0,12,34,0,34,69,ns,ns,69
+32,Autres industries manufacturières,512,0,27,0,1,0,1,29,0,0,0,s,0,s,0,29,3,51,82,ns,ns,82
+33,Réparation et installation de machines et d'équipements,1388,0,27,0,2,0,10,39,s,0,0,s,0,s,0,40,2,41,83,ns,ns,83
+38,Récupération,384,0,85,0,s,2,26,s,0,0,s,0,s,0,1,s,s,63,189,ns,ns,187

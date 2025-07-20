@@ -1,0 +1,28 @@
+Indicateur,Autoproduction d'origine thermique,Autoproduction d'origine non thermique,Autoproduction vendue,Autoproduction consommée (1),Achats (2),Consommation (1 + 2),Usages thermiques (y compris production de froid)
+Total industrie,5617,454,2143,3971,106074,110045,8954
+07 - Extraction de minerais métalliques,0,0,0,0,0,0,0
+08 - 09 - Industries extractives,8,0,0,8,655,664,0
+10 - Industries alimentaires,1763,76,330,1509,16814,18323,946
+11 - Fabrication de boissons,1,7,5,3,1679,1681,81
+12 - Fabrication de produits à base de tabac,s,0,0,s,s,5,0
+13 - Fabrication de textiles,0,0,0,0,1009,1009,65
+14 - Industrie de l'habillement,0,7,s,s,s,107,0
+15 - Industrie du cuir et de la chaussure,0,0,0,0,144,144,4
+"16 - Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles - fabrication d'articles en vannerie et sparterie",441,2,436,8,1857,1865,39
+17 - Industrie du papier et du carton,1324,7,713,619,6919,7538,54
+18 - Imprimerie et reproduction d'enregistrements,0,0,0,0,961,961,33
+20 - Industrie chimique,1258,70,406,965,18918,19883,399
+21 - Industrie pharmaceutique,4,1,s,s,s,2339,163
+22 - Fabrication de produits en caoutchouc et en plastique,s,s,s,s,s,6686,726
+23 - Fabrication d'autres produits minéraux non métalliques,6,11,s,s,s,8201,1467
+24 - Métallurgie,s,s,15,426,20742,21168,3209
+"25 - Fabrication de produits métalliques, à l'exception des machines et des équipements",1,6,5,1,4824,4825,383
+"26 - Fabrication de produits informatiques, électroniques et optiques",1,0,0,1,1918,1919,129
+27 - Fabrication d'équipements électriques,2,2,s,s,s,1986,379
+28 - Fabrication de machines et équipements n.c.a.,1,0,0,1,2008,2009,201
+29 - Industrie automobile,s,s,s,s,s,4449,274
+30 - Fabrication d'autres matériels de transport,37,0,22,15,2060,2075,286
+31 - Fabrication de meubles,0,s,s,s,s,401,5
+32 - Autres industries manufacturières,s,0,0,s,s,593,22
+33 - Réparation et installation de machines et d'équipements,0,0,0,0,480,480,42
+38 - Récupération,s,s,183,49,686,734,46

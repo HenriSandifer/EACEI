@@ -1,0 +1,22 @@
+ID,REG,Houille,Lignite - charbon pauvre,Coke de houille,Gaz naturel de réseau,Autres gaz de réseau,Coke de pétrole,Butane propane,Fioul lourd,Fioul domestique,Total combustibles usuels,Autres produits pétroliers,Liqueurs noires,Bois et sous-produit du bois,Combustibles spéciaux renouvelables,Combustibles spéciaux non renouvelables,Total autres combustibles,Total combustibles,Achats de vapeur,Achats d'électricité,Autoconsommation d'électricité,Total brut,Ventes de vapeur,Consommation pour production d'électricité,Total net
+Toutes régions,4777,86,597,8633,95,806,1557,748,250,17549,1369,702,935,236,369,3612,21161,1439,7716,252,30568,353,1175,29041
+Ile-de-France,s,s,0,629,4,5,7,16,10,711,s,0,0,s,0,10,721,37,427,5,1190,s,s,1152
+Picardie,s,s,s,351,0,0,20,31,10,426,s,0,s,s,s,20,446,56,s,s,773,s,s,760
+Haute-Normandie,0,0,0,1043,s,s,s,105,8,1503,491,0,162,s,s,712,2215,193,463,31,2902,13,276,2613
+Centre,s,0,s,303,1,39,12,s,12,410,s,0,31,7,s,40,450,8,278,2,737,0,26,711
+Basse-Normandie,0,0,0,75,s,s,6,s,8,120,s,0,4,s,s,12,132,0,s,s,234,0,1,233
+Bourgogne,0,0,0,218,2,s,8,s,7,258,2,0,25,s,s,43,301,6,180,0,487,0,0,487
+Nord-Pas-de-Calais,s,17,290,958,s,150,s,74,21,3605,s,0,3,s,96,312,3917,116,1260,11,5303,s,s,5273
+Lorraine,s,s,209,696,0,35,6,12,18,2103,168,0,s,s,61,370,2473,122,692,21,3307,43,67,3197
+Alsace,0,0,s,938,1,s,7,10,10,987,s,0,23,7,s,136,1123,36,396,10,1566,6,28,1532
+Franche-Comté,98,0,7,184,1,s,7,s,7,319,0,0,21,s,s,33,352,s,s,s,679,s,s,628
+Pays de la Loire,0,1,7,222,2,s,s,6,20,336,s,0,41,18,s,77,413,63,315,1,792,s,s,786
+Bretagne,0,0,0,103,1,0,13,2,10,129,s,s,6,0,s,11,140,11,144,0,296,0,1,295
+Poitou-Charentes,63,0,s,171,1,s,9,27,15,346,9,0,22,27,39,96,442,s,s,s,595,s,s,577
+Aquitaine,s,0,s,308,0,0,13,109,10,477,s,303,245,1,s,554,1031,194,335,38,1598,s,s,1363
+Midi-Pyrénées,s,s,0,158,1,s,10,11,9,239,s,s,44,s,s,190,429,35,165,24,654,0,21,633
+Limousin,0,0,s,67,0,0,2,s,3,s,0,s,4,s,s,s,250,s,s,s,350,0,8,342
+Rhône-Alpes,150,s,13,1025,8,127,23,110,23,s,49,0,88,s,36,s,1673,243,1145,17,3078,s,s,2746
+Auvergne,s,0,26,199,0,s,2,19,7,270,0,0,10,s,s,13,283,s,s,s,466,s,s,448
+Languedoc-Roussillon,s,s,0,135,0,40,3,4,10,262,s,0,s,2,33,55,317,s,s,s,452,s,s,446
+PACA et Corse,s,0,0,581,s,148,999,148,18,3144,254,s,s,3,18,416,3560,160,548,62,4331,87,200,4044

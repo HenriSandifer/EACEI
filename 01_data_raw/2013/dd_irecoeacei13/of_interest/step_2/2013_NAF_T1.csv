@@ -1,0 +1,28 @@
+﻿ID,NAF,Nombre d'établissements,Houille,Lignite - charbon pauvre,Coke de houille,Gaz de réseau,Coke de pétrole,Butane propane,Fioul lourd,Fioul domestique,Total combustibles usuels,Autres produits pétroliers,Liqueurs noires,Bois et sous-produit du bois,Combustibles spéciaux renouvelables,Combustibles spéciaux non renouvelables,Total autres combustibles,Total combustibles,Achats de vapeur,Electricité,Total brut,Vapeur vendue,Consommation pour production d'électricité,Total net
+_T,Total,20583,5196,172,322,11251,766,2052,700,266,20724,1107,804,891,324,353,3479,24203,1723,9722,35648,552,825,34271
+B07T09,"Industries extractives (à l’exception de l’extraction de houille, de lignite et d’hydrocarbures)",10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,0,0,2,ns,ns,1
+B07T09,"Industries extractives (à l’exception de l’extraction de houille, de lignite et d’hydrocarbures)",246,0,0,0,51,0,6,4,70,131,s,0,8,0,8,s,s,s,70,237,ns,ns,237
+C10T12,"Fabrication de denrées alimentaires, de boissons et de produits à base de tabac",2793,s,s,17,2362,0,85,158,30,2862,0,0,73,s,s,101,2963,166,1526,4655,ns,ns,4322
+C10T12,"Fabrication de denrées alimentaires, de boissons et de produits à base de tabac",304,0,0,0,75,0,8,2,5,90,s,0,0,s,0,13,103,20,118,240,ns,ns,239
+C10T12,"Fabrication de denrées alimentaires, de boissons et de produits à base de tabac",6,0,0,0,3,0,s,0,s,s,0,0,0,0,0,0,s,s,4,7,ns,ns,7
+13,Fabrication de textiles,456,0,0,0,109,0,4,3,s,s,s,0,0,0,0,s,s,s,100,225,ns,ns,225
+14,Industrie de l'habillement,336,0,0,0,16,0,s,0,1,s,0,0,0,0,0,0,s,s,13,31,ns,ns,31
+15,Industrie du cuir et de la chaussure,233,0,0,0,7,0,s,0,2,s,0,0,s,0,0,s,16,0,10,26,ns,ns,26
+16,"Travail du bois et fabrication d’articles en bois et en liège, à l’exception des meubles ; fabrication d’articles en vannerie et sparterie",729,0,0,0,57,0,s,1,10,s,0,s,s,s,0,318,s,s,158,565,ns,ns,553
+17,Industrie du papier et du carton,551,s,0,0,938,0,7,s,s,1012,s,s,278,109,5,1177,2190,416,792,3397,ns,ns,3015
+18,Imprimerie et reproduction d'enregistrements,705,0,0,0,56,0,5,0,1,62,0,0,0,0,s,s,s,s,108,176,ns,ns,175
+20,Industrie chimique,904,378,s,s,3304,s,1792,294,14,5844,1024,s,68,51,s,1171,7015,835,1604,9454,ns,ns,8901
+21,Industrie pharmaceutique,318,0,0,0,177,0,s,s,s,s,0,0,0,0,s,s,182,98,226,505,ns,ns,501
+22,Fabrication de produits en caoutchouc et en plastique,1506,0,0,0,213,0,10,15,7,244,s,0,s,0,0,17,262,75,607,944,ns,ns,925
+23,Fabrication d'autres produits minéraux non métalliques,990,179,45,30,1525,627,17,158,32,2614,67,0,68,98,322,556,3169,4,677,3850,ns,ns,3848
+24,Métallurgie,429,s,s,203,1033,s,15,14,23,5927,s,0,39,s,0,40,5966,23,1817,7807,ns,ns,7758
+25,"Fabrication de produits métalliques, à l'exception des machines et des équipements",3387,s,s,s,379,0,44,s,14,446,0,0,s,s,1,2,448,2,438,888,ns,ns,887
+26,"Fabrication de produits informatiques, électroniques et optiques",726,0,0,0,51,0,0,s,s,52,0,0,0,0,0,0,52,1,182,235,ns,ns,235
+27,Fabrication d'équipements électriques,726,0,0,s,134,s,6,1,5,176,0,0,s,s,s,1,177,1,177,355,ns,ns,354
+28,Fabrication de machines et équipements n.c.a.,1592,0,0,0,194,0,9,1,10,213,s,0,1,0,0,s,s,s,354,570,ns,ns,568
+29,Industrie automobile,571,0,0,s,315,0,13,0,s,340,s,0,s,0,0,3,343,18,386,747,ns,ns,742
+30,Fabrication d'autres matériels de transport,294,0,0,0,140,0,3,s,s,148,0,0,1,0,0,1,149,7,171,327,ns,ns,324
+31,Fabrication de meubles,449,0,0,0,19,0,12,0,9,41,0,0,19,0,0,19,60,0,44,105,ns,ns,105
+32,Autres industries manufacturières,515,0,0,0,25,0,1,0,s,s,0,0,0,0,0,0,s,s,52,79,ns,ns,79
+33,Réparation et installation de machines et d'équipements,1390,0,0,0,28,0,2,3,2,35,0,0,0,0,0,0,35,2,46,83,ns,ns,83
+38,"Collecte, traitement et élimination des déchets ; récupération",417,0,0,0,41,0,1,1,12,55,0,0,s,s,0,23,78,18,41,137,ns,ns,132

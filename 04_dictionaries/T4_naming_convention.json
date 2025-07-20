@@ -1,0 +1,63 @@
+{
+  "header_map": {
+    "Électricité produite d’origine thermique": [
+      "Production d'origine thermique",
+      "Production d’origine thermique",
+      "Autoproduction d'origine thermique",
+      "Autoproduction d’origine thermique"
+    ],
+    "Production d’électricité d’origine non thermique": [
+      "Production d'origine hydraulique",
+      "Production d’origine hydraulique",
+      "Production d'origine non thermique",
+      "Production d’origine non thermique",
+      "Autoproduction d'origine non thermique",
+      "Autoproduction d’origine non thermique"
+    ],
+    "Électricité autoproduite": [
+        "Autoproduction électricité"
+    ],
+    "Électricité produite et vendue": [
+      "Ventes",
+      "Autoproduction vendue"
+    ],
+    "Quantité d’électricité produite et consommée": [
+      "Autoconsommation (1)",
+      "Autoproduction consommée (1)",
+      "Autoproduction consommée"
+    ],
+    "Électricité achetée": [
+      "Achats (2)",
+      "Achats d’électricité",
+      "Achats d'électricité"
+    ],
+    "Consommation d’électricité": [
+      "Consommation (1 + 2)",
+      "Quantités consommées d’électricité",
+      "Quantités consommées d'électricité"
+    ],
+    "Électricité : usage force motrice": [
+      "Usage force motrice"
+    ],
+    "Électricité : usages thermiques, y compris production de froid ": [
+      "Usages thermiques (y compris production de froid)"
+    ],
+    "Électricité : usage électrolyse": [
+      "Usage électrolyse"
+    ],
+    "Électricité : usage chauffage des locaux et autres": [
+      "Usage chauffage, informatique et autres ",
+      "Usage chauffage des locaux et autres"
+    ],
+    "Électricité : usages thermodynamiques hors chauffage des locaux": [
+      "Usages thermodynamiques hors chauffage des locaux (Prod. froid, PAC, CMV)",
+      "Usages thermodynamiques hors chauffage des locaux (Prod. Froid)"
+    ],
+    "Électricité : usage éclairage": [
+      "Usage éclairage"
+    ],
+    "Électricité : usage mobilité sur site": [
+      "Usage mobilité sur site"
+    ]
+  }
+}

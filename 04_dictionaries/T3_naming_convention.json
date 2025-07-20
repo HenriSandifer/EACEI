@@ -1,0 +1,94 @@
+{
+  "header_map": {
+    "Quantités de gaz consommées pour la fabrication": [
+      { "years": "2010-2011", "type": "multi-index", "product_contains": "Gaz naturel de réseau", "indicator": "Fabrication (fours, séchoirs...)" },
+      { "years": "2010-2011", "type": "multi-index", "product_contains": "Autres gaz de réseau", "indicator": "Fabrication (fours, séchoirs...)" },
+      { "years": "2012-2019", "type": "multi-index", "product_contains": "Gaz de réseau", "indicator": "Fabrication (fours, séchoirs…) y compris production de vapeur" },
+      { "years": "2020-2023", "type": "single-header", "header": "Quantités de gaz consommées pour la fabrication" }
+    ],
+    "Quantités de gaz consommées en tant que matières premières": [
+      { "years": "2010-2011", "type": "multi-index", "product_contains": "Gaz naturel de réseau", "indicator": "Matières premières" },
+      { "years": "2010-2011", "type": "multi-index", "product_contains": "Autres gaz de réseau", "indicator": "Matières premières" },
+      { "years": "2012-2019", "type": "multi-index", "product_contains": "Gaz de réseau", "indicator": "Matières premières" },
+      { "years": "2020-2023", "type": "single-header", "header": "Quantités de gaz consommées en tant que matières premières" }
+    ],
+    "Quantités de gaz consommées pour la production d’électricité": [
+      { "years": "2010-2011", "type": "multi-index", "product_contains": "Gaz naturel de réseau", "indicator": "Production d'électricité" },
+      { "years": "2010-2011", "type": "multi-index", "product_contains": "Autres gaz de réseau", "indicator": "Production d'électricité" },
+      { "years": "2012-2019", "type": "multi-index", "product_contains": "Gaz de réseau", "indicator": "Production d'électricité" },
+      { "years": "2020-2023", "type": "single-header", "header": "Quantités de gaz consommées pour la production d’électricité" }
+    ],
+    "Quantités de gaz consommées pour le chauffage ou un autre usage": [
+      { "years": "2010-2011", "type": "multi-index", "product_contains": "Gaz naturel de réseau", "indicator": "Chauffages et autres usages" },
+      { "years": "2010-2011", "type": "multi-index", "product_contains": "Autres gaz de réseau", "indicator": "Chauffages et autres usages" },
+      { "years": "2012-2019", "type": "multi-index", "product_contains": "Gaz de réseau", "indicator": "Chauffages et autres usages" },
+      { "years": "2020-2023", "type": "single-header", "header": "Quantités de gaz consommées pour le chauffage ou un autre usage" }
+    ],
+    "Quantités de gaz consommées pour la mobilité sur site": [
+      { "years": "2021-2023", "type": "single-header", "header": "Quantités de gaz consommées pour la mobilité sur site" }
+    ],
+    "Quantités de gaz naturel et autres gaz consommées": [
+      { "years": [2020, 2021], "type": "single-header", "header": "Quantités de gaz consommées" },
+      { "years": "2022-2023", "type": "single-header", "header": "Quantités de gaz naturel et autres gaz consommées" }
+    ],
+    "Quantités de fioul domestique consommées pour la fabrication": [
+      { "years": "2010-2011", "type": "multi-index", "product_contains": "Fioul domestique", "indicator": "Fabrication (fours, séchoirs...)" },
+      { "years": "2012-2019", "type": "multi-index", "product_contains": "Fioul domestique", "indicator": "Fabrication (fours, séchoirs…) y compris production de vapeur" },
+      { "years": "2020-2023", "type": "single-header", "header": "Quantités de fioul domestique consommées pour la fabrication" }
+    ],
+    "Quantités de fioul domestique consommées en tant que matières premières": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Fioul domestique", "indicator": "Matières premières" },
+      { "years": "2020-2023", "type": "single-header", "header": "Quantités de fioul domestique consommées en tant que matières premières" }
+    ],
+    "Quantités de fioul domestique consommées pour la production d’électricité": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Fioul domestique", "indicator": "Production d'électricité" },
+      { "years": "2020-2023", "type": "single-header", "header": "Quantités de fioul domestique consommées pour la production d’électricité" }
+    ],
+    "Quantités de fioul domestique consommées pour le chauffage ou un autre usage": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Fioul domestique", "indicator": "Chauffages et autres usages" },
+      { "years": "2020-2023", "type": "single-header", "header": "Quantités de fioul domestique consommées pour le chauffage ou un autre usage" }
+    ],
+    "Quantités de fioul domestique consommées": [
+      { "years": "2020-2023", "type": "single-header", "header": "Quantités de fioul domestique consommées" }
+    ],
+    "Quantités de gazole non routier consommées pour la fabrication": [
+      { "years": "2021-2023", "type": "single-header", "header": "Quantités de gazole non routier consommées pour la fabrication" }
+    ],
+    "Quantités de gazole non routier consommées en tant que matières premières": [
+      { "years": "2021-2023", "type": "single-header", "header": "Quantités de gazole non routier consommées en tant que matières premières" }
+    ],
+    "Quantités de gazole non routier consommées pour la production d’électricité": [
+      { "years": "2021-2023", "type": "single-header", "header": "Quantités de gazole non routier consommées pour la production d’électricité" }
+    ],
+    "Quantités de gazole non routier consommées pour le chauffage ou un autre usage": [
+      { "years": "2021-2023", "type": "single-header", "header": "Quantités de gazole non routier consommées pour le chauffage ou un autre usage" }
+    ],
+    "Quantités de gazole non routier consommées pour la mobilité sur site": [
+      { "years": "2021-2023", "type": "single-header", "header": "Quantités de gazole non routier consommées pour la mobilité sur site" }
+    ],
+    "Quantités de gazole non routier consommées": [
+      { "years": "2021-2023", "type": "single-header", "header": "Quantités de gazole non routier consommées" }
+    ],
+    "Quantités d’hydrogène consommées en tant que matières premières": [
+      { "years": [2019], "type": "multi-index", "product_contains": "Hydrogene", "indicator": "Matières premières" },
+      { "years": "2020-2023", "type": "single-header", "header": "Quantités d’hydrogène consommées en tant que matières premières" }
+    ],
+    "Quantités d’hydrogène utilisées pour la combustion (hors production d’électricité)": [
+      { "years": [2019], "type": "multi-index", "product_contains": "Hydrogene", "indicator": "Combustion hors production d’électricité" },
+      { "years": "2020-2023", "type": "single-header", "header": "Quantités d’hydrogène utilisées pour la combustion (hors production d’électricité)" }
+    ],
+    "Quantités d’hydrogène utilisées pour la production d’électricité": [
+      { "years": [2019], "type": "multi-index", "product_contains": "Hydrogene", "indicator": "Production d'électricité" },
+      { "years": "2021-2023", "type": "single-header", "header": "Quantités d’hydrogène utilisées pour la production d’électricité" }
+    ],
+    "Quantités d’hydrogène utilisées pour le chauffage ou un autre usage": [
+        { "years": [2022, 2023], "type": "single-header", "header": "Quantités d’hydrogène utilisées pour le chauffage ou un autre usage" }
+    ],
+    "Quantités d’hydrogène utilisées pour la mobilité sur site": [
+      { "years": "2021-2023", "type": "single-header", "header": "Quantités d’hydrogène utilisées pour la mobilité sur site" }
+    ],
+    "Quantités d’hydrogène consommées": [
+      { "years": "2020-2023", "type": "single-header", "header": "Quantités d’hydrogène consommées" }
+    ]
+  }
+}

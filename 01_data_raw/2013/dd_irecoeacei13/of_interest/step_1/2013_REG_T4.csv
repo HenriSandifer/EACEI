@@ -1,0 +1,23 @@
+Indicateurs,Autoproduction d'origine thermique,Autoproduction d'origine non thermique,Autoproduction vendue,Autoproduction consommée (1),Achats (2),Consommation (1 + 2),Usage force motrice,Usages thermiques (y compris production de froid),Usage électrolyse,Usage chauffage des locaux et autres,"Usages thermodynamiques hors chauffage des locaux (Prod. froid, PAC, CMV)"
+Toutes régions,5310,620,2709,3221,109823,113044,72487,10121,11516,8517,10403
+Ile-de-France,s,s,49,18,5444,5463,3300,620,96,678,768
+Picardie,s,s,4,553,4004,4557,3348,424,70,343,372
+Haute-Normandie,s,s,218,225,6086,6311,5129,354,45,256,527
+Centre,132,0,s,s,s,3788,2773,403,43,276,293
+Basse-Normandie,14,0,0,14,2096,2110,1577,204,10,129,190
+Bourgogne,s,s,s,s,s,2588,1470,339,15,236,529
+Nord-Pas-de-Calais,s,s,s,s,s,16768,9378,764,4858,479,1289
+Lorraine,s,s,294,214,8318,8533,6359,1184,48,315,626
+Alsace,s,s,168,65,4931,4996,3749,489,s,308,s
+Franche-Comté,s,s,s,3,3263,3266,2026,s,s,140,183
+Pays de la Loire,97,5,60,43,5980,6022,4094,594,48,471,816
+Bretagne,29,1,1,28,4262,4291,2795,341,30,355,769
+Poitou-Charentes,18,1,8,11,2144,2156,1599,212,6,138,201
+Aquitaine,385,0,251,134,4914,5048,3348,655,335,220,491
+Midi-Pyrénées,s,s,51,233,2483,2716,1911,194,s,s,308
+Limousin,21,2,s,s,s,907,766,40,6,46,49
+Rhône-Alpes,465,237,591,112,14970,15082,7416,2082,2915,1387,1283
+Auvergne,53,0,s,s,s,2573,1582,303,22,265,401
+Languedoc-Roussillon,s,s,s,s,s,1741,891,169,s,95,s
+PACA et Corse,s,s,37,860,9505,10365,6201,s,1408,s,485
+DOM,s,s,0,11,409,420,304,26,0,18,72

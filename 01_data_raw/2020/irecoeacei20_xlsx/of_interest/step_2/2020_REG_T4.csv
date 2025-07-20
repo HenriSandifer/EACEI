@@ -1,0 +1,15 @@
+﻿ID,REG,Autoproduction d'origine thermique,Autoproduction d'origine non thermique,Autoproduction électricité,Autoproduction vendue,Autoproduction consommée (1),Achats (2),Consommation (1 + 2),Usage force motrice,Usages thermiques (y compris production de froid),Usage électrolyse,Usage chauffage des locaux et autres,"Usages thermodynamiques hors chauffage des locaux (Prod. froid, PAC, CMV)"
+FRA,France,4888.8,419.9,5308.7,1868.8,3471.4,98535.2,102006.6,58060.5,9734.9,10527.9,9332.6,14351.2
+IDF,Ile-de-France,84.1,0.2,84.4,54.4,29.9,5796.3,5826.2,3041.9,874.4,45.3,900,965.1
+CVL,Centre-Val de Loire,s,s,s,s,s,s,s,2125.6,337.2,s,s,476.7
+BFC,Bourgogne-Franche-Comté,25.1,0.7,25.7,0.6,25.1,5486.1,5511.2,2760.5,609.3,s,s,764
+NOR,Normandie,352,22.4,374.4,158,216.4,7173.4,7389.8,5494.2,496.5,61.6,525.6,811.6
+HDF,Hauts-de-France,s,s,s,s,s,s,s,9542.6,2391.9,s,1382.6,2025.6
+GRE,Grand Est,1071.1,45.5,1116.6,434.3,682.3,14073.2,14755.5,10523.3,1147.7,102.3,1039.5,1943
+PAL,Pays de la Loire,52.8,5,57.7,22,35.8,5253.7,5289.4,2876.7,426.7,43,812.8,1131.4
+BRE,Bretagne,s,s,s,s,s,s,s,2268.6,s,s,s,1120.9
+NOA,Nouvelle-Aquitaine,418.6,6.4,425,222.7,202.3,6768.1,6970.4,4382.6,869.8,61.6,644.2,1012.8
+OCC,Occitanie,s,s,s,s,s,s,s,2251.2,380.2,s,s,595.3
+ARA,Auvergne-Rhône-Alpes,321.7,83.7,405.4,213.7,223.2,16142.2,16365.4,7245.3,1698.8,3780.2,1519.8,2120.9
+PAC,Provence-Alpes-Côte d'Azur,662.3,14.1,676.4,113.4,563,7495.9,8058.9,5217.5,s,s,s,1162.8
+DOM,Départements d’Outre-mer,7.9,4.3,12.1,4.3,7.9,589.3,597.1,330.2,20.9,0,25.6,220.9

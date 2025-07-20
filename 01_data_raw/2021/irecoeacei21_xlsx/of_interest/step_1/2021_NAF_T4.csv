@@ -1,0 +1,25 @@
+"Autoproduction, achats et consommation d'électricité par usage en GWh","Autoproduction d'origine thermique","Autoproduction d'origine non thermique",Autoproduction électricité,Autoproduction vendue,Autoproduction consommée (1),Achats (2),Consommation (1 + 2),Usage force motrice,"Usages thermiques (y compris production de froid)",Usage électrolyse,"Usage chauffage des locaux et autres","Usages thermodynamiques hors chauffage des locaux (Prod. froid, PAC, CMV)",Usage éclairage,Usage mobilité sur site
+Total industrie,5760.6,1024.1,6784.7,2775.8,4008.8,105892.5,109901.3,59994.8,9739.6,12806.3,6694.1,15540,3694.8,260
+07 - 08 – 09 Toutes les Industries extractives,2.3,s,s,0,s,s,801.9,655.4,s,0,31.3,36.3,23.4,s
+"10 – 11 – 12 Industries alimentaires, Fabrication de boissons, Fabrication de produits à base de tabac",1788,690.7,2478.8,925.8,1553,19123.4,20676.3,11537.6,990.4,26.2,1109.8,5931.2,891.7,71.2
+13 - Fabrication de textiles,10,s,s,0.8,s,915.4,s,656.4,s,s,54.7,83,54.7,2.7
+14 - Industrie de l'habillement,0.4,s,s,s,1.5,s,s,43,1.2,s,20.3,3.5,11.2,s
+15 - Industrie du cuir et de la chaussure,12.4,1,13.4,s,s,s,141.1,48.3,6.7,0.1,38.7,19.3,15,0.7
+"16 - Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles - fabrication d'articles en vannerie et sparterie",494.7,5.6,500.3,146.6,353.7,2279.1,2632.8,1789.5,235.3,0.5,130.4,65,84.2,3.5
+17 - Industrie du papier et du carton,s,s,1635.6,1089.9,545.7,7269.3,7815,7059.2,136,0.5,199.7,231.1,126.2,6.1
+18 - Imprimerie et reproduction d'enregistrements,2.3,0.9,3.3,0.3,2.9,982.8,985.7,628.4,22.8,7.6,160.3,101.8,60,2.9
+20 - Industrie chimique,939,14.1,953,238,715,17103.5,17818.5,10050,508.6,3646.8,487.4,2852.1,205.2,17
+21 - Industrie pharmaceutique,3.5,s,s,s,s,s,2607.1,1216.3,125.1,0.5,329.3,822.6,104.1,7.2
+"22 - Fabrication de produits en caoutchouc et en plastique",s,s,80.2,21.3,58.9,6388.4,6447.3,3527.1,934.4,22.3,468.6,1212.6,251.5,27.8
+"23 - Fabrication d'autres produits minéraux non métalliques",35.6,s,s,s,53.1,8368.2,8421.3,5078.2,1710.2,115.8,657.5,625.3,186.7,7.9
+24 - Métallurgie,329.7,92.5,422.2,s,s,s,20790.4,7484.5,2994.6,8680.4,382.1,917,277.7,9.5
+"25 - Fabrication de produits métalliques, à l'exception des machines et des équipements",5.7,10.5,16.2,4.3,11.9,4857.5,4869.4,2818.5,550.7,174.4,539,422.8,341.9,17
+"26 - Fabrication de produits informatiques, électroniques et optiques",13.7,0.1,13.8,0,13.8,2267.2,2281,675.8,113.4,2.2,377,859.6,239.1,4.2
+27 - Fabrication d'équipements électriques,4.6,7.5,12.2,1.8,10.4,1885.7,1896.1,821.5,417.5,33.6,262.1,243.2,102.9,11.8
+28 - Fabrication de machines et équipements n.c.a.,21.4,0.8,22.2,s,s,s,2047.3,1059.9,273.2,1.2,354.5,159.2,175.4,11.5
+29 - Industrie automobile,s,s,166.4,11.5,154.9,3785.5,3940.5,2675.1,293.5,72.8,330.1,222.2,187.5,11.4
+30 - Fabrication d'autres matériels de transport,53.2,s,s,s,79.9,1845.1,1925,813,221.5,13.9,337.8,360.6,152.2,5.6
+31 - Fabrication de meubles,4.1,s,s,1.1,s,s,475.7,349.2,30,0,37.1,28.8,26.5,1.1
+32 - Autres industries manufacturières,2.7,0,2.7,0,2.7,675.7,678.4,274.4,38.7,0.7,113.6,198.8,48.2,1.5
+"33 - Réparation et installation de machines et d'équipements",s,0.1,s,0.2,s,472.6,s,143.4,s,5.7,126.7,88.4,62.5,5.4
+38 - Récupération,29.6,0.6,30.2,s,s,s,904.1,590.2,s,s,146.2,55.5,67.1,1.6

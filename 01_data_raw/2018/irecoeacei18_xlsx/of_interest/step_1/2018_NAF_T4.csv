@@ -1,0 +1,28 @@
+Indicateur,Autoproduction d'origine thermique,Autoproduction d'origine non thermique,Autoproduction vendue,Autoproduction consommée (1),Achats (2),Consommation (1 + 2),Usage force motrice,Usages thermiques (y compris production de froid),Usage électrolyse,Usage chauffage des locaux et autres,"Usages thermodynamiques hors chauffage des locaux (Prod. froid, PAC, CMV)"
+Total industrie,5360,677,1782,4255,110777,115032,68715,10382,12816,8902,14217
+07 - Extraction de minerais métalliques,s,0,0,s,s,7,7,0,0,0,0
+08 - 09 - Industries extractives,3,0,0,3,s,s,645,1,7,s,4
+10 - Industries alimentaires,1796,72,536,1332,17956,19288,12330,1304,17,1287,4351
+11 - Fabrication de boissons,s,s,1,6,2231,2237,1079,152,s,s,s
+12 - Fabrication de produits à base de tabac,s,s,s,s,s,s,s,s,s,s,s
+13 - Fabrication de textiles,11,2,13,1,s,s,816,s,1,120,80
+14 - Industrie de l'habillement,0,s,s,s,s,99,65,0,0,29,5
+15 - Industrie du cuir et de la chaussure,0,0,0,0,141,141,74,5,0,25,36
+"16 - Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles - fabrication d'articles en vannerie et sparterie",119,276,389,6,s,s,1974,s,0,204,48
+17 - Industrie du papier et du carton,1449,8,493,964,7408,8372,7869,51,4,292,156
+18 - Imprimerie et reproduction d'enregistrements,1,0,0,1,1097,1097,803,53,6,140,96
+20 - Industrie chimique,1149,96,249,996,19020,20016,11553,427,3469,505,4063
+21 - Industrie pharmaceutique,5,1,s,s,s,2586,1181,182,1,422,801
+22 - Fabrication de produits en caoutchouc et en plastique,s,s,s,s,s,6890,4460,935,20,630,845
+23 - Fabrication d'autres produits minéraux non métalliques,6,17,0,23,8409,8432,5623,s,s,614,461
+24 - Métallurgie,s,s,17,388,20968,21356,7910,3326,8832,674,614
+"25 - Fabrication de produits métalliques, à l'exception des machines et des équipements",0,2,2,0,4991,4991,3459,546,164,608,213
+"26 - Fabrication de produits informatiques, électroniques et optiques",1,0,0,1,1881,1882,633,126,27,429,667
+27 - Fabrication d'équipements électriques,3,0,0,3,1978,1981,1019,472,41,234,215
+28 - Fabrication de machines et équipements n.c.a.,1,0,0,1,2146,2148,1302,249,3,378,216
+29 - Industrie automobile,s,s,22,13,4756,4768,3194,333,112,766,362
+30 - Fabrication d'autres matériels de transport,s,s,22,14,2098,2113,1044,300,20,432,318
+31 - Fabrication de meubles,s,s,s,s,s,416,347,7,0,51,11
+32 - Autres industries manufacturières,0,0,0,0,667,668,398,41,3,101,123
+33 - Réparation et installation de machines et d'équipements,0,0,0,0,545,545,s,40,s,202,112
+38 - Récupération,155,0,s,s,s,923,741,46,3,62,71

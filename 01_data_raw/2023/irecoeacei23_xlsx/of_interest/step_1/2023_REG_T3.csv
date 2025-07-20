@@ -1,0 +1,15 @@
+,Quantités de gaz consommées pour la fabrication,Quantités de gaz consommées en tant que matières premières,Quantités de gaz consommées pour la production d’électricité,Quantités de gaz consommées pour le chauffage ou un autre usage,Quantités de gaz consommées pour la mobilité sur site,Consommation de gaz naturel et autres gaz,Quantités de fioul domestique consommées pour la fabrication,Quantités de fioul domestique consommées en tant que matières premières,Quantités de fioul domestique consommées pour la production d’électricité,Quantités de fioul domestique consommées pour le chauffage ou un autre usage,Consommation de fioul domestique,Quantités de gazole non routier consommées pour la fabrication,Quantités de gazole non routier consommées en tant que matières premières,Quantités de gazole non routier consommées pour la production d’électricité,Quantités de gazole non routier consommées pour le chauffage ou un autre usage,Quantités de gazole non routier consommées pour la mobilité sur site,Consommation de gazole non routier,Quantités d’hydrogène consommées en tant que matières premières,"Quantités d’hydrogène utilisées pour la combustion, hors production d’électricité ",Quantités d’hydrogène utilisées pour la production d’électricité,Quantités d’hydrogène utilisées pour le chauffage ou un autre usage,Quantités d’hydrogène utilisées pour la mobilité sur site,Consommation d’hydrogène
+Île-de-France,233.8,2.3,s,45.7,s,283.8,0.3,0,0.1,0.6,1,s,s,s,0.7,6.4,7.6,0,s,0,s,0,s
+Centre-Val de Loire,241.7,5,20.3,32.9,0.5,300.4,s,s,s,2.6,3.7,s,s,1.6,s,5.5,7.8,0.1,0.7,0,0,0,0.9
+Bourgogne-Franche-Comté,351.1,s,s,50.9,s,439.7,3.1,s,s,3.4,7.1,0.7,1.1,0.2,0.1,7.6,9.6,s,s,0,10.1,0,50.7
+Normandie,775.5,361.9,s,s,0,s,0.5,0.2,0.7,2.7,4,1.2,s,s,1.6,3.7,s,s,2.4,0,0,0,s
+Hauts-de-France,1302.7,s,208.3,s,0.9,1625,s,s,0.3,2.9,8.7,4.1,s,s,1.9,29.3,s,s,s,s,0,0,s
+Grand Est,1368.9,166.8,93.9,114.9,0.9,1745.4,4.4,0.6,s,4.9,s,3.4,1.8,0.3,1.5,16.2,23.2,32.7,s,0,0,0,s
+Pays de la Loire,273.6,s,s,52.3,s,334.6,1.5,0,1.1,2.5,5.1,3.3,0,0.4,0.4,7.4,11.6,s,0,0,0,0,s
+Bretagne,308.9,1.4,0,21.7,2.8,334.9,1.6,s,s,s,s,3.9,0,0,1.8,4.5,10.2,0,s,s,0,0,0
+Nouvelle-Aquitaine,439,1.5,4.1,41,0.8,486.2,3.8,0,s,2.1,s,2.6,0.4,0.1,2.8,18.4,24.4,s,s,0,0.1,0,0.2
+Occitanie,286,s,0,s,0.1,s,0.6,0,0.3,1.8,2.7,1.2,0,0.2,0.2,17.4,19.1,0,0,0,0,0,0
+Auvergne-Rhône-Alpes,797.6,54.7,4,120.7,0.5,977.4,3.9,0.3,0.8,7.3,12.3,1.2,0.3,0.3,1.3,8.9,11.9,s,s,0,s,s,23.8
+Provence-Alpes-Côte d'Azur,584.8,s,16,s,0.2,686.9,6.8,s,s,s,14.2,1,s,0.1,s,15.6,s,42,102.1,s,s,0,144.1
+Départements d'Outre-mer,0.4,0.2,0,1.2,0,1.8,7.2,0,0,0.1,7.4,4.7,0,0.1,0.5,3,8.4,s,s,s,s,s,s
+France,6964.1,691.2,384.7,649.8,15,8704.8,36.2,5.1,14.4,33.3,89,27.9,4,4.4,13.1,143.9,193.4,328.5,138.3,s,10.2,s,477

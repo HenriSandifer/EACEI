@@ -1,0 +1,27 @@
+INDICATEUR,Production d'origine thermique,Production d'origine hydraulique,Ventes,Autoconsommation (1),Achats (2),Consommation (1 + 2)
+Total,6024,669,2577,4116,108392,112507
+Total hors IAA,4127,666,1859,2935,89720,92654
+07 - Extraction de minerais métalliques,3,0,0,3,0,4
+08 - Autres industries extractives,s,s,s,s,s,993
+10 - Industries alimentaires,1890,3,718,1174,16812,17986
+11 - Fabrication de boissons,3,0,0,3,1495,1497
+13 - Fabrication de textiles,5,6,s,s,s,1289
+14 - Industrie de l'habillement,s,s,s,s,s,116
+15 - Industrie du cuir et de la chaussure,0,0,0,0,146,146
+"16 - Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles - fabrication d'articles en vannerie et sparterie",77,0,68,8,1778,1786
+17 - Industrie du papier et du carton,s,s,512,1043,9202,10245
+18 - Imprimerie et reproduction d'enregistrements,29,0,s,s,s,1445
+20 - Industrie chimique,1753,56,939,870,17258,18128
+21 - Industrie pharmaceutique,s,s,3,3,2229,2233
+22 - Fabrication de produits en caoutchouc et en plastique,92,0,75,16,7051,7067
+23 - Fabrication d'autres produits minéraux non métalliques,s,s,s,s,s,7861
+24 - Métallurgie,s,s,157,783,21058,21842
+"25 - Fabrication de produits métalliques, à l'exception des machines et des équipements",4,2,2,4,5049,5053
+"26 - Fabrication de produits informatiques, électroniques et optiques",s,s,2,1,2306,2306
+27 - Fabrication d'équipements électriques,s,s,s,s,s,2154
+28 - Fabrication de machines et équipements n.c.a.,2,0,s,s,s,2181
+29 - Industrie automobile,s,s,s,s,s,4839
+30 - Fabrication d'autres matériels de transport,s,s,s,s,s,1802
+31 - Fabrication de meubles,0,0,0,0,573,574
+32 - Autres industries manufacturières,1,0,0,s,s,598
+33 - Réparation et installation de machines et d'équipements,0,0,0,s,s,363

@@ -1,0 +1,15 @@
+﻿ID,REG,Électricité produite d’origine thermique,Production d’électricité d’origine non thermique,Électricité autoproduite,Électricité produite et vendue,Quantité d’électricité produite et consommée,Électricité achetée,Consommation d’électricité,Électricité : usage force motrice,"Électricité : usages thermiques, y compris production de froid ",Électricité : usage électrolyse,Électricité : usage chauffage des locaux et autres,Électricité : usages thermodynamiques hors chauffage des locaux,Électricité : usage éclairage,Électricité : usage mobilité sur site
+IDF,Ile-de-France,31.3,0.4,31.6,s,s,s,3903,1783.1,592.5,42.4,454.4,831.8,178.7,20.2
+CVL,Centre-Val de Loire,226.9,24.5,251.4,104.7,140,3037.7,3177.7,1802.8,328.5,4.1,319.4,553.5,140.6,29
+BFC,Bourgogne-Franche-Comté,559.4,8,567.4,s,s,s,5319.3,2526.7,810.8,s,361.7,657.3,s,s
+NOR,Normandie,254,23.5,277.6,126.2,151.3,6751.1,6902.5,4796.3,512.8,54.5,331.5,909.8,271.2,26.3
+HDF,Hauts-de-France,1157,19.5,1176.5,92.3,1084.1,18147,19231.1,9469.3,2158.2,s,859.2,2149.3,s,s
+GRE,Grand Est,1039.1,66.3,1105.4,551.8,552.2,13676.8,14229.1,9992.8,1616.9,141.3,647.9,1340.7,423.7,65.9
+PAL,Pays de la Loire,43.9,31.2,75.1,24,51.1,5237.8,5288.9,3096.1,633.5,25.2,424.5,807.3,284.4,17.9
+BRE,Bretagne,28,15.2,43.2,2.2,41,4234.2,4275.1,2297.9,270.9,23.2,262.4,1225.4,169.4,25.9
+NOA,Nouvelle-Aquitaine,750.7,15.4,766.1,491.9,274.1,7175.6,7449.7,4448.2,759.7,259.3,490.1,1166.9,300,25.5
+OCC,Occitanie,277.6,106.3,383.8,s,s,s,4208.4,2060,952.8,s,335.5,572.1,s,13.5
+ARA,Auvergne-Rhône-Alpes,210.2,46.2,256.5,85.2,171.3,15673.1,15844.3,7369.6,1686,3220.5,825.9,2186.6,485.3,70.4
+PAC,Provence-Alpes-Côte d'Azur,365.6,7.7,373.4,56.8,319.2,7244,7563.1,4680.6,254.5,1237.6,267.2,1009.5,102.2,11.5
+DOM,Départements d’Outre-mer,2.2,0.7,2.9,0,2.9,433.6,436.5,292.4,24.9,0,10.6,86.8,19.5,2.3
+FRA,France,4945.8,364.8,5310.6,1936.9,3368,94460.6,97828.7,54615.7,10601.8,9935.8,5590.2,13497.1,3170.8,417.2

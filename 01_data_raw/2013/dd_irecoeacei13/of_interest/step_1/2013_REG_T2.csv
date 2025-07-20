@@ -1,0 +1,24 @@
+Type d'énergie,Total des énergies,,,,Houille,,,,Lignite - charbon pauvre,,,,Coke de houille,,,,Gaz de réseau,,,,Coke de pétrole,,,,Butane propane,,,,Fioul lourd,,,,Fioul domestique,,,,Bois,,,,Vapeur,,,,Electricité,,,
+Indicateurs,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen
+Toutes régions,so,so,15894,so,8338,8393,1081,130,370,424,45,122,455,482,122,268,146119,146119,4755,33,988,1005,141,143,1867,1874,1223,655,716,735,363,508,313370,314553,240,1,2114,3467,84,40,23929,23929,681,28,109823,113044,7161,65
+Ile-de-France,so,so,704,so,44,49,6,131,0,0,0,so,1,2,0,351,9458,9458,300,32,s,s,s,s,6,6,5,860,4,4,3,570,11055,11483,8,1,s,s,s,s,153,153,3,20,5444,5463,376,69
+Picardie,so,so,739,so,26,27,3,123,55,55,6,108,20,20,6,311,9781,9781,325,33,0,0,0,so,27,27,22,826,55,55,28,504,9352,9326,7,1,s,s,s,s,1819,1819,54,30,4004,4557,288,72
+Haute-Normandie,so,so,1257,so,s,s,s,s,0,0,0,so,3,3,1,270,15293,15293,474,31,s,s,s,s,s,s,s,s,59,60,30,506,9135,9114,7,1,306,343,12,40,2894,2894,89,31,6086,6311,380,62
+Centre,so,so,491,so,29,30,3,110,0,0,0,so,3,3,1,276,5276,5276,180,34,61,66,8,127,9,9,8,883,23,24,12,518,10999,11146,9,1,39,135,2,44,0,0,0,so,s,3788,268,73
+Basse-Normandie,so,so,275,so,0,0,0,so,0,0,0,so,s,s,s,s,2585,2585,91,35,s,s,s,s,11,11,11,935,s,s,s,s,9066,8936,7,1,s,s,s,s,s,s,s,s,2096,2110,155,74
+Bourgogne,so,so,318,so,0,0,0,so,0,0,0,so,0,0,0,so,3143,3143,109,35,0,0,0,so,6,6,5,896,s,s,s,s,s,s,s,s,s,s,s,s,166,166,7,41,s,2588,186,73
+Nord-Pas-de-Calais,so,so,2099,so,s,s,s,s,s,s,s,s,109,133,24,223,17873,17873,562,31,141,146,31,222,s,s,s,s,28,29,15,523,28212,28435,21,1,s,s,s,s,1467,1467,40,28,s,16768,854,52
+Lorraine,so,so,1136,so,1364,1408,192,141,110,161,16,141,197,200,47,238,10088,10088,320,32,s,s,s,s,s,s,s,s,4,3,2,568,18335,18311,14,1,110,296,5,43,707,707,22,31,8318,8533,511,61
+Alsace,so,so,818,so,s,s,s,s,0,0,0,so,s,s,s,s,13984,13984,433,31,s,s,s,s,10,9,8,807,5,6,3,592,10649,10578,8,1,155,252,8,53,567,567,16,29,4931,4996,336,68
+Franche-Comté,so,so,363,so,146,150,18,121,0,0,0,so,17,16,5,311,2470,2470,86,35,s,s,s,s,15,15,11,776,s,s,s,s,7514,7524,6,1,4,100,0,100,496,496,15,29,3263,3266,219,67
+Pays de la Loire,so,so,757,so,s,s,s,s,s,s,s,s,14,14,5,357,6178,6178,212,34,83,85,8,98,23,28,18,779,27,28,15,553,26220,26396,20,1,78,116,3,38,1142,1142,26,23,5980,6022,449,75
+Bretagne,so,so,555,so,s,s,s,s,0,0,0,so,0,0,0,so,4763,4763,168,35,0,0,0,so,27,27,20,734,24,24,14,570,s,s,s,s,s,s,s,s,673,673,19,28,4262,4291,319,75
+Poitou-Charentes,so,so,302,so,87,89,9,98,0,0,0,so,0,0,0,so,2367,2367,79,33,88,88,10,110,13,13,10,781,38,38,19,508,18207,18376,14,1,80,105,3,44,138,138,5,33,2144,2156,153,71
+Aquitaine,so,so,632,so,s,s,s,s,0,0,0,so,0,0,0,so,3487,3487,124,36,s,s,s,s,9,9,8,832,90,99,43,478,13514,13769,11,1,389,723,13,34,4305,4305,105,24,4914,5048,319,65
+Midi-Pyrénées,so,so,319,so,s,s,s,s,0,0,0,so,s,s,s,s,2678,2678,91,34,s,s,s,s,10,10,8,822,14,14,7,531,11470,11218,9,1,s,s,s,s,324,324,9,28,2483,2716,184,74
+Limousin,so,so,129,so,0,0,0,so,0,0,0,so,s,s,s,s,1260,1260,42,34,0,0,0,so,5,5,4,790,3,3,2,595,3468,3453,3,1,14,53,0,31,289,289,9,31,s,907,63,72
+Rhône-Alpes,so,so,1668,so,187,195,34,180,s,s,s,s,s,s,s,s,14823,14823,491,33,155,161,36,233,27,28,22,812,51,54,29,556,34938,34866,26,1,264,303,10,38,3653,3653,106,29,14970,15082,911,61
+Auvergne,so,so,329,so,s,s,s,s,0,0,0,so,33,34,12,371,3296,3296,110,33,s,s,s,s,8,7,6,770,10,11,5,546,6099,6054,5,1,43,67,1,21,353,353,6,18,s,2573,182,71
+Languedoc-Roussillon,so,so,206,so,94,98,14,151,0,0,0,so,0,0,0,so,1891,1891,61,33,35,34,4,103,10,10,9,917,3,3,2,572,11835,11829,9,1,63,65,3,50,s,s,s,s,s,1741,103,61
+PACA et Corse,so,so,2217,so,s,s,s,s,s,s,s,s,0,0,0,so,9588,9588,308,32,s,s,s,s,1082,1083,671,620,209,211,100,480,20986,21223,15,1,s,s,s,s,3124,3124,118,38,9505,10365,632,66
+DOM,so,so,67,so,0,0,0,so,0,0,0,so,0,0,0,so,96,96,4,38,0,0,0,so,s,s,s,s,1,1,1,895,11946,11850,10,1,s,s,s,s,957,957,11,12,409,420,39,96

@@ -1,0 +1,7 @@
+﻿ID,TEFF,Autoproduction d'origine thermique,Autoproduction d'origine non thermique,Autoproduction vendue,Autoproduction consommée (1),Achats (2),Consommation (1 + 2),Usage force motrice,Usages thermiques (y compris production de froid),Usage électrolyse,Usage chauffage des locaux et autres,"Usages thermodynamiques hors chauffage des locaux (Prod. froid, PAC, CMV)"
+_T,Total,4669,582,1903,3349,109718,113067,68341,10308,12936,8239,13239
+20-49,20 à 49 salariés,100,13,94,19,12427,12446,7509,956,89,1902,1985
+50-99,50 à 99 salariés,56,327,319,64,14394,14458,8693,1190,1156,1336,2083
+100-249,100 à 249 salariés,1216,88,410,894,26793,27687,17615,3063,1704,1703,3602
+250-499,250 à 499 salariés,1807,59,719,1147,24905,26052,16339,2864,2669,1394,2787
+500+,500 salariés et plus,1491,95,361,1225,31200,32425,18185,2235,7318,1904,2782

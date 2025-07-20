@@ -1,0 +1,7 @@
+﻿teff_code,teff_label,Électricité produite d’origine thermique,Production d’électricité d’origine non thermique,Électricité autoproduite,Électricité produite et vendue,Quantité d’électricité produite et consommée,Électricité achetée,Consommation d’électricité,Électricité : usage force motrice,"Électricité : usages thermiques, y compris production de froid ",Électricité : usage électrolyse,Électricité : usage chauffage des locaux et autres,Électricité : usages thermodynamiques hors chauffage des locaux,Électricité : usage éclairage,Électricité : usage mobilité sur site
+100-249,100 à 249 salariés,1340.4,112.9,1453.3,672.0,781.2,26473.6,27254.8,16134.2,2863.0,1718.9,1649.9,3821.8,960.3,106.8
+20-49,20 à 49 salariés,,,427.6,114.6,312.9,12986.0,13298.9,6695.2,1013.7,539.4,1593.7,2451.0,909.5,96.3
+250-499,250 à 499 salariés,2255.6,220.9,2476.5,1449.9,1026.6,23203.0,24229.6,14153.7,2671.2,2549.7,1096.1,3144.5,562.9,51.4
+50-99,50 à 99 salariés,,,238.8,45.1,193.7,12640.2,12833.9,7517.6,1217.5,430.9,762.8,2326.8,527.2,51.2
+500+,500 salariés et plus,,,3279.9,355.0,2924.9,26876.1,29801.0,16648.5,2389.7,5967.1,1596.2,2487.6,676.9,35.0
+_T,Total,6748.4,1127.6,7876.0,2636.8,5239.3,102178.9,107418.2,61149.2,10155.1,11206.0,6698.7,14231.7,3636.7,340.7

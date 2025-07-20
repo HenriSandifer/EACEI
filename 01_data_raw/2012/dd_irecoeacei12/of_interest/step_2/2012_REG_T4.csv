@@ -1,0 +1,23 @@
+﻿ID,REG,Nombre d'établissements du champ,Autoproduction d'origine thermique,Autoproduction d'origine non thermique,Autoproduction vendue,Autoproduction consommée (1),Achats (2),Consommation (1 + 2),Usage force motrice,Usages thermiques (y compris production de froid),Usage électrolyse,"Usage chauffage, informatique et autres "
+FRA,France,18740,5614,903,2687,3829,105792,109621,75112,16329,10819,7360
+IDF,Ile-de-France,1433,103,0,49,55,4927,4982,3334,1042,66,541
+HDF,Hauts-de-France,776,543,0,5,538,3993,4531,3557,575,68,331
+NOR,Normandie,678,506,s,s,333,5670,6003,5019,580,72,333
+CVL,Centre-Val de Loire,1010,173,1,75,99,3552,3650,2680,595,38,337
+NOR,Normandie,543,16,s,0,s,s,2058,1609,275,38,136
+BFC,Bourgogne-Franche-Comté,622,4,0,3,1,2361,2362,1621,483,13,245
+HDF,Hauts-de-France,1062,800,s,s,338,16625,16963,10247,1752,4456,508
+GRE,Grand Est,801,423,s,s,184,7934,8118,6500,1176,102,340
+GRE,Grand Est,752,165,s,s,83,5431,5515,4413,490,163,449
+BFC,Bourgogne-Franche-Comté,444,s,s,s,16,3116,3132,1832,246,s,s
+PAL,Pays de la Loire,1487,83,3,67,18,5736,5754,4366,895,42,450
+BRE,Bretagne,1079,24,132,6,150,3934,4084,2980,670,23,411
+NOA,Nouvelle-Aquitaine,616,8,1,1,8,1817,1825,1429,230,5,160
+NOA,Nouvelle-Aquitaine,952,426,55,209,272,5068,5340,3683,1124,305,228
+OCC,Occitanie,752,319,63,97,285,2472,2757,1791,559,s,s
+NOA,Nouvelle-Aquitaine,288,24,2,1,26,931,956,791,89,16,60
+ARA,Auvergne-Rhône-Alpes,2847,641,240,676,205,14832,15037,7799,3306,2498,1434
+ARA,Auvergne-Rhône-Alpes,553,s,s,s,11,2334,2345,1516,530,10,288
+OCC,Occitanie,402,22,s,33,s,s,1693,831,261,s,s
+PAC,Provence-Alpes-Côte d'Azur,685,s,2,s,832,7493,8325,6082,577,1381,285
+DOM,Départements d’Outre-mer,325,7,4,2,9,578,587,345,157,0,85

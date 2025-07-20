@@ -1,0 +1,7 @@
+﻿teff_code,teff_label,Nombre d’établissements,Consommation de combustibles minéraux solides,Consommation de gaz naturel et autres gaz,Consommation de biogaz et biométhane,Consommation de coke de pétrole,Consommation de butane-propane,Consommation de fioul lourd,Consommation de fioul domestique,Consommation de gazole non routier,Consommation de combustibles usuels,Consommation d’autres produits pétroliers,Consommation de liqueur noire,Consommation de bois et sous-produit du bois,Consommation d’hydrogène,Consommation de combustibles spéciaux renouvelables,Consommation de combustibles spéciaux non renouvelables,Consommation autres combustibles,Vapeur consommée,Consommation d’électricité,Total brut de la consommation,Vapeur vendue,Consommation de combustibles pour la production d’électricité,Total net de la consommation
+100-249,100 à 249 salariés,3100,544,3729,,229,75,39,59,,4675,,,424,,,195.6,617,669,,8806,,,8587
+20-49,20 à 49 salariés,11919,104,586,,30,63,22,119,,923,,,110,,38.2,4.9,136,60,,2227,,,2209
+250-499,250 à 499 salariés,1033,386,3146,,,1086,83,,,4749,2327,,303,,,25.4,3193,599,,10967,,,10288
+50-99,50 à 99 salariés,4164,257,1079,,207,41,16,61,,1661,184,0,120,,56.9,165.7,304,182,,3610,,,3603
+500+,500 salariés et plus,488,4703,2241,,,995,24,,,8058,576,0,37,,6.1,13.7,613,341,,11747,,,11604
+_T,Total,20704,5994,10781,,561,2259,185,286,,20066,3117,753,993,,279.7,405.2,4863,1850,,37357,455,612,36290

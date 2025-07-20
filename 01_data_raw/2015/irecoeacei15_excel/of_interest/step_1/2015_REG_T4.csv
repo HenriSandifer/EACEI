@@ -1,0 +1,15 @@
+Indicateurs,Autoproduction d'origine thermique,Autoproduction d'origine non thermique,Autoproduction vendue,Autoproduction consommée (1),Achats (2),Consommation (1 + 2),Usage force motrice,Usages thermiques (y compris production de froid),Usage électrolyse,Usage chauffage des locaux et autres,"Usages thermodynamiques hors chauffage des locaux (Prod. froid, PAC, CMV)"
+Toutes régions,4725,387,1168,3935,107783,111718,70492,11465,11851,7976,9934
+Île-de-France,s,0,s,15,5164,5179,2649,849,64,770,847
+Centre-Val de Loire,123,1,s,s,s,3794,2580,434,28,351,399
+Bourgogne-Franche-Comté,s,0,s,3,s,s,3367,s,s,449,416
+Normandie,478,2,40,440,8205,8645,6833,530,50,506,726
+Hauts-de-France,s,s,143,1366,19445,20811,12214,1691,4813,805,1287
+Grand Est,754,114,276,592,16579,17171,12866,2026,238,971,1070
+Pays de la Loire,75,3,36,42,5782,5824,3928,626,48,428,794
+Bretagne,13,1,1,13,4279,4292,2568,392,28,318,986
+Nouvelle-Aquitaine,398,27,152,273,7748,8021,5474,s,s,613,781
+Occitanie,s,s,68,270,s,s,2726,s,676,361,486
+Auvergne-Rhône-Alpes,118,72,94,87,18560,18647,9180,2741,3261,1940,1525
+Provence-Alpes-Côte d'Azur et Corse,783,0,s,s,s,8409,5746,277,1443,444,500
+Dom,5,2,1,6,506,512,363,s,s,19,117

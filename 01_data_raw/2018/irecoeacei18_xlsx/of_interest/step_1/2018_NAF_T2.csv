@@ -1,0 +1,29 @@
+Type d'énergie,Total des énergies,,,,"Combustibles minéraux solides (houille, lignite - charbon pauvre, coke de houille)",,,,Gaz de réseau,,,,Coke de pétrole,,,,Butane propane,,,,Fioul lourd,,,,Fioul domestique,,,,Bois,,,,Vapeur,,,,Electricité,,,
+Indicateur,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen
+Total industrie,so,so,14535,so,11146,9768,1849,166,140008,140008,3664,26,732,736,140,192,2072,2063,1054,509,184,194,84,455,344023,338238,252,0.73,2416,3863,101,42,25701,25701,638,25,110777,115032,6699,60
+07 - Extraction de minerais métalliques,so,so,s,so,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+08 - 09 - Industries extractives,so,so,132,so,0,0,0,0,385,385,11,28,0,0,0,0,1,1,1,629,1,0,1,644,87086,86106,64,0.73,s,s,s,s,s,s,s,s,s,s,s,s
+10 - Industries alimentaires,so,so,2290,so,s,s,s,s,30221,30221,816,27,s,s,s,s,66,69,43,651,41,42,24,584,38572,38471,28,0.74,s,s,s,s,3088,3088,74,24,17956,19288,1199,67
+11 - Fabrication de boissons,so,so,235,so,1,1,0,128,1769,1769,55,31,0,0,0,0,4,4,3,730,2,2,1,651,8439,8251,6,0.71,18,18,1,48,99,99,3,31,2231,2237,166,74
+12 - Fabrication de produits à base de tabac,so,so,s,so,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13 - Fabrication de textiles,so,so,132,so,0,0,0,0,1512,1512,46,31,0,0,0,0,4,4,2,604,2,2,1,630,2896,2739,2,0.7,0,0,0,0,s,s,s,s,s,s,s,s
+14 - Industrie de l'habillement,so,so,23,so,41,0,7,165,143,143,5,37,0,0,0,0,0,0,0,765,s,s,s,s,1300,1215,1,0.72,0,0,0,0,s,s,s,s,s,99,9,96
+15 - Industrie du cuir et de la chaussure,so,so,19,so,0,0,0,0,84,84,4,45,0,0,0,0,1,1,1,692,0,0,0,1250,804,803,1,0.67,0,0,0,243,55,55,1,17,141,141,13,91
+"16 - Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles - fabrication d'articles en vannerie et sparterie",so,so,217,so,13,0,1,104,826,826,24,29,0,0,0,0,4,4,3,718,2,2,1,558,24072,23727,19,0.77,471,1475,15,31,s,s,s,s,s,s,s,s
+17 - Industrie du papier et du carton,so,so,828,so,19,19,2,111,10644,10644,266,25,0,0,0,0,6,6,5,737,29,28,13,445,5559,5441,4,0.76,1073,1384,41,38,5245,5245,111,21,7408,8372,387,52
+18 - Imprimerie et reproduction d'enregistrements,so,so,115,so,0,0,0,0,600,600,25,41,0,0,0,0,1,1,1,1007,0,0,0,1000,2025,1869,1,0.59,s,s,s,s,s,s,s,s,1097,1097,87,80
+20 - Industrie chimique,so,so,3386,so,717,633,98,137,39014,39014,930,24,s,s,s,s,1888,1879,921,488,s,s,s,s,15303,15153,11,0.72,s,s,s,s,14331,14331,383,27,19020,20016,985,52
+21 - Industrie pharmaceutique,so,so,265,so,24,0,4,156,s,s,s,s,0,0,0,0,s,s,s,s,0,0,0,0,2010,1972,1,0.72,0,0,0,0,328,328,11,33,s,2586,182,70
+22 - Fabrication de produits en caoutchouc et en plastique,so,so,593,so,125,0,16,130,2818,2818,93,33,0,0,0,0,11,11,8,679,14,14,6,446,7514,7534,5,0.71,14,44,1,61,834,834,16,20,s,6890,447,68
+23 - Fabrication d'autres produits minéraux non métalliques,so,so,1199,so,496,443,79,159,20834,20834,470,23,577,588,89,155,11,11,7,675,69,69,25,360,43606,42916,30,0.68,231,236,7,29,338,338,9,27,8409,8432,482,57
+24 - Métallurgie,so,so,2812,so,8316,7924,1432,172,14531,14531,356,24,s,s,s,s,9,9,6,633,5,6,2,447,s,s,s,s,1,1,0,107,212,212,4,17,20968,21356,940,45
+"25 - Fabrication de produits métalliques, à l'exception des machines et des équipements",so,so,577,so,61,58,12,190,3771,3771,131,35,0,0,0,0,33,33,32,961,0,0,0,762,12380,12294,9,0.73,5,9,0,49,10,10,0,42,4991,4991,392,78
+"26 - Fabrication de produits informatiques, électroniques et optiques",so,so,155,so,0,0,0,0,417,417,17,40,0,0,0,0,s,s,s,s,s,s,s,s,878,880,1,0.75,0,0,0,0,49,49,1,27,1881,1882,136,72
+27 - Fabrication d'équipements électriques,so,so,215,so,81,25,17,209,1553,1553,52,34,0,0,0,0,4,4,3,676,0,0,0,801,3625,3593,3,0.74,s,s,s,s,14,14,1,53,1978,1981,138,70
+28 - Fabrication de machines et équipements n.c.a.,so,so,278,so,144,0,22,153,1661,1661,67,41,0,0,0,0,8,8,6,738,0,0,0,731,11086,11130,9,0.78,s,s,s,s,11,11,1,78,2146,2148,173,81
+29 - Industrie automobile,so,so,469,so,s,s,s,s,4103,4103,124,30,0,0,0,0,12,11,8,648,1,1,1,679,s,s,s,s,1,1,0,109,210,210,5,24,4756,4768,310,65
+30 - Fabrication d'autres matériels de transport,so,so,227,so,18,0,3,165,1319,1319,50,38,0,0,0,0,3,2,2,760,0,0,0,1000,3894,3828,3,0.81,s,s,s,s,157,157,5,33,2098,2113,161,77
+31 - Fabrication de meubles,so,so,48,so,0,0,0,0,230,230,9,40,0,0,0,0,1,1,1,731,0,0,0,0,2352,2511,2,0.67,6,59,0,78,0,0,0,0,s,416,37,88
+32 - Autres industries manufacturières,so,so,70,so,0,0,0,0,340,340,12,36,0,0,0,0,1,1,1,719,0,0,0,0,1117,1163,1,0.76,s,s,s,s,30,30,1,18,667,668,56,83
+33 - Réparation et installation de machines et d'équipements,so,so,122,so,301,0,50,165,207,207,10,47,0,0,0,0,1,1,1,727,0,0,0,0,7929,7735,6,0.76,0,0,0,0,28,28,1,35,545,545,55,101
+38 - Récupération,so,so,126,so,61,0,10,164,912,912,24,26,0,0,0,0,2,2,2,706,1,1,1,620,33990,31650,25,0.75,0,1,0,111,324,324,4,14,s,923,60,77

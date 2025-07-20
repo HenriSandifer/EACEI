@@ -1,0 +1,25 @@
+﻿ID,NAF,Quantités de gaz consommées pour la fabrication,Quantités de gaz consommées en tant que matières premières,Quantités de gaz consommées pour la production d’électricité,Quantités de gaz consommées pour le chauffage ou un autre usage,Quantités de gaz consommées,Quantités de fioul domestique consommées pour la fabrication,Quantités de fioul domestique consommées en tant que matières premières,Quantités de fioul domestique consommées pour la production d’électricité,Quantités de fioul domestique consommées pour le chauffage ou un autre usage,Quantités de fioul domestique consommées,Quantités d’hydrogène consommées en tant que matières premières,Quantités d’hydrogène utilisées pour la combustion (hors production d’électricité),Quantités d’hydrogène consommées
+_T,Total,7684.6,998.2,249.2,1015.7,9947.7,78.7,7.5,10.1,151.1,247.4,76.6,142.3,218.9
+B07T09,"Industries extractives (à l’exception de l’extraction de houille, de lignite et d’hydrocarbures)",31.7,0,0,0.6,32.4,24.6,s,s,35.9,61.1,0,0,0
+C10T12,"Fabrication de denrées alimentaires, de boissons et de produits à base de tabac",2046.2,0.7,139.4,162,2348.3,13.4,1.9,2.2,11.6,29.1,2.2,0,2.2
+13,Fabrication de textiles,55,0,0,18.2,73.2,0.3,0,0,1.8,2.2,0,0,0
+14,Industrie de l'habillement,3.9,0,0,s,s,0.3,0,0,0.6,0.9,0,0,0
+15,Industrie du cuir et de la chaussure,3.3,0,0,4.1,7.4,0,0,0,0.5,0.5,0,0,0
+16,"Travail du bois et fabrication d’articles en bois et en liège, à l’exception des meubles ; fabrication d’articles en vannerie et sparterie",41.5,0,s,s,61.7,2.8,s,s,9.7,14,0,0,0
+17,Industrie du papier et du carton,600.5,0,48.6,53.4,702.6,1.2,s,s,3.9,5.4,0,0,0
+18,Imprimerie et reproduction d'enregistrements,s,s,0,s,33.8,0,0,0.1,0.3,0.4,0,0,0
+20,Industrie chimique,1801.8,929.6,35,86.1,2852.4,6.4,s,s,6.6,s,67.6,137.7,205.3
+21,Industrie pharmaceutique,133.9,0,0,34.2,168.1,0,0,0.5,0.4,0.9,0,0,0
+22,Fabrication de produits en caoutchouc et en plastique,152.1,s,s,s,201.8,0.6,0,0.1,3.5,4.2,0,0,0
+23,Fabrication d'autres produits minéraux non métalliques,1422.1,28.1,0.4,94.3,1545,s,s,0.7,20.3,s,s,s,1.4
+24,Métallurgie,834.5,s,s,s,948.9,s,s,0.9,8.6,s,4.8,3.7,8.5
+25,"Fabrication de produits métalliques, à l'exception des machines et des équipements",149.9,1.6,0.1,84.2,235.8,0.4,0.3,0.4,9.3,10.4,s,0,s
+26,"Fabrication de produits informatiques, électroniques et optiques",s,s,0,22.8,s,s,0,s,0.8,s,0,0,0.1
+27,Fabrication d'équipements électriques,92,0,0,45.3,137.3,0,s,s,1.9,2.4,s,s,0.2
+28,Fabrication de machines et équipements n.c.a.,47.3,0.7,0.3,69.5,117.8,4,s,s,4.9,s,s,0,s
+29,Industrie automobile,134.9,0.5,2.9,92.1,230.4,0.5,0.7,0.2,2.7,4.1,0,0,0
+30,Fabrication d'autres matériels de transport,s,s,0,51.7,s,s,0,0.8,1,s,0.1,0,0.1
+31,Fabrication de meubles,5.8,0,0,8.6,14.4,0.5,0,0,1.9,2.3,0,0,0
+32,Autres industries manufacturières,18.2,0,0,18.1,36.4,0.1,0,0,0.6,0.7,0,0,0.1
+33,Réparation et installation de machines et d'équipements,s,s,0,12.6,s,4.5,s,s,3.7,s,0,0,0
+38,"Collecte, traitement et élimination des déchets ; récupération",55.3,0,0,1.2,56.5,1.4,s,s,20.5,22,0,0,0

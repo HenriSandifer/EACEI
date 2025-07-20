@@ -1,0 +1,254 @@
+{
+  "header_map": {
+    "Facture énergétique (en millions d'euros courants)": [
+      { "years": [2022, 2023], "type": "single-header", "header": "Facture énergétique (en millions d'euros courants)" },
+      { "years": [2021], "type": "single-header", "header": "Valeur des achats de l’ensemble des énergies (en millions d'euros)" },
+      { "years": [2011], "type": "multi-index", "product_contains": "Electricité (en GWh)", "indicator": "Facture énergétique totale" },
+      { "years": [2012], "type": "multi-index", "product_contains": "naf_label", "indicator": "Facture énergétique totale"},
+      { "years": [2012], "type": "multi-index", "product_contains": "reg_label", "indicator": "Facture énergétique totale"},
+      { "years": [2012], "type": "multi-index", "product_contains": "teff_label", "indicator": "Facture énergétique totale"},
+      { "years": "2013-2019", "type": "multi-index", "product_contains": "Total des énergies", "indicator": "Valeur des achats (en millions d'euros)" },
+      { "years": [2020], "type": "single-header", "header": "Valeur des achats (en millions d'euros)" }
+
+    ],
+    "Combustibles minéraux solides achetés (en milliers de tonnes)": [
+      { "years": "2010-2016", "type": "multi-index", "product_contains": "Houille", "indicator": "Quantités achetées" },
+      { "years": "2010-2016", "type": "multi-index", "product_contains": "Lignite - charbon pauvre", "indicator": "Quantités achetées" },
+      { "years": "2010-2016", "type": "multi-index", "product_contains": "Coke de houille", "indicator": "Quantités achetées" },
+      { "years": "2017-2019", "type": "multi-index", "product_contains": "Combustibles minéraux solides", "indicator": "Quantités achetées" },
+      { "years": "2020-2022", "type": "single-header", "header": "Quantités achetées de combustibles minéraux solides" }
+    ],
+    "Consommation de combustibles minéraux solides (en milliers de tonnes)": [
+      { "years": "2010-2016", "type": "multi-index", "product_contains": "Houille", "indicator": "Consommation" },
+      { "years": "2010-2016", "type": "multi-index", "product_contains": "Lignite - charbon pauvre", "indicator": "Consommation" },
+      { "years": "2010-2016", "type": "multi-index", "product_contains": "Coke de houille", "indicator": "Consommation" },
+      { "years": "2017-2019", "type": "multi-index", "product_contains": "Combustibles minéraux solides", "indicator": "Consommation" },
+      { "years": "2020-2022", "type": "single-header", "header": "Quantités consommées de combustibles minéraux solides" }
+    ],
+    "Valeur des achats de combustibles minéraux solides (en millions d'euros)": [
+      { "years": "2010-2016", "type": "multi-index", "product_contains": "Houille", "indicator": "Valeur des achats (en millions d'euros)" },
+      { "years": "2010-2016", "type": "multi-index", "product_contains": "Lignite - charbon pauvre", "indicator": "Valeur des achats (en millions d'euros)" },
+      { "years": "2010-2016", "type": "multi-index", "product_contains": "Coke de houille", "indicator": "Valeur des achats (en millions d'euros)" },
+      { "years": "2017-2019", "type": "multi-index", "product_contains": "Combustibles minéraux solides", "indicator": "Valeur des achats (en millions d'euros)" },
+      { "years": "2020-2022", "type": "single-header", "header": "Valeur des achats de combustibles minéraux solides" }
+    ],
+    "Prix moyen des combustibles minéraux solides (en €/t)": [
+      { "years": "2010-2016", "type": "multi-index", "product_contains": "Houille", "indicator": "Prix moyen" },
+      { "years": "2010-2016", "type": "multi-index", "product_contains": "Lignite - charbon pauvre", "indicator": "Prix moyen" },
+      { "years": "2010-2016", "type": "multi-index", "product_contains": "Coke de houille", "indicator": "Prix moyen" },
+      { "years": "2017-2019", "type": "multi-index", "product_contains": "Combustibles minéraux solides", "indicator": "Prix moyen" },
+      { "years": "2020-2022", "type": "single-header", "header": "Prix moyen des combustibles minéraux solides" }
+    ],
+    "Quantités achetées de gaz (en GWh)": [
+      { "years": "2010-2011", "type": "multi-index", "product_contains": "Gaz naturel de réseau", "indicator": "Quantités achetées" },
+      { "years": "2010-2011", "type": "multi-index", "product_contains": "Autres gaz de réseau", "indicator": "Quantités achetées" },
+      { "years": "2012-2019", "type": "multi-index", "product_contains": "Gaz de réseau", "indicator": "Quantités achetées" },
+      { "years": "2012-2019", "type": "multi-index", "product_contains": "Gaz  de réseau (en GWh)", "indicator": "Quantités achetées" },
+      { "years": "2020-2022", "type": "single-header", "header": "Quantités achetées de gaz" }
+    ],
+    "Consommation de gaz naturel et autres gaz (en GWh)": [
+      { "years": "2010-2011", "type": "multi-index", "product_contains": "Gaz naturel de réseau", "indicator": "Consommation" },
+      { "years": "2010-2011", "type": "multi-index", "product_contains": "Autres gaz de réseau", "indicator": "Consommation" },
+      { "years": "2012-2019", "type": "multi-index", "product_contains": "Gaz de réseau", "indicator": "Consommation" },
+      { "years": "2012-2019", "type": "multi-index", "product_contains": "Gaz  de réseau (en GWh)", "indicator": "Consommation" },
+      { "years": "2020-2021", "type": "single-header", "header": "Quantités consommées de gaz" },
+      { "years": [2022], "type": "single-header", "header": "Quantités de gaz consommées" }
+    ],
+    "Valeur des achats de gaz (en millions d'euros)": [
+      { "years": "2010-2011", "type": "multi-index", "product_contains": "Gaz naturel de réseau", "indicator": "Valeur des achats (en millions d'euros)" },
+      { "years": "2010-2011", "type": "multi-index", "product_contains": "Autres gaz de réseau", "indicator": "Valeur des achats (en millions d'euros)" },
+      { "years": "2012-2019", "type": "multi-index", "product_contains": "Gaz de réseau", "indicator": "Valeur des achats (en millions d'euros)" },
+      { "years": "2012-2019", "type": "multi-index", "product_contains": "Gaz  de réseau (en GWh)", "indicator": "Valeur des achats (en millions d'euros)" },
+      { "years": "2020-2022", "type": "single-header", "header": "Valeur des achats de gaz" }
+    ],
+    "Prix moyen annuel du gaz de réseau (en €/MWh)": [
+      { "years": "2010-2011", "type": "multi-index", "product_contains": "Gaz naturel de réseau", "indicator": "Prix moyen" },
+      { "years": "2010-2011", "type": "multi-index", "product_contains": "Autres gaz de réseau", "indicator": "Prix moyen" },
+      { "years": "2012-2019", "type": "multi-index", "product_contains": "Gaz de réseau", "indicator": "Prix moyen" },
+      { "years": "2012-2019", "type": "multi-index", "product_contains": "Gaz  de réseau (en GWh)", "indicator": "Prix moyen" },
+      { "years": "2020-2021", "type": "single-header", "header": "Prix moyen du gaz" },
+      { "years": [2022], "type": "single-header", "header": "Prix moyen annuel du gaz de réseau (en € / Mwh)" }
+    ],
+    "Quantités achetées de biogaz et biométhane (en GWh)": [
+      { "years": "2021-2022", "type": "single-header", "header": "Quantités achetées de biogaz et biométhane" }
+    ],
+    "Consommation de biogaz et biométhane (en GWh)": [
+      { "years": "2021-2022", "type": "single-header", "header": "Quantités consommées de biogaz et biométhane" }
+    ],
+    "Valeur des achats de biogaz et biométhane (en millions d'euros)": [
+      { "years": "2021-2022", "type": "single-header", "header": "Valeur des achats de biogaz et biométhane" }
+    ],
+    "Prix moyen annuel du biogaz et biométhane (en €/t)": [
+      { "years": [2021], "type": "single-header", "header": "Prix moyen du biogaz et biométhane" },
+      { "years": [2022], "type": "single-header", "header": "Prix moyen annuel du Biogaz et biométhane (en € /t)" }
+    ],
+    "Quantités achetées de coke de pétrole (en milliers de tonnes)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Coke de pétrole", "indicator": "Quantités achetées" },
+      { "years": "2020-2022", "type": "single-header", "header": "Quantités achetées de coke de pétrole" }
+    ],
+    "Consommation de coke de pétrole (en milliers de tonnes)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Coke de pétrole", "indicator": "Consommation" },
+      { "years": "2020-2022", "type": "single-header", "header": "Quantités consommées de coke de pétrole" }
+    ],
+    "Valeur des achats de coke de pétrole (en millions d'euros)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Coke de pétrole", "indicator": "Valeur des achats (en millions d'euros)" },
+      { "years": "2020-2022", "type": "single-header", "header": "Valeur des achats de coke de pétrole" }
+    ],
+    "Prix moyen annuel du coke de pétrole (en €/t)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Coke de pétrole", "indicator": "Prix moyen" },
+      { "years": "2020-2021", "type": "single-header", "header": "Prix moyen de coke de pétrole" },
+      { "years": [2022], "type": "single-header", "header": "Prix moyen annuel du coke de pétrole (en € / t)" }
+    ],
+    "Quantités achetées de butane-propane (en milliers de tonnes)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Butane propane", "indicator": "Quantités achetées" },
+      { "years": "2020-2022", "type": "single-header", "header": "Quantités achetées de butane-propane" }
+    ],
+    "Consommation de butane-propane (en milliers de tonnes)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Butane propane", "indicator": "Consommation" },
+      { "years": "2020-2022", "type": "single-header", "header": "Quantités consommées de butane-propane" }
+    ],
+    "Valeur des achats de butane-propane (en millions d'euros)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Butane propane", "indicator": "Valeur des achats (en millions d'euros)" },
+      { "years": "2020-2022", "type": "single-header", "header": "Valeur des achats de butane-propane" }
+    ],
+    "Prix moyen annuel du butane-propane (en €/t)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Butane propane", "indicator": "Prix moyen" },
+      { "years": "2020-2021", "type": "single-header", "header": "Prix moyen de butane-propane" },
+      { "years": [2022], "type": "single-header", "header": "Prix moyen annuel du butane-propane (en € / t)" }
+    ],
+    "Quantités achetées de fioul lourd (en milliers de tonnes)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Fioul lourd", "indicator": "Quantités achetées" },
+      { "years": "2020-2022", "type": "single-header", "header": "Quantités achetées de fioul lourd" }
+    ],
+    "Consommation de fioul lourd (en milliers de tonnes)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Fioul lourd", "indicator": "Consommation" },
+      { "years": "2020-2022", "type": "single-header", "header": "Quantités consommées de fioul lourd" }
+    ],
+    "Valeur des achats de fioul lourd (en millions d'euros)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Fioul lourd", "indicator": "Valeur des achats (en millions d'euros)" },
+      { "years": "2020-2022", "type": "single-header", "header": "Valeur des achats de fioul lourd" }
+    ],
+    "Prix moyen annuel du fioul lourd (en €/t)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Fioul lourd", "indicator": "Prix moyen" },
+      { "years": "2020-2021", "type": "single-header", "header": "Prix moyen de fioul lourd" },
+      { "years": [2022], "type": "single-header", "header": "Prix moyen annuel du fioul lourd (en € / t)" }
+    ],
+    "Quantités achetées de fioul domestique (en milliers de litres)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Fioul domestique", "indicator": "Quantités achetées" },
+      { "years": "2020-2022", "type": "single-header", "header": "Quantités achetées de fioul domestique" }
+    ],
+    "Consommation de fioul domestique (en milliers de litres)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Fioul domestique", "indicator": "Consommation" },
+      { "years": "2020-2022", "type": "single-header", "header": "Quantités consommées de fioul domestique" }
+    ],
+    "Valeur des achats de fioul domestique (en millions d'euros)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Fioul domestique", "indicator": "Valeur des achats (en millions d'euros)" },
+      { "years": "2020-2022", "type": "single-header", "header": "Valeur des achats de fioul domestique" }
+    ],
+    "Prix moyen annuel du fioul domestique (en €/l)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Fioul domestique", "indicator": "Prix moyen" },
+      { "years": "2020-2021", "type": "single-header", "header": "Prix moyen de fioul domestique" },
+      { "years": [2022], "type": "single-header", "header": "Prix moyen annuel du fioul domestique (en € / l)" }
+    ],
+    "Quantités achetées de gazole non routier (en milliers de litres)": [
+      { "years": "2021-2022", "type": "single-header", "header": "Quantités achetées de gazole non routier" }
+    ],
+    "Consommation de gazole non routier (en milliers de litres)": [
+      { "years": "2021-2022", "type": "single-header", "header": "Quantités consommées de gazole non routier" }
+    ],
+    "Valeur des achats de gazole non routier (en millions d'euros)": [
+      { "years": "2021-2022", "type": "single-header", "header": "Valeur des achats de gazole non routier" }
+    ],
+    "Prix moyen annuel du gazole non routier (en €/l)": [
+      { "years": [2021], "type": "single-header", "header": "Prix moyen de gazole non routier" },
+      { "years": [2022], "type": "single-header", "header": "Prix moyen annuel du gazole non routier (en € / l)" }
+    ],
+    "Quantités achetées de bois (en milliers de tonnes)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Bois", "indicator": "Quantités achetées" },
+      { "years": "2020-2022", "type": "single-header", "header": "Quantités achetées de bois" }
+    ],
+    "Consommation de bois et sous-produit du bois (en milliers de tonnes)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Bois", "indicator": "Consommation" },
+      { "years": "2020-2022", "type": "single-header", "header": "Quantités consommées de bois" }
+    ],
+    "Valeur des achats de bois (en millions d'euros)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Bois", "indicator": "Valeur des achats (en millions d'euros)" },
+      { "years": "2020-2022", "type": "single-header", "header": "Valeur des achats de bois" }
+    ],
+    "Prix moyen annuel du bois (en €/t)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Bois", "indicator": "Prix moyen" },
+      { "years": "2020-2021", "type": "single-header", "header": "Prix moyen du bois" },
+      { "years": [2022], "type": "single-header", "header": "Prix moyen annuel du bois (en € / t)" }
+    ],
+    "Vapeur achetée (en milliers de tonnes)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Vapeur", "indicator": "Quantités achetées" },
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Vapeur", "indicator": "Consommation" },
+      { "years": "2020-2022", "type": "single-header", "header": "Quantités achetées de vapeur" },
+      { "years": [2020, 2021], "type": "single-header", "header": "Quantités consommées de vapeur" }
+    ],
+    "Valeur des achats de vapeur (en millions d'euros)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Vapeur", "indicator": "Valeur des achats (en millions d'euros)" },
+      { "years": "2020-2022", "type": "single-header", "header": "Valeur des achats de vapeur" }
+    ],
+    "Prix moyen annuel de la vapeur (en €/t)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Vapeur", "indicator": "Prix moyen" },
+      { "years": "2020-2021", "type": "single-header", "header": "Prix moyen de vapeur" },
+      { "years": [2022], "type": "single-header", "header": "Prix moyen annuel de la vapeur (en € / t)" }
+    ],
+    "Quantités achetées d’hydrogène (en milliers de tonnes)": [
+      { "years": [2019], "type": "multi-index", "product_contains": "Hydrogene", "indicator": "Quantités achetées" },
+      { "years": "2021-2022", "type": "single-header", "header": "Quantités achetées d’hydrogène" }
+    ],
+    "Consommation d’hydrogène (en milliers de tonnes)": [
+      { "years": [2019], "type": "multi-index", "product_contains": "Hydrogene", "indicator": "Consommation" },
+      { "years": [2020], "type": "single-header", "header": "Quantités consommées d’hydrogènes" },
+      { "years": "2021-2022", "type": "single-header", "header": "Quantités consommées d’hydrogène" }
+    ],
+    "Quantité d’hydrogène autoproduite (en milliers de tonnes)": [
+      { "years": [2020], "type": "single-header", "header": "Quantités autoproduites d’hydrogène" },
+      { "years": [2021], "type": "single-header", "header": "Quantités autoproduites d’hydrogène" },
+      { "years": [2022], "type": "single-header", "header": "Quantités auto produites d’hydrogène" }
+    ],
+    "Valeur des achats d’hydrogène (en millions d'euros)": [
+      { "years": [2019], "type": "multi-index", "product_contains": "Hydrogene", "indicator": "Valeur des achats (en millions d'euros)" },
+      { "years": "2021-2022", "type": "single-header", "header": "Valeur des achats d’hydrogène" }
+    ],
+    "Prix moyen annuel d’hydrogène (en €/t)": [
+      { "years": [2019], "type": "multi-index", "product_contains": "Hydrogene", "indicator": "Prix moyen" },
+      { "years": [2020, 2021], "type": "single-header", "header": "Prix moyen d’hydrogène" },
+      { "years": [2022], "type": "single-header", "header": "Prix moyen annuel d’hydrogène (en €/t)" }
+    ],
+    "Quantité d’hydrogène autoproduite et consommée (en milliers de tonnes)": [
+      { "years": [2021, 2022], "type": "single-header", "header": "Autoproduction consommée" }
+    ],
+    "Quantité d’hydrogène autoproduite et vendue (en milliers de tonnes)": [
+      { "years": [2021, 2022], "type": "single-header", "header": "Autoproduction vendue d’hydrogène" }
+    ],
+    "Électricité achetée (en GWh)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Electricité", "indicator": "Quantités achetées" },
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Électricité", "indicator": "Quantités achetées" },
+      { "years": [2020, 2021], "type": "single-header", "header": "Quantités achetées d'électricité" },
+      { "years": [2022], "type": "single-header", "header": "Achats d’électricité" }
+    ],
+    "Consommation d’électricité (en GWh)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Electricité", "indicator": "Consommation" },
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Électricité", "indicator": "Consommation" },
+      { "years": "2020-2022", "type": "single-header", "header": "Quantités consommées d'électricité" }
+    ],
+    "Électricité autoproduite (en GWh)": [
+      { "years": [2020, 2021], "type": "single-header", "header": "Quantités autoproduites d’électricité" },
+      { "years": [2022], "type": "single-header", "header": "Autoproduction électricité" }
+    ],
+    "Valeur des achats d'électricité (en millions d'euros)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Electricité", "indicator": "Valeur des achats (en millions d'euros)" },
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Électricité", "indicator": "Valeur des achats (en millions d'euros)" },
+      { "years": "2020-2022", "type": "single-header", "header": "Valeur des achats d'électricité" }
+    ],
+    "Prix moyen annuel de l’électricité (en €/MWh)": [
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Electricité", "indicator": "Prix moyen" },
+      { "years": "2010-2019", "type": "multi-index", "product_contains": "Électricité", "indicator": "Prix moyen" },
+      { "years": [2020, 2021], "type": "single-header", "header": "Prix moyen d’électricité" },
+      { "years": [2022], "type": "single-header", "header": "Prix moyen annuel de l’électricité (en € / Mwh)" }
+    ]
+  }
+}

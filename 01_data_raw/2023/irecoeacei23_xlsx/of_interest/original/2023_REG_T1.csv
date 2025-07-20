@@ -1,0 +1,15 @@
+ID,REG,Nombre d’établissements,Consommation de combustibles minéraux solides,Consommation de gaz naturel et autres gaz,Consommation de biogaz et biométhane,Consommation de coke de pétrole,Consommation de butane-propane,Consommation de fioul lourd,Consommation de fioul domestique,Consommation de gazole non routier,Consommation de combustibles usuels,Consommation d’autres produits pétroliers,Consommation de liqueur noire,Consommation de bois et sous-produit du bois,Consommation d’hydrogène,Consommation de combustibles spéciaux renouvelables,Consommation de combustibles spéciaux non renouvelables,Consommation autres combustibles,Vapeur consommée,Consommation d’électricité,Total brut de la consommation,Vapeur vendue,Consommation de combustibles pour la production d'électricité,Total net de la consommation
+Île-de-France,1550,6.8,283.8,2,1.1,2.3,9.7,1,7.6,312.2,s,0,s,s,s,3.2,13.5,12.8,335.7,674.1,0,1.1,673
+Centre-Val de Loire,1005,27,300.4,3.2,22.1,s,s,3.7,7.8,367.9,0,0,s,0.9,6.5,s,38.7,10.5,273.3,690.4,0,23.4,667
+Bourgogne-Franche-Comté,1334,7.1,439.7,2.2,s,17.8,s,7.1,9.6,491.7,0,0,s,50.7,s,s,s,s,457.5,1181.8,s,s,1069
+Normandie,1268,s,s,0.6,s,s,26.5,4,s,1911.4,681.1,0,44.1,s,s,s,938.1,217.6,593.6,3660.7,6.1,5.9,3648.7
+Hauts-de-France,1895,s,1625,7.4,120,s,s,8.7,s,3782.9,s,0,75.5,s,s,66.7,356.8,180.6,1653.9,5974.3,12.3,210.3,5751.6
+Grand Est,2154,404.1,1745.4,15.7,58.1,19.8,s,s,23.2,2262.4,s,0,362,s,53.5,110,569.1,244.8,1223.7,4300,90.7,145.6,4063.7
+Pays de la Loire,1849,10.8,334.6,3.2,s,s,3.8,5.1,11.6,423.7,0,0,53.6,s,s,36,109.5,50.3,454.8,1038.3,s,s,1034.2
+Bretagne,1246,0,334.9,s,0,30.1,s,s,10.2,382.3,0,s,28.8,0,s,0,33.3,47.2,367.7,830.5,s,s,823.7
+Nouvelle-Aquitaine,2043,45.7,486.2,7.3,s,43.1,34.1,s,24.4,661.7,s,457.6,246.6,0.2,65.1,s,814.8,286.8,640.7,2404,s,s,2113.4
+Occitanie,1441,64.7,s,s,s,15.1,5.7,2.7,19.1,451.7,s,s,240.4,0,s,32.9,450.1,38.7,361.9,1302.4,0,2.1,1300.3
+Auvergne-Rhône-Alpes,3628,127,977.4,37,145.3,64.8,30.3,12.3,11.9,1369.1,24.1,0,94.6,23.8,13.1,69.9,225.5,222.2,1362.6,3179.3,16.6,17,3145.7
+Provence-Alpes-Côte d'Azur,885,s,686.9,s,s,912,s,14.2,s,2891.7,213.6,s,35.4,144.1,8.2,s,520.9,296.1,650.4,4359.1,s,s,4256.8
+Départements d'Outre-mer,313,0,1.8,s,0,0.4,0,7.4,8.4,18,0,0,0.3,s,2.1,s,s,s,37.5,95.7,0,0.2,95.5
+France,20612,3690.4,8704.8,105.3,566.2,1907.7,175.2,89,193.4,15326.7,1121.3,715.1,1281.3,477,223.9,395.6,4214.2,1736.3,8413.3,29690.4,404.6,643.1,28642.7

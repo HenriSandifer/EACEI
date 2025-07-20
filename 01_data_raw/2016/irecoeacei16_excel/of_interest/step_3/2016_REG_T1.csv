@@ -1,0 +1,15 @@
+﻿reg_code,reg_label,Nombre d’établissements,Consommation de combustibles minéraux solides,Consommation de gaz naturel et autres gaz,Consommation de biogaz et biométhane,Consommation de coke de pétrole,Consommation de butane-propane,Consommation de fioul lourd,Consommation de fioul domestique,Consommation de gazole non routier,Consommation de combustibles usuels,Consommation d’autres produits pétroliers,Consommation de liqueur noire,Consommation de bois et sous-produit du bois,Consommation d’hydrogène,Consommation de combustibles spéciaux renouvelables,Consommation de combustibles spéciaux non renouvelables,Consommation autres combustibles,Vapeur consommée,Consommation d’électricité,Total brut de la consommation,Vapeur vendue,Consommation de combustibles pour la production d’électricité,Total net de la consommation
+ARA,Auvergne-Rhône-Alpes,3680,33.0,1278,,107,,58,29,,1720,,0,76,,25,,220,232,,3833,,,3786
+BFC,Bourgogne-Franche-Comté,1331,67.0,479,,0,20,20,18,,604,0,0,94,,3,0,97,118,,1336,,,1227
+BRE,Bretagne,1220,8.0,392,,0,25,,10,,460,0,,,,0,0,14,34,,883,,,873
+CVL,Centre-Val de Loire,1088,20.0,405,,50,9,2,8,,494,0,0,52,,17,0,69,6,,897,,,872
+DOM,Départements d’Outre-mer,301,0.0,0,,0,1,2,19,,23,,0,,,,0,27,66,,159,,,158
+FRA,France,20957,6370.0,10732,,724,2541,416,282,,21066,1476,777,977,,320,369,3919,1708,,36470,507,467,35497
+GRE,Grand Est,2176,1395.0,2200,,70,24,22,45,,3756,,0,246,,,111,504,182,,5911,,,5760
+HDF,Hauts-de-France,1988,110.0,1970,,,,,32,,5388,230,0,27,,12,63,331,171,,7779,,,7552
+IDF,Ile-de-France,1790,27.0,669,,10,4,1,11,,721,0,0,,,,0,4,4,,1147,,,1139
+NOA,Nouvelle-Aquitaine,2013,13.0,550,,44,,136,27,,892,8,484,201,,90,9,793,351,,2706,,,2558
+NOR,Normandie,1319,2.0,1291,,,,,14,,2233,554,0,129,,70,17,770,246,,3993,,,3951
+OCC,Occitanie,1380,0.0,320,,,11,16,18,,500,,,,,6,33,265,32,,1235,,,1233
+PAC,Provence-Alpes-Côte d'Azur,852,1475.0,681,,128,1325,33,34,,3676,527,,,,13,13,720,196,,5281,,,5088
+PAL,Pays de la Loire,1819,8.0,498,,40,22,12,17,,598,0,0,38,,,,105,71,,1310,,,1298

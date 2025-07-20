@@ -1,0 +1,22 @@
+INDICATEUR,Production d'origine thermique,Production d'origine hydraulique,Ventes,Autoconsommation (1),Achats (2),Consommation (1 + 2)
+Toutes régions,4127,666,1859,2935,89720,92654
+Ile-de-France,s,s,29,54,4965,5019
+Picardie,s,s,s,s,s,3153
+Haute-Normandie,s,s,143,359,5387,5746
+Centre,s,s,120,21,3228,3249
+Basse-Normandie,s,s,s,s,s,1192
+Bourgogne,1,s,s,1,2098,2100
+Nord-Pas-de-Calais,133,s,s,130,14647,14777
+Lorraine,462,109,332,239,8048,8287
+Alsace,142,s,s,113,4610,4724
+Franche-Comté,s,s,s,s,s,3122
+Pays de la Loire,71,0,60,11,3662,3673
+Bretagne,4,0,0,4,1678,1682
+Poitou-Charentes,s,s,s,s,s,1659
+Aquitaine,s,s,31,447,3892,4339
+Midi-Pyrénées,300,70,90,280,1918,2198
+Limousin,36,s,s,s,s,735
+Rhône-Alpes,s,s,564,194,13310,13504
+Auvergne,103,s,s,s,s,2013
+Languedoc-Roussillon,s,s,s,s,s,1533
+PACA et Corse,846,s,s,726,6370,7096

@@ -1,0 +1,16 @@
+Type d'énergie,Total des énergies,,,,"Combustibles minéraux solides (houille, lignite - charbon pauvre, coke de houille)",,,,Gaz de réseau,,,,Coke de pétrole,,,,Butane propane,,,,Fioul lourd,,,,Fioul domestique,,,,Bois,,,,Vapeur,,,,Electricité,,,
+Indicateur,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen,Quantités achetées,Consommation,Valeur des achats (en millions d'euros),Prix moyen
+Toutes régions,so,so,14535,so,11146,9768,1849,166,140008,140008,3664,26,732,736,140,192,2072,2063,1054,509,184,194,84,455,344023,338238,252,0.73,2416,3863,101,42,25701,25701,638,25,110777,115032,6699,60
+Île-de-France,so,so,618,so,149,61,20,134,7634,7634,175,23,14,13,3,185,6,6,5,803,1,1,1,462,16121,15964,12,0.72,s,s,s,s,768,768,19,25,5584,5611,384,69
+Centre-Val de Loire,so,so,449,so,153,42,21,134,4863,4863,141,29,50,49,7,139,14,14,10,659,3,3,2,475,11156,11180,9,0.85,s,s,s,s,155,155,4,28,3606,3684,252,70
+Bourgogne-Franche-Comté,so,so,600,so,47,44,9,193,4908,4908,145,30,0,0,0,0,19,19,11,613,17,17,6,363,15268,14840,11,0.73,s,s,s,s,1555,1555,53,34,s,5806,362,62
+Normandie,so,so,1239,so,s,s,s,s,18308,18308,458,25,s,s,s,s,s,s,s,s,16,16,7,430,20186,19825,15,0.72,403,432,18,45,3681,3681,102,28,8202,9006,519,63
+Hauts-de-France,so,so,2795,so,s,s,s,s,27249,27249,688,25,169,161,49,288,s,s,s,s,4,6,2,466,37414,36248,26,0.71,s,s,s,s,2446,2446,58,24,20544,21786,1081,53
+Grand Est,so,so,2323,so,1936,1787,311,161,29808,29808,759,25,62,63,8,126,18,17,13,708,15,15,6,444,53193,53018,40,0.75,s,s,s,s,3875,3875,88,23,17208,17915,1043,61
+Pays de la Loire,so,so,686,so,229,15,39,169,5063,5063,155,31,60,61,6,107,13,13,18,1367,7,12,4,602,24026,23334,17,0.73,s,s,s,s,827,827,18,21,s,6185,423,69
+Bretagne,so,so,500,so,s,s,s,s,4581,4581,140,31,0,0,0,0,28,28,17,607,s,s,s,s,14660,14605,11,0.73,s,s,s,s,696,696,18,25,s,4328,304,70
+Nouvelle-Aquitaine,so,so,880,so,141,136,24,167,7533,7533,213,28,s,s,s,s,26,26,18,675,s,s,s,s,34321,33820,25,0.74,525,995,22,42,4575,4575,100,22,7149,7545,456,64
+Occitanie,so,so,565,so,379,79,59,157,4140,4140,114,28,88,91,11,126,8,8,6,744,15,16,8,547,25115,24781,19,0.75,s,s,s,s,702,702,17,24,4720,4987,328,69
+Auvergne-Rhône-Alpes,so,so,1850,so,429,365,95,221,16344,16344,443,27,143,141,39,275,25,28,17,684,42,44,18,414,46222,44337,34,0.73,292,329,9,31,3103,3103,80,26,19373,19496,1100,57
+Provence-Alpes-Côte d'Azur et Corse,so,so,1954,so,s,s,s,s,9579,9579,232,24,82,92,10,121,s,s,s,s,18,18,7,397,25609,25633,19,0.74,s,s,s,s,2906,2906,73,25,7634,8177,396,52
+Dom,so,so,77,so,0,0,0,0,0,0,0,186,0,0,0,0,s,s,s,s,s,s,s,s,20732,20653,14,0.68,s,s,s,s,412,412,8,19,502,508,52,104

@@ -1,0 +1,15 @@
+﻿ID,REG,Nombre d'établissements,Houille,Lignite - charbon pauvre,Coke de houille,Gaz de réseau,Coke de pétrole,Butane propane,Fioul lourd,Fioul domestique,Total combustibles usuels,Autres produits pétroliers,Liqueurs noires,Bois et sous-produit du bois,Combustibles spéciaux renouvelables,Combustibles spéciaux non renouvelables,Total autres combustibles,Total combustibles,Achats de vapeur,Electricité,Total brut,Vapeur vendue,Consommation pour production d'électricité,Total net
+FRA,France,20957,5895,135,340,10732,724,2541,416,282,21066,1476,777,977,320,369,3919,24985,1708,9777,36470,507,467,35497
+IDF,Ile-de-France,1790,26,0,1,669,10,4,1,11,721,0,0,s,s,0,4,725,4,417,1147,ns,ns,1139
+CVL,Centre-Val de Loire,1088,19,0,1,405,50,9,2,8,494,0,0,52,17,0,69,563,6,328,897,ns,ns,872
+BFC,Bourgogne-Franche-Comté,1331,58,0,9,479,0,20,20,18,604,0,0,94,3,0,97,701,118,518,1336,ns,ns,1227
+NOR,Normandie,1319,s,0,2,1291,s,s,s,14,2233,554,0,129,70,17,770,3003,246,744,3993,ns,ns,3951
+HDF,Hauts-de-France,1988,s,s,110,1970,s,s,s,32,5388,230,0,27,12,63,331,5720,171,1888,7779,ns,ns,7552
+GRE,Grand Est,2176,1218,78,99,2200,70,24,22,45,3756,s,0,246,s,111,504,4261,182,1469,5911,ns,ns,5760
+PAL,Pays de la Loire,1819,s,s,8,498,40,22,12,17,598,0,0,38,s,s,105,703,71,536,1310,ns,ns,1298
+BRE,Bretagne,1220,s,0,8,392,0,25,s,10,460,0,s,s,0,0,14,474,34,375,883,ns,ns,873
+NOA,Nouvelle-Aquitaine,2013,s,0,13,550,44,s,136,27,892,8,484,201,90,9,793,1685,351,670,2706,ns,ns,2558
+OCC,Occitanie,1380,s,0,0,320,s,11,16,18,500,s,s,s,6,33,265,764,32,439,1235,ns,ns,1233
+ARA,Auvergne-Rhône-Alpes,3680,s,s,33,1278,107,s,58,29,1720,s,0,76,25,s,220,1940,232,1660,3833,ns,ns,3786
+PAC,Provence-Alpes-Côte d'Azur,852,1418,0,57,681,128,1325,33,34,3676,527,s,s,13,13,720,4396,196,688,5281,ns,ns,5088
+DOM,Départements d’Outre-mer,301,0,0,0,0,0,1,2,19,23,s,0,s,s,0,27,49,66,44,159,ns,ns,158
