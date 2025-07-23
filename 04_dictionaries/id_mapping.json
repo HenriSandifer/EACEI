@@ -1,0 +1,1020 @@
+{
+  "NAF": [
+    {
+      "naf_code": "13",
+      "naf_label": "Fabrication de textiles",
+      "naf_id": 101
+    },
+    {
+      "naf_code": "14",
+      "naf_label": "Industrie de l'habillement",
+      "naf_id": 102
+    },
+    {
+      "naf_code": "15",
+      "naf_label": "Industrie du cuir et de la chaussure",
+      "naf_id": 103
+    },
+    {
+      "naf_code": "16",
+      "naf_label": "Travail du bois et fabrication d’articles en bois et en liège, à l’exception des meubles ; fabrication d’articles en vannerie et sparterie",
+      "naf_id": 104
+    },
+    {
+      "naf_code": "17",
+      "naf_label": "Industrie du papier et du carton",
+      "naf_id": 105
+    },
+    {
+      "naf_code": "18",
+      "naf_label": "Imprimerie et reproduction d'enregistrements",
+      "naf_id": 106
+    },
+    {
+      "naf_code": "20",
+      "naf_label": "Industrie chimique",
+      "naf_id": 107
+    },
+    {
+      "naf_code": "21",
+      "naf_label": "Industrie pharmaceutique",
+      "naf_id": 108
+    },
+    {
+      "naf_code": "22",
+      "naf_label": "Fabrication de produits en caoutchouc et en plastique",
+      "naf_id": 109
+    },
+    {
+      "naf_code": "23",
+      "naf_label": "Fabrication d'autres produits minéraux non métalliques",
+      "naf_id": 110
+    },
+    {
+      "naf_code": "24",
+      "naf_label": "Métallurgie",
+      "naf_id": 111
+    },
+    {
+      "naf_code": "25",
+      "naf_label": "Fabrication de produits métalliques, à l'exception des machines et des équipements",
+      "naf_id": 112
+    },
+    {
+      "naf_code": "26",
+      "naf_label": "Fabrication de produits informatiques, électroniques et optiques",
+      "naf_id": 113
+    },
+    {
+      "naf_code": "27",
+      "naf_label": "Fabrication d'équipements électriques",
+      "naf_id": 114
+    },
+    {
+      "naf_code": "28",
+      "naf_label": "Fabrication de machines et équipements n.c.a.",
+      "naf_id": 115
+    },
+    {
+      "naf_code": "29",
+      "naf_label": "Industrie automobile",
+      "naf_id": 116
+    },
+    {
+      "naf_code": "30",
+      "naf_label": "Fabrication d'autres matériels de transport",
+      "naf_id": 117
+    },
+    {
+      "naf_code": "31",
+      "naf_label": "Fabrication de meubles",
+      "naf_id": 118
+    },
+    {
+      "naf_code": "32",
+      "naf_label": "Autres industries manufacturières",
+      "naf_id": 119
+    },
+    {
+      "naf_code": "33",
+      "naf_label": "Réparation et installation de machines et d'équipements",
+      "naf_id": 120
+    },
+    {
+      "naf_code": "38",
+      "naf_label": "Collecte, traitement et élimination des déchets ; récupération",
+      "naf_id": 121
+    },
+    {
+      "naf_code": "B07T09",
+      "naf_label": "Industries extractives (à l’exception de l’extraction de houille, de lignite et d’hydrocarbures)",
+      "naf_id": 122
+    },
+    {
+      "naf_code": "C10T12",
+      "naf_label": "Fabrication de denrées alimentaires, de boissons et de produits à base de tabac",
+      "naf_id": 123
+    },
+    {
+      "naf_code": "_T",
+      "naf_label": "Total",
+      "naf_id": 124
+    }
+  ],
+  "REG": [
+    {
+      "reg_code": "ARA",
+      "reg_label": "Auvergne-Rhône-Alpes",
+      "reg_id": 201
+    },
+    {
+      "reg_code": "BFC",
+      "reg_label": "Bourgogne-Franche-Comté",
+      "reg_id": 202
+    },
+    {
+      "reg_code": "BRE",
+      "reg_label": "Bretagne",
+      "reg_id": 203
+    },
+    {
+      "reg_code": "CVL",
+      "reg_label": "Centre-Val de Loire",
+      "reg_id": 204
+    },
+    {
+      "reg_code": "DOM",
+      "reg_label": "Départements d’Outre-mer",
+      "reg_id": 205
+    },
+    {
+      "reg_code": "FRA",
+      "reg_label": "France",
+      "reg_id": 206
+    },
+    {
+      "reg_code": "GRE",
+      "reg_label": "Grand Est",
+      "reg_id": 207
+    },
+    {
+      "reg_code": "HDF",
+      "reg_label": "Hauts-de-France",
+      "reg_id": 208
+    },
+    {
+      "reg_code": "IDF",
+      "reg_label": "Ile-de-France",
+      "reg_id": 209
+    },
+    {
+      "reg_code": "NOA",
+      "reg_label": "Nouvelle-Aquitaine",
+      "reg_id": 210
+    },
+    {
+      "reg_code": "NOR",
+      "reg_label": "Normandie",
+      "reg_id": 211
+    },
+    {
+      "reg_code": "OCC",
+      "reg_label": "Occitanie",
+      "reg_id": 212
+    },
+    {
+      "reg_code": "PAC",
+      "reg_label": "Provence-Alpes-Côte d'Azur",
+      "reg_id": 213
+    },
+    {
+      "reg_code": "PAL",
+      "reg_label": "Pays de la Loire",
+      "reg_id": 214
+    }
+  ],
+  "TEFF": [
+    {
+      "teff_code": "100-249",
+      "teff_label": "100 à 249 salariés",
+      "teff_id": 301
+    },
+    {
+      "teff_code": "20-49",
+      "teff_label": "20 à 49 salariés",
+      "teff_id": 302
+    },
+    {
+      "teff_code": "250-499",
+      "teff_label": "250 à 499 salariés",
+      "teff_id": 303
+    },
+    {
+      "teff_code": "50-99",
+      "teff_label": "50 à 99 salariés",
+      "teff_id": 304
+    },
+    {
+      "teff_code": "500+",
+      "teff_label": "500 salariés et plus",
+      "teff_id": 305
+    },
+    {
+      "teff_code": "_T",
+      "teff_label": "Total",
+      "teff_id": 306
+    }
+  ],
+  "T1": [
+    {
+      "T1_code": "T1_INFO_NB-ETAB",
+      "T1_label": "Nombre d’établissements",
+      "ind_id": 1001,
+      "T1_unit": "",
+      "T1_unit_label":""
+    },
+    {
+      "T1_code": "T1_CONSO_CMS_KTEP",
+      "T1_label": "Consommation de combustibles minéraux solides",
+      "ind_id": 1002,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_CONSO_GAZ_KTEP",
+      "T1_label": "Consommation de gaz naturel et autres gaz",
+      "ind_id": 1003,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_CONSO_BIOGAZ_KTEP",
+      "T1_label": "Consommation de biogaz et biométhane",
+      "ind_id": 1004,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_CONSO_COKE-PET_KTEP",
+      "T1_label": "Consommation de coke de pétrole",
+      "ind_id": 1005,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_CONSO_BUT-PROP_KTEP",
+      "T1_label": "Consommation de butane-propane",
+      "ind_id": 1006,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_CONSO_FIOUL-LRD_KTEP",
+      "T1_label": "Consommation de fioul lourd",
+      "ind_id": 1007,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_CONSO_FIOUL-DOM_KTEP",
+      "T1_label": "Consommation de fioul domestique",
+      "ind_id": 1008,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_CONSO_GNR_KTEP",
+      "T1_label": "Consommation de gazole non routier",
+      "ind_id": 1009,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_CONSO_COMB-USUEL_KTEP",
+      "T1_label": "Consommation de combustibles usuels",
+      "ind_id": 1010,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_CONSO_AUTRES-PET_KTEP",
+      "T1_label": "Consommation d’autres produits pétroliers",
+      "ind_id": 1011,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_CONSO_LIQ-NOIRE_KTEP",
+      "T1_label": "Consommation de liqueur noire",
+      "ind_id": 1012,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_CONSO_BOIS_KTEP",
+      "T1_label": "Consommation de bois et sous-produit du bois",
+      "ind_id": 1013,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_CONSO_HYDRO_KTEP",
+      "T1_label": "Consommation d’hydrogène",
+      "ind_id": 1014,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_CONSO_CSR_KTEP",
+      "T1_label": "Consommation de combustibles spéciaux renouvelables",
+      "ind_id": 1015,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_CONSO_CSNR_KTEP",
+      "T1_label": "Consommation de combustibles spéciaux non renouvelables",
+      "ind_id": 1016,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_CONSO_AUTRES-COMB_KTEP",
+      "T1_label": "Consommation autres combustibles",
+      "ind_id": 1017,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_CONSO_VAPEUR_KTEP",
+      "T1_label": "Vapeur consommée",
+      "ind_id": 1018,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_CONSO_ELEC_KTEP",
+      "T1_label": "T1 Consommation d’électricité T1",
+      "ind_id": 1019,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_TOTAL_BRUT_KTEP",
+      "T1_label": "Total brut de la consommation",
+      "ind_id": 1020,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_VENTE_VAPEUR_KTEP",
+      "T1_label": "Vapeur vendue",
+      "ind_id": 1021,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_CONSO_PROD-ELEC_KTEP",
+      "T1_label": "Consommation de combustibles pour la production d’électricité",
+      "ind_id": 1022,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T1_code": "T1_TOTAL_NET_KTEP",
+      "T1_label": "Total net de la consommation",
+      "ind_id": 1023,
+      "T1_unit": "kTEP",
+      "T1_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    }
+  ],
+  "T2": [
+    {
+      "T2_code": "T2_VALEUR_FACT-ENERG_EUR",
+      "T2_label": "Facture énergétique (en millions d'euros courants)",
+      "ind_id": 2001,
+      "T2_unit": "M€",
+      "T2_unit_label":"Millions d'euros"
+    },
+    {
+      "T2_code": "T2_ACHAT_CMS_T",
+      "T2_label": "Combustibles minéraux solides achetés (en milliers de tonnes)",
+      "ind_id": 2002,
+      "T2_unit": "KT",
+      "T2_unit_label":"Milliers de tonnes"
+    },
+    {
+      "T2_code": "T2_CONSO_CMS_T",
+      "T2_label": "Consommation de combustibles minéraux solides (en milliers de tonnes)",
+      "ind_id": 2003,
+      "T2_unit": "KT",
+      "T2_unit_label":"Milliers de tonnes"
+    },
+    {
+      "T2_code": "T2_VALEUR_CMS_EUR",
+      "T2_label": "Valeur des achats de combustibles minéraux solides (en millions d'euros)",
+      "ind_id": 2004,
+      "T2_unit": "M€",
+      "T2_unit_label":"Millions d'euros"
+    },
+    {
+      "T2_code": "T2_PRIX_CMS_EUR-T",
+      "T2_label": "Prix moyen des combustibles minéraux solides (en €/t)",
+      "ind_id": 2005,
+      "T2_unit": "€/T",
+      "T2_unit_label":"Euros par tonne"
+    },
+    {
+      "T2_code": "T2_ACHAT_GAZ_GWH",
+      "T2_label": "Quantités achetées de gaz (en GWh)",
+      "ind_id": 2006,
+      "T2_unit": "GWh",
+      "T2_unit_label":"Gigawattheure"
+    },
+    {
+      "T2_code": "T2_CONSO_GAZ_GWH",
+      "T2_label": "Consommation de gaz naturel et autres gaz (en GWh)",
+      "ind_id": 2007,
+      "T2_unit": "GWh",
+      "T2_unit_label":"Gigawattheure"
+    },
+    {
+      "T2_code": "T2_VALEUR_GAZ_EUR",
+      "T2_label": "Valeur des achats de gaz (en millions d'euros)",
+      "ind_id": 2008,
+      "T2_unit": "M€",
+      "T2_unit_label":"Millions d'euros"
+    },
+    {
+      "T2_code": "T2_PRIX_GAZ_EUR-MWH",
+      "T2_label": "Prix moyen annuel du gaz de réseau (en €/MWh)",
+      "ind_id": 2009,
+      "T2_unit": "€/MWh",
+      "T2_unit_label":"Euros par meggawattheure"
+    },
+    {
+      "T2_code": "T2_ACHAT_BIOGAZ_GWH",
+      "T2_label": "Quantités achetées de biogaz et biométhane (en GWh)",
+      "ind_id": 2010,
+      "T2_unit": "GWh",
+      "T2_unit_label":"Gigawattheure"
+    },
+    {
+      "T2_code": "T2_CONSO_BIOGAZ_GWH",
+      "T2_label": "Consommation de biogaz et biométhane (en GWh)",
+      "ind_id": 2011,
+      "T2_unit": "GWh",
+      "T2_unit_label":"Gigawattheure"
+    },
+    {
+      "T2_code": "T2_VALEUR_BIOGAZ_EUR",
+      "T2_label": "Valeur des achats de biogaz et biométhane (en millions d'euros)",
+      "ind_id": 2012,
+      "T2_unit": "M€",
+      "T2_unit_label":"Millions d'euros"
+    },
+    {
+      "T2_code": "T2_PRIX_BIOGAZ_EUR-T",
+      "T2_label": "Prix moyen annuel du biogaz et biométhane (en €/t)",
+      "ind_id": 2013,
+      "T2_unit": "€/T",
+      "T2_unit_label":"Euros par tonne"
+    },
+    {
+      "T2_code": "T2_ACHAT_COKE-PET_T",
+      "T2_label": "Quantités achetées de coke de pétrole (en milliers de tonnes)",
+      "ind_id": 2014,
+      "T2_unit": "KT",
+      "T2_unit_label":"Milliers de tonnes"
+    },
+    {
+      "T2_code": "T2_CONSO_COKE-PET_T",
+      "T2_label": "Consommation de coke de pétrole (en milliers de tonnes)",
+      "ind_id": 2015,
+      "T2_unit": "KT",
+      "T2_unit_label":"Milliers de tonnes"
+    },
+    {
+      "T2_code": "T2_VALEUR_COKE-PET_EUR",
+      "T2_label": "Valeur des achats de coke de pétrole (en millions d'euros)",
+      "ind_id": 2016,
+      "T2_unit": "M€",
+      "T2_unit_label":"Millions d'euros"
+    },
+    {
+      "T2_code": "T2_PRIX_COKE-PET_EUR-T",
+      "T2_label": "Prix moyen annuel du coke de pétrole (en €/t)",
+      "ind_id": 2017,
+      "T2_unit": "€/T",
+      "T2_unit_label":"Euros par tonne"
+    },
+    {
+      "T2_code": "T2_ACHAT_BUT-PROP_T",
+      "T2_label": "Quantités achetées de butane-propane (en milliers de tonnes)",
+      "ind_id": 2018,
+      "T2_unit": "KT",
+      "T2_unit_label":"Milliers de tonnes"
+    },
+    {
+      "T2_code": "T2_CONSO_BUT-PROP_T",
+      "T2_label": "Consommation de butane-propane (en milliers de tonnes)",
+      "ind_id": 2019,
+      "T2_unit": "KT",
+      "T2_unit_label":"Milliers de tonnes"
+    },
+    {
+      "T2_code": "T2_VALEUR_BUT-PROP_EUR",
+      "T2_label": "Valeur des achats de butane-propane (en millions d'euros)",
+      "ind_id": 2020,
+      "T2_unit": "M€",
+      "T2_unit_label":"Millions d'euros"
+    },
+    {
+      "T2_code": "T2_PRIX_BUT-PROP_EUR-T",
+      "T2_label": "Prix moyen annuel du butane-propane (en €/t)",
+      "ind_id": 2021,
+      "T2_unit": "€/T",
+      "T2_unit_label":"Euros par tonne"
+    },
+    {
+      "T2_code": "T2_ACHAT_FIOUL-LRD_T",
+      "T2_label": "Quantités achetées de fioul lourd (en milliers de tonnes)",
+      "ind_id": 2022,
+      "T2_unit": "KT",
+      "T2_unit_label":"Milliers de tonnes"
+    },
+    {
+      "T2_code": "T2_CONSO_FIOUL-LRD_T",
+      "T2_label": "Consommation de fioul lourd (en milliers de tonnes)",
+      "ind_id": 2023,
+      "T2_unit": "KT",
+      "T2_unit_label":"Milliers de tonnes"
+    },
+    {
+      "T2_code": "T2_VALEUR_FIOUL-LRD_EUR",
+      "T2_label": "Valeur des achats de fioul lourd (en millions d'euros)",
+      "ind_id": 2024,
+      "T2_unit": "M€",
+      "T2_unit_label":"Millions d'euros"
+    },
+    {
+      "T2_code": "T2_PRIX_FIOUL-LRD_EUR-T",
+      "T2_label": "Prix moyen annuel du fioul lourd (en €/t)",
+      "ind_id": 2025,
+      "T2_unit": "€/T",
+      "T2_unit_label":"Euros par tonne"
+    },
+    {
+      "T2_code": "T2_ACHAT_FIOUL-DOM_L",
+      "T2_label": "Quantités achetées de fioul domestique (en milliers de litres)",
+      "ind_id": 2026,
+      "T2_unit": "KL",
+      "T2_unit_label":"Milliers de litres"
+    },
+    {
+      "T2_code": "T2_CONSO_FIOUL-DOM_L",
+      "T2_label": "Consommation de fioul domestique (en milliers de litres)",
+      "ind_id": 2027,
+      "T2_unit": "KL",
+      "T2_unit_label":"Milliers de litres"
+    },
+    {
+      "T2_code": "T2_VALEUR_FIOUL-DOM_EUR",
+      "T2_label": "Valeur des achats de fioul domestique (en millions d'euros)",
+      "ind_id": 2028,
+      "T2_unit": "M€",
+      "T2_unit_label":"Millions d'euros"
+    },
+    {
+      "T2_code": "T2_PRIX_FIOUL-DOM_EUR-L",
+      "T2_label": "Prix moyen annuel du fioul domestique (en €/l)",
+      "ind_id": 2029,
+      "T2_unit": "€/L",
+      "T2_unit_label":"Euros par litre"
+    },
+    {
+      "T2_code": "T2_ACHAT_GNR_L",
+      "T2_label": "Quantités achetées de gazole non routier (en milliers de litres)",
+      "ind_id": 2030,
+      "T2_unit": "KL",
+      "T2_unit_label":"Milliers de litres"
+    },
+    {
+      "T2_code": "T2_CONSO_GNR_L",
+      "T2_label": "Consommation de gazole non routier (en milliers de litres)",
+      "ind_id": 2031,
+      "T2_unit": "KL",
+      "T2_unit_label":"Milliers de litres"
+    },
+    {
+      "T2_code": "T2_VALEUR_GNR_EUR",
+      "T2_label": "Valeur des achats de gazole non routier (en millions d'euros)",
+      "ind_id": 2032,
+      "T2_unit": "M€",
+      "T2_unit_label":"Milliers d'euros"
+    },
+    {
+      "T2_code": "T2_PRIX_GNR_EUR-L",
+      "T2_label": "Prix moyen annuel du gazole non routier (en €/l)",
+      "ind_id": 2033,
+      "T2_unit": "€/L",
+      "T2_unit_label":"Euros par litre"
+    },
+    {
+      "T2_code": "T2_ACHAT_BOIS_T",
+      "T2_label": "Quantités achetées de bois (en milliers de tonnes)",
+      "ind_id": 2034,
+      "T2_unit": "KT",
+      "T2_unit_label":"Milliers de tonnes"
+    },
+    {
+      "T2_code": "T2_CONSO_BOIS_T",
+      "T2_label": "Consommation de bois et sous-produit du bois (en milliers de tonnes)",
+      "ind_id": 2035,
+      "T2_unit": "KT",
+      "T2_unit_label":"Milliers de tonnes"
+    },
+    {
+      "T2_code": "T2_VALEUR_BOIS_EUR",
+      "T2_label": "Valeur des achats de bois (en millions d'euros)",
+      "ind_id": 2036,
+      "T2_unit": "M€",
+      "T2_unit_label":"Millions d'euros"
+    },
+    {
+      "T2_code": "T2_PRIX_BOIS_EUR-T",
+      "T2_label": "Prix moyen annuel du bois (en €/t)",
+      "ind_id": 2037,
+      "T2_unit": "€/T",
+      "T2_unit_label":"Euros par tonne"
+    },
+    {
+      "T2_code": "T2_ACHAT_VAPEUR_T",
+      "T2_label": "Vapeur achetée (en milliers de tonnes)",
+      "ind_id": 2038,
+      "T2_unit": "KT",
+      "T2_unit_label":"Milliers de tonnes"
+    },
+    {
+      "T2_code": "T2_VALEUR_VAPEUR_EUR",
+      "T2_label": "Valeur des achats de vapeur (en millions d'euros)",
+      "ind_id": 2039,
+      "T2_unit": "M€",
+      "T2_unit_label":"Milliers d'euros"
+    },
+    {
+      "T2_code": "T2_PRIX_VAPEUR_EUR-T",
+      "T2_label": "Prix moyen annuel de la vapeur (en €/t)",
+      "ind_id": 2040,
+      "T2_unit": "€/T",
+      "T2_unit_label":"Euros par tonne"
+    },
+    {
+      "T2_code": "T2_ACHAT_HYDRO_T",
+      "T2_label": "Quantités achetées d’hydrogène (en milliers de tonnes)",
+      "ind_id": 2041,
+      "T2_unit": "KT",
+      "T2_unit_label":"Milliers de tonnes"
+    },
+    {
+      "T2_code": "T2_CONSO_HYDRO_T",
+      "T2_label": "Consommation d’hydrogène (en milliers de tonnes)",
+      "ind_id": 2042,
+      "T2_unit": "KT",
+      "T2_unit_label":"Milliers de tonnes"
+    },
+    {
+      "T2_code": "T2_AUTOPROD_HYDRO_T",
+      "T2_label": "Quantité d’hydrogène autoproduite (en milliers de tonnes)",
+      "ind_id": 2043,
+      "T2_unit": "KT",
+      "T2_unit_label":"Milliers de tonnes"
+    },
+    {
+      "T2_code": "T2_VALEUR_HYDRO_EUR",
+      "T2_label": "Valeur des achats d’hydrogène (en millions d'euros)",
+      "ind_id": 2044,
+      "T2_unit": "K€",
+      "T2_unit_label":"Milliers d'euros"
+    },
+    {
+      "T2_code": "T2_PRIX_HYDRO_EUR-T",
+      "T2_label": "Prix moyen annuel d’hydrogène (en €/t)",
+      "ind_id": 2045,
+      "T2_unit": "€/T",
+      "T2_unit_label":"Euros par tonne"
+    },
+    {
+      "T2_code": "T2_AUTOPROD-CONSO_HYDRO_T",
+      "T2_label": "Quantité d’hydrogène autoproduite et consommée (en milliers de tonnes)",
+      "ind_id": 2046,
+      "T2_unit": "KT",
+      "T2_unit_label":"Milliers de tonnes"
+    },
+    {
+      "T2_code": "T2_AUTOPROD-VENDUE_HYDRO_T",
+      "T2_label": "Quantité d’hydrogène autoproduite et vendue (en milliers de tonnes)",
+      "ind_id": 2047,
+      "T2_unit": "KT",
+      "T2_unit_label":"Milliers de tonnes"
+    },
+    {
+      "T2_code": "T2_ACHAT_ELEC_GWH",
+      "T2_label": "Électricité achetée (en GWh)",
+      "ind_id": 2048,
+      "T2_unit": "GWh",
+      "T2_unit_label":"Gigawattheure"
+    },
+    {
+      "T2_code": "T2_CONSO_ELEC_GWH",
+      "T2_label": "T2 Consommation d’électricité (en GWh)",
+      "ind_id": 2049,
+      "T2_unit": "GWh",
+      "T2_unit_label":"Gigawattheure"
+    },
+    {
+      "T2_code": "T2_AUTOPROD_ELEC_GWH",
+      "T2_label": "Électricité autoproduite (en GWh)",
+      "ind_id": 2050,
+      "T2_unit": "GWh",
+      "T2_unit_label":"Gigawattheure"
+    },
+    {
+      "T2_code": "T2_VALEUR_ELEC_EUR",
+      "T2_label": "Valeur des achats d'électricité (en millions d'euros)",
+      "ind_id": 2051,
+      "T2_unit": "M€",
+      "T2_unit_label":"Millions d'euros"
+    },
+    {
+      "T2_code": "T2_PRIX_ELEC_EUR-MWH",
+      "T2_label": "Prix moyen annuel de l’électricité (en €/MWh)",
+      "ind_id": 2052,
+      "T2_unit": "€/MWh",
+      "T2_unit_label":"Euros par meggawattheure"
+    }
+  ],
+  "T3": [
+    {
+      "T3_code": "T3_USAGE_GAZ_FAB",
+      "T3_label": "Quantités de gaz consommées pour la fabrication",
+      "ind_id": 3001,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_USAGE_GAZ_MAT-PREM",
+      "T3_label": "Quantités de gaz consommées en tant que matières premières",
+      "ind_id": 3002,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_USAGE_GAZ_PROD-ELEC",
+      "T3_label": "Quantités de gaz consommées pour la production d’électricité",
+      "ind_id": 3003,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_USAGE_GAZ_CHAUFF",
+      "T3_label": "Quantités de gaz consommées pour le chauffage ou un autre usage",
+      "ind_id": 3004,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_USAGE_GAZ_MOBILITE",
+      "T3_label": "Quantités de gaz consommées pour la mobilité sur site",
+      "ind_id": 3005,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_TOTAL_GAZ_CONSO",
+      "T3_label": "Quantités de gaz naturel et autres gaz consommées",
+      "ind_id": 3006,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_USAGE_FIOUL-DOM_FAB",
+      "T3_label": "Quantités de fioul domestique consommées pour la fabrication",
+      "ind_id": 3007,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_USAGE_FIOUL-DOM_MAT-PREM",
+      "T3_label": "Quantités de fioul domestique consommées en tant que matières premières",
+      "ind_id": 3008,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_USAGE_FIOUL-DOM_PROD-ELEC",
+      "T3_label": "Quantités de fioul domestique consommées pour la production d’électricité",
+      "ind_id": 3009,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_USAGE_FIOUL-DOM_CHAUFF",
+      "T3_label": "Quantités de fioul domestique consommées pour le chauffage ou un autre usage",
+      "ind_id": 3010,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_TOTAL_FIOUL-DOM_CONSO",
+      "T3_label": "Quantités de fioul domestique consommées",
+      "ind_id": 3011,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_USAGE_GNR_FAB",
+      "T3_label": "Quantités de gazole non routier consommées pour la fabrication",
+      "ind_id": 3012,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_USAGE_GNR_MAT-PREM",
+      "T3_label": "Quantités de gazole non routier consommées en tant que matières premières",
+      "ind_id": 3013,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_USAGE_GNR_PROD-ELEC",
+      "T3_label": "Quantités de gazole non routier consommées pour la production d’électricité",
+      "ind_id": 3014,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_USAGE_GNR_CHAUFF",
+      "T3_label": "Quantités de gazole non routier consommées pour le chauffage ou un autre usage",
+      "ind_id": 3015,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_USAGE_GNR_MOBILITE",
+      "T3_label": "Quantités de gazole non routier consommées pour la mobilité sur site",
+      "ind_id": 3016,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_TOTAL_GNR_CONSO",
+      "T3_label": "Quantités de gazole non routier consommées",
+      "ind_id": 3017,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_USAGE_HYDRO_MAT-PREM",
+      "T3_label": "Quantités d’hydrogène consommées en tant que matières premières",
+      "ind_id": 3018,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_USAGE_HYDRO_COMB",
+      "T3_label": "Quantités d’hydrogène utilisées pour la combustion (hors production d’électricité)",
+      "ind_id": 3019,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_USAGE_HYDRO_PROD-ELEC",
+      "T3_label": "Quantités d’hydrogène utilisées pour la production d’électricité",
+      "ind_id": 3020,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_USAGE_HYDRO_CHAUFF",
+      "T3_label": "Quantités d’hydrogène utilisées pour le chauffage ou un autre usage",
+      "ind_id": 3021,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_USAGE_HYDRO_MOBILITE",
+      "T3_label": "Quantités d’hydrogène utilisées pour la mobilité sur site",
+      "ind_id": 3022,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    },
+    {
+      "T3_code": "T3_TOTAL_HYDRO_CONSO",
+      "T3_label": "Quantités d’hydrogène consommées",
+      "ind_id": 3023,
+      "T3_unit": "kTEP",
+      "T3_unit_label":"Milliers de tonnes-équivalent-pétrole"
+    }
+  ],
+  "T4": [
+    {
+      "T4_code": "T4_PROD_ELEC_THERM",
+      "T4_label": "Électricité produite d’origine thermique",
+      "ind_id": 4001,
+      "T4_unit": "GWh",
+      "T4_unit_label":"Gigawattheure"
+    },
+    {
+      "T4_code": "T4_PROD_ELEC_NON-THERM",
+      "T4_label": "Production d’électricité d’origine non thermique",
+      "ind_id": 4002,
+      "T4_unit": "GWh",
+      "T4_unit_label":"Gigawattheure"
+    },
+    {
+      "T4_code": "T4_TOTAL_ELEC_AUTOPROD",
+      "T4_label": "Électricité autoproduite",
+      "ind_id": 4003,
+      "T4_unit": "GWh",
+      "T4_unit_label":"Gigawattheure"
+    },
+    {
+      "T4_code": "T4_VENTE_ELEC_PROD",
+      "T4_label": "Électricité produite et vendue",
+      "ind_id": 4004,
+      "T4_unit": "GWh",
+      "T4_unit_label":"Gigawattheure"
+    },
+    {
+      "T4_code": "T4_CONSO_ELEC_PROD",
+      "T4_label": "Quantité d’électricité produite et consommée",
+      "ind_id": 4005,
+      "T4_unit": "GWh",
+      "T4_unit_label":"Gigawattheure"
+    },
+    {
+      "T4_code": "T4_ACHAT_ELEC",
+      "T4_label": "Électricité achetée",
+      "ind_id": 4006,
+      "T4_unit": "GWh",
+      "T4_unit_label":"Gigawattheure"
+    },
+    {
+      "T4_code": "T4_TOTAL_ELEC_CONSO",
+      "T4_label": "T4 Consommation d’électricité T4",
+      "ind_id": 4007,
+      "T4_unit": "GWh",
+      "T4_unit_label":"Gigawattheure"
+    },
+    {
+      "T4_code": "T4_USAGE_ELEC_FORCE-MOT",
+      "T4_label": "Électricité : usage force motrice",
+      "ind_id": 4008,
+      "T4_unit": "GWh",
+      "T4_unit_label":"Gigawattheure"
+    },
+    {
+      "T4_code": "T4_USAGE_ELEC_THERM",
+      "T4_label": "Électricité : usages thermiques, y compris production de froid",
+      "ind_id": 4009,
+      "T4_unit": "GWh",
+      "T4_unit_label":"Gigawattheure"
+    },
+    {
+      "T4_code": "T4_USAGE_ELEC_ELECTROLYSE",
+      "T4_label": "Électricité : usage électrolyse",
+      "ind_id": 4010,
+      "T4_unit": "GWh",
+      "T4_unit_label":"Gigawattheure"
+    },
+    {
+      "T4_code": "T4_USAGE_ELEC_CHAUFF-LOC",
+      "T4_label": "Électricité : usage chauffage des locaux et autres",
+      "ind_id": 4011,
+      "T4_unit": "GWh",
+      "T4_unit_label":"Gigawattheure"
+    },
+    {
+      "T4_code": "T4_USAGE_ELEC_THERMODYN",
+      "T4_label": "Électricité : usages thermodynamiques hors chauffage des locaux",
+      "ind_id": 4012,
+      "T4_unit": "GWh",
+      "T4_unit_label":"Gigawattheure"
+    },
+    {
+      "T4_code": "T4_USAGE_ELEC_ECLAIRAGE",
+      "T4_label": "Électricité : usage éclairage",
+      "ind_id": 4013,
+      "T4_unit": "GWh",
+      "T4_unit_label":"Gigawattheure"
+    },
+    {
+      "T4_code": "T4_USAGE_ELEC_MOBILITE",
+      "T4_label": "Électricité : usage mobilité sur site",
+      "ind_id": 4014,
+      "T4_unit": "GWh",
+      "T4_unit_label":"Gigawattheure"
+    }
+  ]
+}

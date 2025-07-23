@@ -1,0 +1,15 @@
+﻿reg_code,reg_label,Nombre d’établissements,Consommation de combustibles minéraux solides,Consommation de gaz naturel et autres gaz,Consommation de biogaz et biométhane,Consommation de coke de pétrole,Consommation de butane-propane,Consommation de fioul lourd,Consommation de fioul domestique,Consommation de gazole non routier,Consommation de combustibles usuels,Consommation d’autres produits pétroliers,Consommation de liqueur noire,Consommation de bois et sous-produit du bois,Consommation d’hydrogène,Consommation de combustibles spéciaux renouvelables,Consommation de combustibles spéciaux non renouvelables,Consommation autres combustibles,Vapeur consommée,T1 Consommation d’électricité T1,Total brut de la consommation,Vapeur vendue,Consommation de combustibles pour la production d’électricité,Total net de la consommation
+ARA,Auvergne-Rhône-Alpes,3606,185.8,1242.8,4.9,156.2,177.2,20.9,17.8,21.6,1822.3,8.9,0,43,6,19.8,,139.4,276.1,,3847.7,,,3804.2
+BFC,Bourgogne-Franche-Comté,1328,15.4,453,4.6,0,,,,5.6,711.6,9.5,0,48.8,,7.1,,112,121.1,,1414.1,,,1409.9
+BRE,Bretagne,1242,0,427.1,,0,23.7,4.5,5.4,7.0,467.7,0,,,0,0,,17,50.1,,917.3,,,912
+CVL,Centre-Val de Loire,1062,28,395.8,,29.3,11.7,,,3.2,477.0,33.1,0,,0.3,,,,,,851.6,0,53.5,797.7
+DOM,Départements d’Outre-mer,304,0,10.4,7,0,0.7,3.3,7.1,27.0,48.5,1.8,0,0,0,4,,5.8,86.8,,192.5,0,,
+FRA,France,20495,5006.4,10550.9,52.3,581.5,2336.2,321.5,114.5,186.8,19097.7,1537,,936.6,303.8,,,4141.5,1939.7,,34630.4,427.6,687,33495.1
+GRE,Grand Est,2017,566.9,2136.8,13.7,69.7,20,1.6,14.7,28.6,2838.3,,0,302.2,,113.5,,582,206.3,,5105.3,88.5,112,4902.6
+HDF,Hauts-de-France,2028,,2114,8.6,,,6.5,12.7,18.5,5177.1,,0,,4.8,,,383.4,209.2,,7572.3,18.3,156,7397.6
+IDF,Ile-de-France,1702,24.5,595.8,1.1,,4.1,,3.3,9.3,638.2,0,0,,1.4,1.7,,,,,1035.2,,,1026.5
+NOA,Nouvelle-Aquitaine,1922,79.3,560,,,21.7,29.6,,25.2,744.3,10.5,503.6,274.5,0.8,25.4,,831.8,329.9,,2623.2,,,2264.9
+NOR,Normandie,1235,14.7,,1.2,,,6.2,5.5,8.3,1813.3,750.7,0,95.1,,,,888,226.6,,3568.7,10.7,80.4,3477.6
+OCC,Occitanie,1398,,,,57.6,13,3.5,4.6,13.5,442.9,0,,56.6,0.1,,,264.7,47.9,,1185.2,0,3.6,1181.7
+PAC,Provence-Alpes-Côte d'Azur,818,,,0,59.2,1168.8,,14,9.1,3466.5,421.6,,,172.4,12.8,,753.4,318.3,,5257.4,166.8,9.4,5081.2
+PAL,Pays de la Loire,1833,,370.1,1.6,,19.9,6.1,9.4,9.9,450.1,,0,,,,,99.9,51.8,,1060.0,0,,
