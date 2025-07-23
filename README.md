@@ -93,7 +93,7 @@ The project is structured as a sequential pipeline, with scripts organized into 
 
 ## 6. Current Status & Next Steps
 
-- [ ] Phase 1: Standardize all 156 raw CSV files
-- [ ] Phase 2: Generate all dimension tables
-- [ ] Phase 3: Build the final fact table
+- [:heavy_check_mark:] Phase 1: Standardize all 156 raw CSV files
+- [:heavy_check_mark:] Phase 2: Generate all dimension tables
+- [:heavy_check_mark:] Phase 3: Build the final fact table
 - [ ] Phase 4: Design and build the interactive dashboard
