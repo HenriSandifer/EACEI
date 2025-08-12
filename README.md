@@ -2,7 +2,11 @@
 
 **Author**: Henri Sandifer
 
-**Status**: In Progress 🚧
+---
+
+**Power BI Dashboard**: 
+
+**Link**: [\[Power BI Dashboard\]](https://app.powerbi.com/view?r=eyJrIjoiZTE4YjVhMjctZjFmZS00YjRjLThlOTctNDAyOGI0ZTNiNGNiIiwidCI6ImJlOTNmMTc4LTA5NjQtNDcwOS1hMDZjLTY4ZThhZjBhODM1NSJ9&pageName=f779d68dcac6fc795d20)
 
 ---
 
@@ -11,7 +15,7 @@
 This project aims to analyze the annual survey on energy consumption in French industry (_Enquête Annuelle sur la Consommation d'Énergie dans l'Industrie_ - **EACEI**), published by INSEE.  
 The primary goal is to build a robust, end-to-end data pipeline to clean, transform, and model over a decade's worth of data (2010–2023).
 
-The final output will be a clean, relational database and an interactive dashboard designed to explore trends in energy consumption across different industrial sectors, regions, and company sizes.
+The final output is a clean, relational database (star schema) and an interactive dashboard designed to explore trends in energy consumption across different industrial sectors, regions, and company sizes.
 
 This project demonstrates skills in:
 
