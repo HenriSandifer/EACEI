@@ -45,10 +45,10 @@ This separates the core measurements (facts) from their descriptive attributes (
 
 - **Dimension Tables**:
   - `dim_naf`
-  - `dim_region`
+  - `dim_reg`
   - `dim_teff`
-  - `dim_indicateur`
-  - `dim_annee`
+  - `dim_ind`
+  - `dim_year`
 
 ---
 
@@ -85,17 +85,17 @@ The project is structured as a sequential pipeline, with scripts organized into 
 
 ## 5. Tools & Technologies
 
-- **Language**: Python 3.x
+- **Language**: Python 3.13
 - **Libraries**: Pandas, NumPy
-- **Database**: SQLite / PostgreSQL (planned)
-- **Visualization**: Power BI / Tableau / Streamlit
+- **Database**: MySQL, Star-schema
+- **Visualization**: Power BI
 - **Version Control**: Git & GitHub
 
 ---
 
 ## 6. Current Status & Next Steps
 
-- [✔️] Phase 1: Standardize all 156 raw CSV files
+- [✔️] Phase 1: Standardize all 164 raw CSV files
 - [✔️] Phase 2: Generate all dimension tables
 - [✔️] Phase 3: Build the final fact table
-- [ ] Phase 4: Design and build the interactive dashboard
+- [✔️] Phase 4: Design and build the interactive dashboard
